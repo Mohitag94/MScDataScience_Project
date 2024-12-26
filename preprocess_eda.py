@@ -12,16 +12,16 @@ The module has also the read function to read the data from the local drive.
 
 
 # importing packages...
+import json
+import string
+import os
+import re
 from sklearn.preprocessing import OneHotEncoder
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import contractions
-import json
-import string
-import re
-import os
 
 # nltk packages...
 import nltk
@@ -66,7 +66,7 @@ def read_data(path=DATA_PATH):
     """
 
     # loading the data
-    with open(path) as data:
+    with open(path, encoding="utf-8") as data:
         clinc150_small = json.load(data)
     # loading training, validation and testing sets from the file..
     # training data
@@ -79,9 +79,42 @@ def read_data(path=DATA_PATH):
     test_data = pd.DataFrame(clinc150_small["test"],
                              columns=["Query", "Intent"])
     # number of classes
-    class_length = len(train_df.iloc[:, 1].unique())
+    class_length = len(train_data.iloc[:, 1].unique())
 
     return train_data, val_data, test_data, class_length
+
+
+def records_per_set(train, val, test, title):
+    """finding number of records in each set of data, 
+    also produces a pie plot 
+
+    Args:
+        train: traing dataset 
+        val: validation dataset
+        test: testing dataset
+        title: title for pie chart
+    """
+
+    # looking at the length of training data
+    print("The length of the training data: ",
+          len(train))
+    # looking at the length of testing data
+    print("The length of the testing data: ",
+          len(test))
+    # looking at the length of validation data
+    print("The length of the validation data: ",
+          len(val))
+
+    # creating a dataframe with counts of each set
+    data = pd.DataFrame.from_dict({"Training": len(train),
+                                   "Validation": len(val),
+                                   "Testing": len(test)},
+                                  orient="index").rename(columns={0: "Counts"})
+    # ploting and saving
+    ax = data.plot(kind="pie", y="Counts", ylabel="Data Split",
+                   figsize=(8, 8), title=f"{title}",
+                   autopct="%1.1f%%")
+    ax.figure.savefig(os.path.join(PATH, f"{title}_ratios.png"))
 
 
 class pre_process():
@@ -89,7 +122,7 @@ class pre_process():
     """
 
     def __init__(self, data):
-        """initializing the parameters for the augmentation
+        """initializing the parameters for preprocessing
 
          Args:
             data: data to be preprocessed
@@ -140,13 +173,18 @@ class pre_process():
         return self.x_data
 
     def encode_class(self):
-        return ohe.transform(self.y_data).toarray()
+        """encodes the classes to one-hot format
 
-    # def domain_map(self, domain=domians):
+        Returns:
+            encoded classes 
+        """
+
+        return ohe.transform(self.y_data).toarray()
 
 
 class eda():
-    """exploring the data"""
+    """exploring the data
+    """
 
     def __init__(self, data, path=PATH):
         """initializing the parameters for the augmentation
@@ -181,7 +219,7 @@ class eda():
         """checking number of records per class
 
         Returns:
-            count aggregated per class dataframe 
+            counts aggregated per class dataframe 
         """
 
         return self.data.groupby(by="Intent").agg({"Query": "count"})
@@ -265,7 +303,7 @@ class eda():
 
         plt.show()
 
-    def word_freq_per_class(self):
+    def word_freq_per_class(self, title):
         """counts the frequency of words per class
 
         Returns:
@@ -280,26 +318,33 @@ class eda():
         word_freqs_all_class = {}
 
         # accumulating all the record per class
-        data = self.data.groupby(by="Intent").agg({"Query": "sum"})
+        data = self.data.groupby(by="Intent").agg({"Query": " ".join})
+        print("\n[INFO] Creating 20 Highest Frequency Words for all Classes...")
         # creating frequency dict and ploting top 20 per class
         for i, index in enumerate(data.index):
             word_freq = FreqDist(word_tokenize(data.iloc[i, 0]))
             # apending the frequency to dict
             word_freqs_all_class[index] = word_freq
             ax = word_freq.plot(20, cumulative=False, show=False)
-            ax.set_xlabel("Words")
-            ax.set_title(f"20 Highest Words Frequency for {index}")
+            ax.set_xlabel("Words", fontweight="bold")
+            ax.set_ylabel("Counts", fontweight="bold")
+            ax.set_title(f"20 Highest Words Frequency for {index} - {title}", 
+                         fontweight="bold")
             ax.legend(["Counts"])
-            ax.figure.savefig(os.path.join(self.path,
-                                           f"Word_Frequency/{index}_20_highest_words_before_preprocess.png"))
+            ax.figure.savefig(os.path.join(
+                self.path, f"Word_Frequency/{index}_{title}_20_highest_words_bf_preprocess.png"),
+                bbox_inches="tight")
+            ax.clear()
+            plt.close()
+        print("\tCreated & Saved.")
 
         return word_freqs_all_class
 
-    def word_cloud_per_class(self):
+    def word_cloud_per_class(self, title):
         """counts the frequency of words per class
 
         Returns:
-            nltk frequency dict for all class
+            dict of wordcloud per class
         """
 
         # checking for word_cloud directory, if not exists then create
@@ -310,15 +355,37 @@ class eda():
         word_cloud_all_class = {}
 
         # accumulating all the record per class
-        data = self.data.groupby(by="Intent").agg({"Query": "sum"})
-        # creating word_could and ploting top 20 per class
+        data = self.data.groupby(by="Intent").agg({"Query": " ".join})
+        print("\n[INFO] Creating WordCloud for all classes...")
+        # creating word_could and ploting
         for i, index in enumerate(data.index):
-            word_cloud =
-# one function with number of records per set
+            wordcloud = WordCloud(max_words=150,
+                                  max_font_size=30,
+                                  scale=3,
+                                  stopwords=STOPSWORD_ENG,
+                                  random_state=1,
+                                  colormap="Dark2").generate_from_text(data.iloc[i, 0])
+            # appending the word_cloud to the dict
+            word_cloud_all_class[index] = wordcloud
+
+            plt.figure(figsize=(12, 10))
+            plt.imshow(wordcloud, interpolation='bilinear')
+            plt.axis("off")
+            plt.title(f"WordCloud for {index} Class - {title}",
+                      fontweight="bold", fontsize=18)
+            plt.savefig(os.path.join(
+                self.path, f"Word_Cloud/{index}_{title}_wordcould.png"),
+                bbox_inches="tight")
+
+            plt.clf()
+            plt.close()
+        print("\tCreated & Saved.")
+        return word_cloud_all_class
 
 
 # getting the data
 train_df, val_df, test_df, num_intent = read_data()
 
 # fitting the encoder to the train's traget
-ohe.fit(train_df.loc["Intent"])
+ohe.fit(train_df[["Intent"]])
+# End-of-file (EOF)
