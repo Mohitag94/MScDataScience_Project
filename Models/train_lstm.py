@@ -6,6 +6,7 @@ and precesion graphs for validation and training."""
 # importing os package
 import os
 import tensorflow as tf
+import matplotlib.pyplot as plt
 import lstm
 
 
@@ -184,7 +185,7 @@ def convo_lstm_model(embedding_seq_length,
                               lstm_units=lstm_units,
                               lstm_rate=lstm_rate,
                               lstm_activation=lstm_activation)
-    
+
     # single lstm model compiling
     model.compile(optimizer=optimizer_dict[optimizer],
                   loss=tf.keras.losses.CategoricalCrossentropy(),
@@ -240,3 +241,24 @@ def model_history(x, y,
                         callbacks=[checkpoint, csvlog])
 
     return history
+
+
+def plot(history, title, path):
+    """plots line graphs for a trained model and 
+    saves them in the given location"""
+
+    # metrics used
+    metrics = ["accuracy", "f1-score", "loss", "precision"]
+
+    # looping over metrics and plotting each one
+    for metric in metrics:
+        plt.plot(history.history[metric])
+        plt.plot(history.history[f"val_{metric}"])
+        plt.legend(["Training", "Validation"])
+        plt.title(f"{title} - {metric.capitalize()}")
+        plt.xlabel("Epochs")
+        plt.ylabel(metric.capitalize())
+        plt.show()
+        plt.savefig(os.path.join(path, f"{title}-{metric}.png"))
+        plt.clf()
+# End-of-file (EOF)
