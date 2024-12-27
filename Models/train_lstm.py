@@ -141,7 +141,8 @@ def convo_lstm_model(embedding_seq_length,
                      lr,
                      num_class,
                      vocab_size,
-                     textvector_layer):
+                     textvector_layer,
+                     kernel_size=2):
     """builds the convo-lstm model with
     given parameter
 
@@ -182,6 +183,7 @@ def convo_lstm_model(embedding_seq_length,
     model = models.convo_lstm(convo_filters=convo_filters,
                               convo_rate=convo_rate,
                               convo_activation=convo_activation,
+                              kernel_size=kernel_size,
                               lstm_units=lstm_units,
                               lstm_rate=lstm_rate,
                               lstm_activation=lstm_activation)
