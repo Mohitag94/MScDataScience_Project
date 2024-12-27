@@ -249,8 +249,10 @@ class augment_data(eda):
             augment_queries = []
             # note - not augmenting labels, just to keep track
             augment_labels = []
-            # keeping tack of queires
+            # keeping track of queires
             original_queries = []
+            # keeping track of methods
+            methods = []
             # augmenting data for each records
             for i, query in enumerate(queries):
                 for _ in range(size):
@@ -258,6 +260,7 @@ class augment_data(eda):
                     original_queries.append(query)
                     # randomly selecting one method
                     method = random.choice(self.eda_methods)
+                    methods.append(method)
                     n = random.randint(0, len(query)-1)
                     if method == "SR":
                         augment_queries.append(super().eda_SR(query, n))
@@ -273,6 +276,7 @@ class augment_data(eda):
             pd.DataFrame(
                 {"Original Query": original_queries,
                  "Augmented Query": augment_queries,
+                 "Method": methods,
                  "Intent": augment_labels}).\
                 to_csv(os.path.join(self.augment_path,
                                     f"eda_augmented_data_with_original_size_{size}.csv"))
