@@ -248,7 +248,7 @@ def plot(history, title, path):
     saves them in the given location"""
 
     # metrics used
-    metrics = ["accuracy", "f1-score", "loss", "precision"]
+    metrics = ["accuracy", "f1_score", "loss", "precision"]
 
     # looping over metrics and plotting each one
     for metric in metrics:
