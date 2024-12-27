@@ -249,10 +249,13 @@ class augment_data(eda):
             augment_queries = []
             # note - not augmenting labels, just to keep track
             augment_labels = []
+            # keeping tack of queires
+            original_queries = []
             # augmenting data for each records
             for i, query in enumerate(queries):
                 for _ in range(size):
                     augment_labels.append(labels[i])
+                    original_queries.append(query)
                     # randomly selecting one method
                     method = random.choice(self.eda_methods)
                     n = random.randint(0, len(query)-1)
@@ -267,6 +270,12 @@ class augment_data(eda):
                         augment_queries.append(super().eda_RS(query, n))
             print("\t Augmented.")
             print("[INFO] Saving the augmented data to disk...")
+            pd.DataFrame(
+                {"Original Query": original_queries,
+                 "Augmented Query": augment_queries,
+                 "Intent": augment_labels}).\
+                to_csv(os.path.join(self.augment_path,
+                                    f"eda_augmented_data_with_original_size_{size}.csv"))
             pd.DataFrame(
                 {"Query": augment_queries,
                  "Intent": augment_labels}).\
