@@ -258,7 +258,7 @@ def plot(history, title, path):
         plt.title(f"{title} - {metric.capitalize()}")
         plt.xlabel("Epochs")
         plt.ylabel(metric.capitalize())
-        plt.show()
         plt.savefig(os.path.join(path, f"{title}-{metric}.png"))
+        plt.show()
         plt.clf()
 # End-of-file (EOF)
