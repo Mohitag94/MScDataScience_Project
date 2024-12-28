@@ -56,7 +56,8 @@ class back_translate():
         translated_text = GoogleTranslator(source="en",
                                            target=traget).translate_batch(original_text)
 
-        return GoogleTranslator(source=traget, target="en").translate_batch(translated_text)
+        return GoogleTranslator(source=traget,
+                                target="en").translate_batch(translated_text), translated_text
 
     def augment(self):
         """
