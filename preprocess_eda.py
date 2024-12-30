@@ -384,10 +384,10 @@ class eda():
             plt.close()
         print("\tCreated & Saved.")
         return word_cloud_all_class
-    
+
     def vocabulary(self):
         """counts the unique number of words
-        
+
         Return:
             number of unique words"""
 
