@@ -50,7 +50,7 @@
 48,do a websearch for direct deposit set up,faire une recherche sur le Web pour configurer le dépôt direct,search the web to set up direct deposit,direct_deposit
 49,what are the steps for setting up direct deposit,quelles sont les étapes pour mettre en place un dépôt direct,What are the steps to set up direct deposit?,direct_deposit
 50,what am i allowed to carry on for american airlines,Qu'ai-je le droit de transporter avec moi sur American Airlines ?,What am I allowed to carry with me on American Airlines?,carry_on
-51,what are the carry on rules for united,Quelles sont les règles de transport pour United,What are the rules of transportation for United?,carry_on
+51,what are the carry on rules for united,Quelles sont les règles de transport pour United,What are the transportation rules for United?,carry_on
 52,what can't i carry-on to delta,Qu'est-ce que je ne peux pas emporter avec moi à bord du Delta ?,What can't I take with me on board the Delta?,carry_on
 53,tell me united's carry on policy,Parlez-moi de la politique de continuation de United,Tell me about United's continuation policy,carry_on
 54,what is the carry on limit,quelle est la limite de bagages à main,what is the carry-on baggage limit,carry_on
@@ -65,7 +65,7 @@
 63,do i have to pay for carry-ons on delta,Dois-je payer pour les bagages à main sur Delta ?,Do I have to pay for carry-on baggage on Delta?,carry_on
 64,"if i take a flight on pan am to denver, how many carry ons are included","Si je prends un vol Pan Am à destination de Denver, combien de bagages à main sont inclus ?","If I take a Pan Am flight to Denver, how much carry-on baggage is included?",carry_on
 65,how many bags can i carry-on for flights on singapore airlines,Combien de bagages puis-je emporter avec moi pour les vols avec Singapore Airlines ?,How much baggage can I take with me on flights with Singapore Airlines?,carry_on
-66,how many carry ons can i take on a flight with american airlines to seattle,Combien de bagages à main puis-je emporter sur un vol avec American Airlines à destination de Seattle,How much carry-on baggage can I take on an American Airlines flight to Seattle?,carry_on
+66,how many carry ons can i take on a flight with american airlines to seattle,Combien de bagages à main puis-je emporter sur un vol avec American Airlines à destination de Seattle ?,How much carry-on baggage can I take on an American Airlines flight to Seattle?,carry_on
 67,"when taking a flight with porter to toronto, how many carry ons can i take","Lorsque je prends un vol avec Porter à destination de Toronto, combien de bagages à main puis-je emporter ?","When flying with Porter to Toronto, how much carry-on baggage can I take?",carry_on
 68,"on a flight with allegiant to orlando, how many carry ons can i take","sur un vol avec Allegiant à destination d'Orlando, combien de bagages à main puis-je emporter","On an Allegiant flight to Orlando, how much carry-on baggage can I take?",carry_on
 69,would you let me know the carry-on restrictions for american airlines,Pourriez-vous me faire savoir les restrictions concernant les bagages à main pour les compagnies aériennes américaines,Could you please let me know the carry-on baggage restrictions for US airlines?,carry_on
@@ -90,15 +90,15 @@
 88,would you let me know how many carry ons i can take on a flight with southwest airlines to miami,Pourriez-vous me dire combien de bagages à main je peux emporter sur un vol avec southwest airlines à destination de Miami,Could you please tell me how much carry-on baggage I can take on a southwest airlines flight to Miami,carry_on
 89,is there a carry on weight limit,y a-t-il une limite de poids pour les bagages à main ?,Is there a weight limit for carry-on baggage?,carry_on
 90,please find the rules for carry on when flying with spirit airlines,Veuillez trouver ci-dessous les règles concernant les bagages à main lorsque vous voyagez avec Spirit Airlines,Please find below the rules regarding carry-on baggage when traveling with Spirit Airlines.,carry_on
-91,what are the carry-on restrictions for southwest airlines,Quelles sont les restrictions de cabine pour Southwest Airlines,What are the cabin restrictions for Southwest Airlines?,carry_on
+91,what are the carry-on restrictions for southwest airlines,Quelles sont les restrictions en matière de bagages à main pour les compagnies aériennes du sud-ouest,What are the carry-on baggage restrictions for Southwest Airlines?,carry_on
 92,how my carry ons does spirit airlines allow me for a flight to dallas,comment mes bagages à main Spirit Airlines m'autorise-t-il pour un vol à destination de Dallas,How does Spirit Airlines allow my carry-on baggage for a flight to Dallas?,carry_on
-93,can you tell me jet blue airlines' carry on policy,Pouvez-vous me dire la politique de Jet Blue Airlines concernant les bagages à main ?,Can you tell me Jet Blue Airlines' carry-on baggage policy?,carry_on
+93,can you tell me jet blue airlines' carry on policy,Pouvez-vous me dire la politique de Jet Blue Airlines concernant les bagages à main,Can you tell me Jet Blue Airlines' policy regarding carry-on baggage?,carry_on
 94,what is the carry-on policy say for flights on delta airlines,Quelle est la politique relative aux bagages à main pour les vols sur Delta Airlines,What is the carry-on baggage policy for flights on Delta Airlines?,carry_on
 95,search for carry on rules for flights on delta airlines,rechercher les règles relatives aux bagages à main pour les vols sur Delta Airlines,Find carry-on baggage rules for flights on Delta Airlines,carry_on
 96,carry-on restrictions for air emirates,restrictions sur les bagages à main pour les vols Emirates,Hand baggage restrictions for Emirates flights,carry_on
 97,which rules does delta have for carry on,Quelles sont les règles de Delta concernant les bagages à main ?,What are Delta's carry-on baggage rules?,carry_on
 98,tell me the carry-on restrictions for united airlines,dites-moi les restrictions concernant les bagages à main pour United Airlines,tell me the carry-on baggage restrictions for United Airlines,carry_on
-99,let me know the rules for carry ons for continental,faites-moi connaître les règles concernant les bagages à main pour les vols continentaux,let me know the rules regarding hand luggage for continental flights,carry_on
+99,let me know the rules for carry ons for continental,faites-moi connaître les règles pour les bagages à main pour les vols continentaux,let me know the rules for hand luggage for continental flights,carry_on
 100,volume to whisper voice,volume pour chuchoter la voix,volume for whispering voice,whisper_mode
 101,i want whisper mode to be switched off,je veux que le mode chuchotement soit désactivé,I want whisper mode to be turned off,whisper_mode
 102,let's switch out of whisper mode,sortons du mode chuchotement,let's get out of whisper mode,whisper_mode
@@ -140,7 +140,7 @@
 138,whisper from now on,murmure à partir de maintenant,whisper from now on,whisper_mode
 139,please speak with the whisper voice,"S'il te plaît, parle avec une voix chuchotée",Please speak in a whispered voice,whisper_mode
 140,start using whisper mode,commencer à utiliser le mode chuchotement,start using whisper mode,whisper_mode
-141,please switch to whisper mode for now,"s'il vous plaît, passez en mode chuchotement pour l'instant",please switch to whisper mode for now,whisper_mode
+141,please switch to whisper mode for now,"s'il vous plaît, passez en mode chuchotement pour le moment",please switch to whisper mode for now,whisper_mode
 142,let's use whisper voice,utilisons la voix chuchotée,let's use the whispered voice,whisper_mode
 143,6 inch voices please,Des voix de 6 pouces s'il vous plaît,6 inch voices please,whisper_mode
 144,talk in whisper voice,parler à voix basse,speak in a low voice,whisper_mode
@@ -164,7 +164,7 @@
 162,text matt and tell him i will be late tonight,Envoie un texto à Matt et dis-lui que je serai en retard ce soir,Text Matt and tell him I'll be late tonight,text
 163,text my boss for me and tell them i will be a little bit late,Envoie un message à mon patron pour moi et dis-lui que je serai un peu en retard,Send a message to my boss for me and tell him I'll be a little late,text
 164,send chris a text message that says stop for milk on your way home,envoie un message à Chris lui disant de t'arrêter pour prendre du lait sur le chemin du retour,send a message to Chris telling him to stop for milk on the way home,text
-165,i have to send a text,je dois envoyer un texto,I have to send a text,text
+165,i have to send a text,je dois envoyer un message,I have to send a message,text
 166,text my dad for me and tell them i love you,Envoie un message à mon père pour moi et dis-lui que je t'aime,Send a message to my dad for me and tell him I love you,text
 167,text josh and tell him i need a delivery,Envoie un SMS à Josh et dis-lui que j'ai besoin d'une livraison,Text Josh and tell him I need a delivery,text
 168,send a text and tell chris i’m not working today,envoie un SMS et dis à Chris que je ne travaille pas aujourd'hui,text and tell Chris I'm not working today,text
@@ -192,7 +192,7 @@
 190,give a text to my cousin linda that says happy birthday,envoie un message à ma cousine Linda qui dit joyeux anniversaire,send a message to my cousin Linda saying happy birthday,text
 191,text my mom for me and tell them i will be home soon,Envoie un message à ma mère pour moi et dis-lui que je serai bientôt à la maison.,Send a message to my mother for me and tell her I'll be home soon.,text
 192,text tony and invite him to my party next saturday,Envoie un message à Tony et invite-le à ma fête samedi prochain,Send a message to Tony and invite him to my party next Saturday,text
-193,text chris and ask what time he will be home,Envoie un SMS à Chris et demande-lui à quelle heure il sera à la maison,Text Chris and ask him what time he'll be home.,text
+193,text chris and ask what time he will be home,envoie un texto à Chris et demande-lui à quelle heure il sera à la maison,text Chris and ask him what time he'll be home,text
 194,text christy and ask her what she wants for dinner,Envoie un SMS à Christy et demande-lui ce qu'elle veut pour le dîner,Text Christy and ask her what she wants for dinner,text
 195,i have to have a text sent,je dois envoyer un SMS,I have to send a text message,text
 196,text nick and tell him the car's ready,Envoie un message à Nick et dis-lui que la voiture est prête,Send a message to Nick and tell him the car is ready,text
@@ -266,7 +266,7 @@
 264,please set the temperature to 70,veuillez régler la température à 70,please set the temperature to 70,smart_home
 265,put the garage lights on,allume les lumières du garage,turn on the garage lights,smart_home
 266,make sure all doors are locked,assurez-vous que toutes les portes sont verrouillées,make sure all doors are locked,smart_home
-267,can you please dim the lights,Peux-tu s'il te plaît baisser les lumières,Can you please dim the lights?,smart_home
+267,can you please dim the lights,Peux-tu s'il te plaît baisser les lumières ?,Can you please dim the lights?,smart_home
 268,make the lights dimmer please,"s'il vous plaît, baissez la luminosité",please turn down the brightness,smart_home
 269,what temperature is the ac set at,à quelle température est réglée la climatisation,what temperature is the air conditioning set to,smart_home
 270,can you get my car started,Peux-tu démarrer ma voiture ?,Can you start my car?,smart_home
@@ -334,7 +334,7 @@
 332,who would you say you are employed by,Par qui diriez-vous que vous travaillez ?,Who would you say you work for?,who_do_you_work_for
 333,am i the one you work for,suis-je celui pour qui tu travailles ?,am i the one you work for?,who_do_you_work_for
 334,who else do you work for,Pour qui d'autre travailles-tu ?,Who else do you work for?,who_do_you_work_for
-335,who else commands you,Qui d'autre te commande,Who else commands you?,who_do_you_work_for
+335,who else commands you,Qui d'autre te commande,Who else orders you?,who_do_you_work_for
 336,is there another company you work for,Est-ce qu'il y a une autre entreprise pour laquelle tu travailles ?,Is there another company you work for?,who_do_you_work_for
 337,who do you do task for,Pour qui fais-tu cette tâche ?,Who are you doing this task for?,who_do_you_work_for
 338,who do you function for,Pour qui travaillez-vous ?,Who do you work for?,who_do_you_work_for
@@ -352,7 +352,7 @@
 350,what is my citigroup card's rewards balance,quel est le solde des récompenses de ma carte Citigroup,what is my citigroup card rewards balance,rewards_balance
 351,how many points are on my gold card,combien de points y a-t-il sur ma carte Gold,How many points are on my Gold card?,rewards_balance
 352,where are rewards from my visa card visible,où sont visibles les récompenses de ma carte visa,where are my visa card rewards visible,rewards_balance
-353,how many points do i have on my mastercard,combien de points ai-je sur ma mastercard,how many points do i have on my mastercard,rewards_balance
+353,how many points do i have on my mastercard,Combien de points ai-je sur ma carte Mastercard,How many points do I have on my Mastercard?,rewards_balance
 354,i need to find out the rewards points i have left on my american express card,j'ai besoin de connaître les points de récompense qu'il me reste sur ma carte American Express,I need to know how much reward points I have left on my American Express card,rewards_balance
 355,what is the reward balance on my discover card,quel est le solde de récompense sur ma carte Discover,what is the reward balance on my discover card,rewards_balance
 356,what's the current reward amount on my visa,quel est le montant actuel de la récompense sur mon visa,what is the current reward amount on my visa,rewards_balance
@@ -419,7 +419,7 @@
 417,please make me a reservation for monty's at noon for 55555,s'il vous plaît faites-moi une réservation pour Monty's à midi pour 55555,please make me a reservation for Monty's at noon for 55555,restaurant_reservation
 418,please reserve me a table for 2 pm at maxwell's on the 14th,s'il vous plaît réservez-moi une table pour 14 heures chez Maxwell le 14,please book me a table for 2pm at Maxwell's on the 14th,restaurant_reservation
 419,"hey computer, make a reservation for 2 for my parents at red lobster on wednseday next, 2:00pm if possible","hé ordinateur, fais une réservation pour 2 pour mes parents au Red Lobster mercredi prochain, 14h00 si possible","hey computer, make a reservation for 2 for my parents at Red Lobster next Wednesday, 2:00pm if possible",restaurant_reservation
-420,can i make a reservation for 2 at state bird for 8:30,puis-je faire une réservation pour 2 au State Bird à 8h30,can i make a reservation for 2 at State Bird at 8:30am,restaurant_reservation
+420,can i make a reservation for 2 at state bird for 8:30,puis-je faire une réservation pour 2 au State Bird pour 8h30,can i make a reservation for 2 at State Bird for 8:30am,restaurant_reservation
 421,make me a reservation for 5 at coral for 10 pm immediately,fais-moi une réservation pour 5 au Coral pour 22h immédiatement,make me a reservation for 5 at Coral for 10pm immediately,restaurant_reservation
 422,please reserve a table for two at rouge for 7:00 pm,veuillez réserver une table pour deux au rouge pour 19h00,Please reserve a table for two at Le Rouge for 7:00 p.m.,restaurant_reservation
 423,can you get me a table for 5 at johnnys,Peux-tu me trouver une table pour 5 chez Johnny's ?,Can you find me a table for 5 at Johnny's?,restaurant_reservation
@@ -432,7 +432,7 @@
 430,can you get me a table for 1 at the vega at 1pm,Peux-tu me réserver une table pour 1 personne au Vega à 13h ?,Can you reserve me a table for 1 person at Vega at 1pm?,restaurant_reservation
 431,i need you to reserve a table for 4 at red robin under the name kevin at 7,j'ai besoin que tu réserves une table pour 4 au Red Robin sous le nom de Kevin à 19h,I need you to reserve a table for 4 at Red Robin under the name Kevin at 7pm,restaurant_reservation
 432,can you book a table at the restaurant for me and my husband,pouvez-vous réserver une table au restaurant pour moi et mon mari,can you book a table at the restaurant for me and my husband,restaurant_reservation
-433,i want you to book a reservation for 8 pm at red robin under the name kevin,je veux que tu fasses une réservation pour 20h au Red Robin sous le nom de Kevin,I want you to make a reservation for 8pm at Red Robin under the name Kevin,restaurant_reservation
+433,i want you to book a reservation for 8 pm at red robin under the name kevin,je veux que tu fasses une réservation pour 20 heures au Red Robin sous le nom de Kevin,I want you to make a reservation for 8pm at the Red Robin under the name Kevin,restaurant_reservation
 434,please book a reservation for 8 pm at red robin under the name kevin,veuillez réserver pour 20h au Red Robin sous le nom de Kevin,Please book for 8pm at Red Robin under the name Kevin,restaurant_reservation
 435,i want to reserve a table at 8 at long john silver's under the name freddie,je veux réserver une table à 20h au Long John Silver's sous le nom de Freddie,I want to reserve a table at 8pm at Long John Silver's under the name Freddie,restaurant_reservation
 436,"can i make a reservation for 2 at state bird for 7:30, please","Puis-je faire une réservation pour 2 au State Bird pour 19h30, s'il vous plaît",Can I make a reservation for 2 at State Bird for 7:30pm please?,restaurant_reservation
@@ -478,7 +478,7 @@
 476,tell my bank that i'll be in canada this weekend,dis à ma banque que je serai au Canada ce week-end,tell my bank i'll be in canada this weekend,travel_notification
 477,i'm traveling to england soon and want to inform my bank,je voyage bientôt en Angleterre et je souhaite informer ma banque,I am traveling to England soon and I want to inform my bank,travel_notification
 478,the bank should know i am going to asia soon,la banque devrait savoir que je pars bientôt en Asie,the bank should know that I am leaving for Asia soon,travel_notification
-479,"from january to august, i will be in uruguay, please let me bank know","de janvier à août, je serai en Uruguay, merci de me prévenir auprès de ma banque","From January to August I will be in Uruguay, please let me know at my bank",travel_notification
+479,"from january to august, i will be in uruguay, please let me bank know","de janvier à août, je serai en Uruguay, merci de me prévenir à la banque","From January to August I will be in Uruguay, please let me know at the bank",travel_notification
 480,let my bank know that i'm going to norway between march 3 and march 5,informez ma banque que je pars en Norvège entre le 3 et le 5 mars,inform my bank that I am going to Norway between March 3rd and 5th,travel_notification
 481,i'm traveling to ca soon and want to inform my bank,je voyage bientôt en Californie et je souhaite informer ma banque,I am traveling to California soon and want to inform my bank,travel_notification
 482,tell my bank that i'm going to france,dis à ma banque que je vais en France,tell my bank I'm going to France,travel_notification
@@ -680,7 +680,7 @@
 678,what is the mpg on this car,quelle est la consommation de carburant de cette voiture,what is the fuel consumption of this car,mpg
 679,what's the non-city mpg for this car,quel est le mpg hors ville pour cette voiture,what is the city mpg for this car,mpg
 680,how many mpg does this get on the highway,Combien de mpg cela fait-il sur l'autoroute ?,How many mpg does this get on the highway?,mpg
-681,how is this car rated for fuel economy,Comment cette voiture est-elle évaluée en termes d'économie de carburant ?,How does this car rate in terms of fuel economy?,mpg
+681,how is this car rated for fuel economy,Comment cette voiture est-elle classée en termes d'économie de carburant ?,How does this car rank in terms of fuel economy?,mpg
 682,retrieve my current mpg on my car,récupérer mon mpg actuel sur ma voiture,get my current mpg back on my car,mpg
 683,what mpg does my car get,Quelle consommation de carburant ma voiture obtient-elle ?,How much fuel consumption does my car get?,mpg
 684,whats the cars fuel mileage like,Quelle est la consommation de carburant des voitures ?,What is the fuel consumption of cars?,mpg
@@ -716,7 +716,7 @@
 714,what's the cost of my dte bill plus my electricity bill,quel est le coût de ma facture dte plus ma facture d'électricité,what is the cost of my dte bill plus my electricity bill,bill_balance
 715,do i still owe any bills,Est-ce que je dois encore des factures ?,Do I still owe bills?,bill_balance
 716,how much do i owe on bills,combien dois-je sur les factures,how much do i owe on bills,bill_balance
-717,please let me know how much my bills for comcast and sprint total,s'il vous plaît laissez-moi savoir combien mes factures pour Comcast et Sprint totalisent,please let me know how much my bills for comcast and sprint total,bill_balance
+717,please let me know how much my bills for comcast and sprint total,s'il vous plaît laissez-moi savoir combien s'élèvent mes factures pour Comcast et Sprint,please let me know how much my bills are for comcast and sprint,bill_balance
 718,"i need the dollar amount due on my verizon bill, please","j'ai besoin du montant en dollars dû sur ma facture Verizon, s'il vous plaît",I need the dollar amount due on my Verizon bill please,bill_balance
 719,what do i owe for my utilities bill,combien dois-je payer pour ma facture de services publics,how much do i pay for my utility bill,bill_balance
 720,what's my mortgage payment going to be this month,quel sera mon paiement hypothécaire ce mois-ci,what will my mortgage payment be this month,bill_balance
@@ -804,7 +804,7 @@
 802,"i want to bake brownies, how long do they bake for","je veux faire des brownies, combien de temps durent-ils ?","I want to make brownies, how long do they last?",cook_time
 803,how long to reheat chinese food,combien de temps faut-il pour réchauffer les plats chinois,how long does it take to reheat chinese food,cook_time
 804,what's the cooking time for chicken alfredo,quel est le temps de cuisson du poulet alfredo,what is the cooking time for chicken alfredo,cook_time
-805,how long do you need to put the cuish in for,Combien de temps faut-il laisser le coussin en place ?,How long should I leave the cushion in place?,cook_time
+805,how long do you need to put the cuish in for,Combien de temps faut-il laisser le coussin en place ?,How long should the cushion be left in place?,cook_time
 806,how long should i wait before i can bake bread with homemade dough,combien de temps dois-je attendre avant de pouvoir faire du pain avec de la pâte maison,how long do i have to wait before i can make bread with homemade dough,cook_time
 807,how long will it take me to make baked chicken,Combien de temps me faudra-t-il pour faire du poulet au four,How long will it take me to make baked chicken,cook_time
 808,when should i take an apple pie out,Quand dois-je sortir une tarte aux pommes,When should I take out an apple pie?,cook_time
@@ -828,7 +828,7 @@
 826,what's the preparation time for spaghetti,quel est le temps de préparation pour les spaghettis,what is the preparation time for spaghetti,cook_time
 827,how long does it take to make lasagna,combien de temps faut-il pour faire des lasagnes,how long does it take to make lasagna,cook_time
 828,what amount of time do i need to cook lobster for,Combien de temps dois-je cuire le homard,How long should I cook lobster?,cook_time
-829,what's the prep time for a garden salad,quel est le temps de préparation pour une salade du jardin,what is the preparation time for a garden salad,cook_time
+829,what's the prep time for a garden salad,quel est le temps de préparation pour une salade du jardin,What is the preparation time for a garden salad?,cook_time
 830,how long do the brownies need to be in the oven,combien de temps les brownies doivent-ils rester au four,how long should brownies stay in the oven,cook_time
 831,how long do i cook this dish of rice,combien de temps dois-je faire cuire ce plat de riz,how long should i cook this rice dish,cook_time
 832,how long am i supposed to cook pork loin,Combien de temps dois-je cuire la longe de porc ?,How long should I cook pork loin?,cook_time
@@ -933,7 +933,7 @@
 931,can i complete an application for a new credit card,puis-je remplir une demande pour une nouvelle carte de crédit,can i fill out an application for a new credit card,new_card
 932,how do i get a new credit card sent to me,comment puis-je recevoir une nouvelle carte de crédit,how do i get a new credit card,new_card
 933,is it possible to apply for a new credit card,est-il possible de demander une nouvelle carte de crédit,is it possible to apply for a new credit card,new_card
-934,tell me the process of applying for a apollo card,expliquez-moi le processus de demande d'une carte Apollo,Explain to me the process of applying for an Apollo card,new_card
+934,tell me the process of applying for a apollo card,dites-moi le processus de demande d'une carte Apollo,tell me the process of applying for an Apollo card,new_card
 935,can you tell me how to apply for a western card,pouvez-vous me dire comment faire une demande de carte occidentale,can you tell me how to apply for a western card,new_card
 936,apply for a kbc card for me,demandez-moi une carte kbc,ask me for a kbc card,new_card
 937,can you tell me if i might be able to apply for a new credit card,pouvez-vous me dire si je pourrais demander une nouvelle carte de crédit,can you tell me if i could apply for a new credit card,new_card
@@ -970,7 +970,7 @@
 968,take doing the dishes off my todo list,raye la vaisselle de ma liste de choses à faire,cross the dishes off my to-do list,todo_list_update
 969,"can you add a trip to the post office to my to do list, please","Peux-tu ajouter un voyage à la poste à ma liste de choses à faire, s'il te plaît ?","Can you add a trip to the post office to my bucket list, please?",todo_list_update
 970,can you kindly clear my agenda list,Pourriez-vous avoir la gentillesse de vider ma liste d'agenda,Could you please clear my calendar list?,todo_list_update
-971,please get rid off everything on my to do list,"S'il te plaît, débarrasse-toi de tout ce qui est sur ma liste de choses à faire",Please get rid of everything on my to-do list,todo_list_update
+971,please get rid off everything on my to do list,"S'il te plaît, débarrasse-toi de tout ce qui est sur ma liste de choses à faire",Please get rid of everything on my to-do list.,todo_list_update
 972,will you add mopping to my to do list please,"Pourriez-vous ajouter le nettoyage à ma liste de choses à faire, s'il vous plaît ?","Could you add cleaning to my to-do list, please?",todo_list_update
 973,"on my to do list, add exercising","sur ma liste de choses à faire, ajouter de l'exercice","on my to do list, add exercise",todo_list_update
 974,erase all items on my todo list,effacer tous les éléments de ma liste de tâches,clear all items from my to-do list,todo_list_update
@@ -1003,7 +1003,7 @@
 1001,give me an idea of traffic on the way to the doctors office at 6,donne-moi une idée du trafic sur le chemin du cabinet du médecin à 6 heures,give me an idea of ​​the traffic on the way to the doctor's office at 6 o'clock,traffic
 1002,is the traffic bad on the way to work,La circulation est mauvaise sur le chemin du travail,Traffic is bad on the way to work,traffic
 1003,give me the traffic at lexington,donne moi le trafic à Lexington,give me the traffic in Lexington,traffic
-1004,what does traffic look like at 9 en route to the aquarium,à quoi ressemble le trafic à 9 heures en route vers l'aquarium,what the traffic looks like at 9am on the way to the aquarium,traffic
+1004,what does traffic look like at 9 en route to the aquarium,à quoi ressemble le trafic à 9 heures en route vers l'aquarium,what the traffic is like at 9am on the way to the aquarium,traffic
 1005,has the ice made traffic messy on the way to walmart,La glace a-t-elle rendu la circulation difficile sur le chemin de Walmart ?,Did the ice make traffic difficult on the way to Walmart?,traffic
 1006,what is the traffic like on the way to town,Comment est le trafic sur le chemin de la ville,How is the traffic on the way to the city?,traffic
 1007,is traffic bad on my way to the next mcdonalds,La circulation est mauvaise sur mon chemin vers le prochain McDonald's,Traffic is bad on my way to the next McDonald's,traffic
@@ -1041,7 +1041,7 @@
 1039,is there traffic up ahead,Y a-t-il du trafic devant ?,Is there traffic ahead?,traffic
 1040,tell me how traffic is looking on the interstate,Dis-moi comment se présente la circulation sur l'autoroute,Tell me what the traffic is like on the highway.,traffic
 1041,is there traffic on bramble lane,y a-t-il du trafic sur Bramble Lane,is there traffic on Bramble Lane,traffic
-1042,how is the traffic typically at noon on the route to hospital,comment se passe la circulation habituellement à midi sur la route de l'hôpital,How is traffic usually at noon on the hospital road?,traffic
+1042,how is the traffic typically at noon on the route to hospital,comment se passe la circulation en général à midi sur la route de l'hôpital,How is traffic generally at noon on the hospital road?,traffic
 1043,what is the traffic like on the way to kaneohe,Comment est le trafic sur la route de Kaneohe ?,How is traffic on Kaneohe Road?,traffic
 1044,how clogged are the streets before the stadium,à quel point les rues avant le stade sont-elles encombrées,how crowded are the streets before the stadium,traffic
 1045,is there traffic on my way to work,Y a-t-il du trafic sur mon chemin vers le travail ?,Is there traffic on my way to work?,traffic
@@ -1052,7 +1052,7 @@
 1050,please go to the song after this one,"s'il vous plaît, allez à la chanson après celle-ci",please go to the song after this one,next_song
 1051,go to the next tune,passer à la mélodie suivante,skip to next melody,next_song
 1052,go to my next song,va à ma prochaine chanson,go to my next song,next_song
-1053,hop to the next one,Passer au suivant,Move on to the next one,next_song
+1053,hop to the next one,Passons au suivant,Let's move on to the next one,next_song
 1054,jump to the next song on this playlist,passer à la chanson suivante de cette playlist,skip to the next song in this playlist,next_song
 1055,lets pause this song and move onto the next,Mettons cette chanson en pause et passons à la suivante,Let's pause this song and move on to the next one.,next_song
 1056,change the song to the next one on this playlist,changer la chanson pour la suivante sur cette playlist,change the song to the next one on this playlist,next_song
@@ -1088,7 +1088,7 @@
 1086,advance to the next song,passer à la chanson suivante,skip to next song,next_song
 1087,stop the current song and play the next one on this playlist,arrêter la chanson en cours et lire la suivante sur cette playlist,stop the current song and play the next one on this playlist,next_song
 1088,go to next song,aller à la chanson suivante,go to next song,next_song
-1089,play next on the playlist,jouer ensuite sur la playlist,then play on playlist,next_song
+1089,play next on the playlist,jouer ensuite sur la playlist,then play on the playlist,next_song
 1090,i want to listen to the next song on this playlist instead,je veux plutôt écouter la chanson suivante de cette playlist,I want to listen to the next song in this playlist instead,next_song
 1091,play the next tune,jouer le morceau suivant,play the next song,next_song
 1092,can we play the next track,Pouvons-nous jouer le morceau suivant ?,Can we play the next song?,next_song
@@ -1128,7 +1128,7 @@
 1126,can you tell me your place of origin,Peux-tu me dire ton lieu d'origine,Can you tell me your place of origin?,where_are_you_from
 1127,where did they make you,Où t'ont-ils fait ?,Where did they do you?,where_are_you_from
 1128,where is your home located,où est située votre maison,where is your house located,where_are_you_from
-1129,where is your original location,où est ton emplacement d'origine,where is your original location,where_are_you_from
+1129,where is your original location,où est votre emplacement d'origine,where is your original location,where_are_you_from
 1130,what city were you born in,Dans quelle ville es-tu né ?,In which city were you born?,where_are_you_from
 1131,in which area were you made,dans quelle région as-tu été fabriqué,in which region were you made,where_are_you_from
 1132,what location did you live at before,à quel endroit viviez-vous avant,where did you live before,where_are_you_from
@@ -1310,7 +1310,7 @@
 1308,"what amount of money do i pay in taxes, please","combien d'argent dois-je payer en impôts, s'il vous plaît",how much money do i have to pay in taxes please,taxes
 1309,"using my salary as a basis, what taxes will i owe","en utilisant mon salaire comme base, quels impôts devrai-je payer ?","Using my salary as a basis, what taxes will I have to pay?",taxes
 1310,tell me what my state taxes are,dis-moi quels sont mes impôts d'état,tell me what my state taxes are,taxes
-1311,what does it look like my state taxes will add up to,à quoi ressembleront mes impôts d'état,what will my state taxes look like,taxes
+1311,what does it look like my state taxes will add up to,à quoi ressembleront mes impôts d'État,what will my state taxes look like,taxes
 1312,what's my bill going to be for my taxes for tennessee,quelle sera ma facture pour mes impôts pour le Tennessee,what will my tax bill be for tennessee,taxes
 1313,what do i pay currently in income taxes,Combien dois-je payer actuellement en impôts sur le revenu ?,How much do I currently pay in income tax?,taxes
 1314,what amount do my state taxes look like,à quel montant ressemblent mes impôts d'état,what are my state taxes like,taxes
@@ -1322,7 +1322,7 @@
 1320,how are my federal taxes looking this year,à quoi ressemblent mes impôts fédéraux cette année,What do my federal taxes look like this year?,taxes
 1321,what will my state taxes amount to this year,à combien s'élèveront mes impôts d'État cette année,how much will my state taxes be this year,taxes
 1322,how much do i owe for state taxes,combien dois-je payer en impôts d'état,how much do i pay in state taxes,taxes
-1323,what can i expect to pay in taxes,à quoi dois-je m'attendre en impôts,what should i expect in taxes,taxes
+1323,what can i expect to pay in taxes,à quoi dois-je m'attendre en impôts ?,What should I expect in taxes?,taxes
 1324,i need to know how much i should pay in tax,j'ai besoin de savoir combien je devrais payer en impôts,I need to know how much I should pay in taxes,taxes
 1325,are my state tax payments too high,mes impôts d'état sont-ils trop élevés ?,Are my state taxes too high?,taxes
 1326,how much tax do i pay,Combien d'impôts dois-je payer ?,How much tax do I have to pay?,taxes
@@ -1333,7 +1333,7 @@
 1331,how much do i pay in tax,combien je paie en impôts,how much do i pay in taxes,taxes
 1332,how much is the irs going to get from me,Combien l'IRS va-t-il me payer ?,How much will the IRS pay me?,taxes
 1333,let me know my tax rate,faites-moi savoir mon taux d'imposition,let me know my tax rate,taxes
-1334,please tell me what i pay in taxes,"S'il vous plaît, dites-moi combien je paie en impôts",Please tell me how much I pay in taxes,taxes
+1334,please tell me what i pay in taxes,S'il vous plaît dites-moi combien je paie en impôts,Please tell me how much I pay in taxes,taxes
 1335,i need to know how much tax i pay from my earnings,j'ai besoin de savoir combien d'impôt je paie sur mes revenus,I need to know how much tax I pay on my income,taxes
 1336,what will i need to pay in federal taxes,Combien devrai-je payer en impôts fédéraux ?,How much will I have to pay in federal taxes?,taxes
 1337,what are my state taxes looking like,à quoi ressemblent mes impôts d'État,what do my state taxes look like,taxes
@@ -1361,7 +1361,7 @@
 1359,can you help me find my luggage it was lost on delta flight abc123 from houston,"pouvez-vous m'aider à retrouver mes bagages, ils ont été perdus sur le vol Delta ABC123 en provenance de Houston",can you help me find my luggage it was lost on Delta flight ABC123 from Houston,lost_luggage
 1360,i'm in baggage claim at the airport and my luggage didn't make it,Je suis dans la zone de récupération des bagages à l'aéroport et mes bagages n'ont pas été récupérés,I am in the baggage claim area at the airport and my luggage has not been collected,lost_luggage
 1361,what is the next step if my luggage was lost,quelle est la prochaine étape si mes bagages ont été perdus,what is the next step if my luggage has been lost,lost_luggage
-1362,is there someone i can talk to since i am in the airport waiting for my luggage which never came,Y a-t-il quelqu'un à qui je peux parler puisque je suis à l'aéroport en attente de mes bagages qui ne sont jamais arrivés,Is there anyone I can talk to since I am at the airport waiting for my luggage that never arrived,lost_luggage
+1362,is there someone i can talk to since i am in the airport waiting for my luggage which never came,Y a-t-il quelqu'un à qui je peux parler puisque je suis à l'aéroport en attendant mes bagages qui ne sont jamais arrivés,Is there anyone I can talk to since I am at the airport waiting for my luggage that never arrived,lost_luggage
 1363,who do i complain to about my luggage not arriving at the airport,À qui dois-je me plaindre si mes bagages n'arrivent pas à l'aéroport ?,Who should I complain to if my luggage does not arrive at the airport?,lost_luggage
 1364,can you tell me what to do as i am in the airport and have been for some time and there is still no sign of my suitcase,pouvez-vous me dire quoi faire car je suis à l'aéroport depuis un certain temps et il n'y a toujours aucun signe de ma valise,can you tell me what to do as i have been at the airport for some time and there is still no sign of my suitcase,lost_luggage
 1365,i miss placed my luggage i was on delta flight ab123 out of new york,"j'ai oublié de placer mes bagages, j'étais sur le vol Delta AB123 en provenance de New York","I forgot to put my luggage, I was on Delta flight AB123 from New York",lost_luggage
@@ -1451,7 +1451,7 @@
 1449,i wanna switch to the male voice,je veux passer à la voix masculine,I want to switch to male voice,change_accent
 1450,go ahead and say all of the points on my list of to-do's please,allez-y et dites tous les points de ma liste de choses à faire s'il vous plaît,go ahead and say all the points on my to do list please,todo_list
 1451,let's go through my to do list items please,"passons en revue les éléments de ma liste de choses à faire, s'il vous plaît",let's go through my to-do list items please,todo_list
-1452,can you please tell me what is on my to-do list,Peux-tu me dire ce qu'il y a sur ma liste de choses à faire ?,Can you tell me what's on my to-do list?,todo_list
+1452,can you please tell me what is on my to-do list,Peux-tu s'il te plaît me dire ce qu'il y a sur ma liste de choses à faire ?,Can you please tell me what's on my to-do list?,todo_list
 1453,can i hear the complete to do list just dictated,puis-je entendre la liste complète des choses à faire qui vient d'être dictée,can i hear the full to do list that was just dictated,todo_list
 1454,i need to know if sorting the mail is on my to do list,j'ai besoin de savoir si trier le courrier est sur ma liste de choses à faire,I need to know if sorting mail is on my to-do list,todo_list
 1455,i need my todo list read,j'ai besoin que ma liste de choses à faire soit lue,I need my to do list read,todo_list
@@ -1479,7 +1479,7 @@
 1477,how many chores are on my todo list,Combien de tâches y a-t-il sur ma liste de choses à faire ?,How many tasks are on my to-do list?,todo_list
 1478,can you tell me my to do list,Peux-tu me dire ma liste de choses à faire ?,Can you tell me my to-do list?,todo_list
 1479,what do i have left to do on my to-do list,que me reste-t-il à faire sur ma liste de choses à faire ?,What's left on my to-do list?,todo_list
-1480,do i have brush my teeth on my todo list,Est-ce que je dois me brosser les dents sur ma liste de choses à faire ?,Should I put brushing my teeth on my to-do list?,todo_list
+1480,do i have brush my teeth on my todo list,Est-ce que je dois me brosser les dents sur ma liste de choses à faire ?,Should brushing my teeth be on my to-do list?,todo_list
 1481,read my complete todo list to me,lis-moi ma liste complète de choses à faire,read me my complete to-do list,todo_list
 1482,tell me what is on the list of things to do,dis-moi ce qu'il y a sur la liste des choses à faire,tell me what's on the to do list,todo_list
 1483,i wonder what my to-do list looks like for today,je me demande à quoi ressemble ma liste de choses à faire pour aujourd'hui,I wonder what my to do list looks like for today,todo_list
@@ -1608,7 +1608,7 @@
 1606,can i put normal unleaded in this car,puis-je mettre de l'essence sans plomb normale dans cette voiture,can i put regular unleaded petrol in this car,gas_type
 1607,what kind of gas does this car take,Quel type d'essence cette voiture prend-elle ?,What kind of gasoline does this car take?,gas_type
 1608,tell me what kind of gas this car uses,dis-moi quel type d'essence utilise cette voiture,tell me what kind of gasoline this car uses,gas_type
-1609,what type of gas does this car need,De quel type d'essence cette voiture a-t-elle besoin ?,What type of fuel does this car need?,gas_type
+1609,what type of gas does this car need,De quel type d'essence cette voiture a-t-elle besoin ?,What kind of fuel does this car need?,gas_type
 1610,i would like to know the kind of gas that this car uses,j'aimerais savoir quel type d'essence utilise cette voiture,I would like to know what type of gasoline this car uses,gas_type
 1611,what kind of gas should go in this car,quel type d'essence doit être utilisé dans cette voiture,what type of gasoline should be used in this car,gas_type
 1612,i want to know the type of gasoline for this car,je veux savoir le type d'essence pour cette voiture,I want to know the type of gasoline for this car,gas_type
@@ -1622,7 +1622,7 @@
 1620,tell me the fuel type used by my car,dis-moi le type de carburant utilisé par ma voiture,tell me what type of fuel my car uses,gas_type
 1621,what sort of fuel do i need for my car,De quel type de carburant ai-je besoin pour ma voiture ?,What type of fuel do I need for my car?,gas_type
 1622,please inform me the gas i need to fill this car up with,"s'il vous plaît, indiquez-moi la quantité d'essence dont j'ai besoin pour remplir cette voiture",please tell me how much gas i need to fill this car,gas_type
-1623,my car uses what type of fuel,Quel type de carburant utilise ma voiture,What type of fuel does my car use?,gas_type
+1623,my car uses what type of fuel,ma voiture utilise quel type de carburant,what type of fuel does my car use,gas_type
 1624,what type of fuel does my car use,quel type de carburant ma voiture utilise-t-elle,what type of fuel does my car use,gas_type
 1625,what kind of fuel do i need,De quel type de carburant ai-je besoin,What type of fuel do I need?,gas_type
 1626,what kind of fuel goes in my engine,quel type de carburant va dans mon moteur,what type of fuel goes in my engine,gas_type
@@ -1706,7 +1706,7 @@
 1704,i need a meeting scheduled with bob for 7:00am on 9/11,j'ai besoin d'un rendez-vous avec Bob pour 7h00 le 11 septembre,I need an appointment with Bob for 7:00 am on September 11th,schedule_meeting
 1705,is there a meeting room available between one and two,y a t-il une salle de réunion disponible entre une et deux heures,is there a meeting room available between one and two hours,schedule_meeting
 1706,how can you schedule a meeting for me,comment pouvez-vous planifier une réunion pour moi,how can you schedule a meeting for me,schedule_meeting
-1707,i'd like to pencil in a meeting with seth at 11am,j'aimerais planifier une réunion avec Seth à 11 heures,I would like to schedule a meeting with Seth at 11am,schedule_meeting
+1707,i'd like to pencil in a meeting with seth at 11am,j'aimerais prévoir une réunion avec Seth à 11 heures,I would like to schedule a meeting with Seth at 11am,schedule_meeting
 1708,tell me how to schedule a meeting,dis-moi comment planifier une réunion,tell me how to plan a meeting,schedule_meeting
 1709,i want you to schedule a meeting with carrie and lisa,je veux que tu prennes rendez-vous avec Carrie et Lisa,I want you to make an appointment with Carrie and Lisa,schedule_meeting
 1710,what is your availability for conference rooms between one and two today,Quelles sont vos disponibilités pour les salles de conférence entre une heure et deux heures aujourd'hui,What are your availability for conference rooms between 1:00 and 2:00 today?,schedule_meeting
@@ -1719,7 +1719,7 @@
 1717,check if meeting rooms are free from 6 to 7,vérifier si les salles de réunion sont libres de 18h à 19h,check if meeting rooms are free from 6pm to 7pm,schedule_meeting
 1718,i have to meet with sam at 9:00am in two days,je dois rencontrer Sam à 9h00 dans deux jours,I have to meet Sam at 9:00 in two days,schedule_meeting
 1719,show me how do i schedule a meeting,montre-moi comment planifier une réunion,show me how to schedule a meeting,schedule_meeting
-1720,is there an open meeting room between 2 and 4,y a t-il une salle de réunion ouverte entre 14h et 16h,Is there a meeting room open between 2pm and 4pm?,schedule_meeting
+1720,is there an open meeting room between 2 and 4,y a t-il une salle de réunion ouverte entre 14h et 16h,is there a meeting room open between 2pm and 4pm,schedule_meeting
 1721,are there any meetings room available between 8:00 and 9:00 am,y a t-il une salle de réunion disponible entre 8h00 et 9h00,is there a meeting room available between 8:00 and 9:00,schedule_meeting
 1722,i'm having trouble scheduling a meeting,j'ai des difficultés à planifier une réunion,I have difficulty scheduling a meeting,schedule_meeting
 1723,i need you to schedule a meeting with bob brown at noon the day after tomorrow,j'ai besoin que tu prennes rendez-vous avec Bob Brown à midi après-demain,I need you to make an appointment with Bob Brown at noon the day after tomorrow,schedule_meeting
@@ -1732,14 +1732,14 @@
 1730,i'm going to need a meeting room on 9am on tuesday,j'aurai besoin d'une salle de réunion mardi à 9h,I will need a meeting room on Tuesday at 9am,schedule_meeting
 1731,help me get a meeting set up,aidez-moi à organiser une réunion,help me organize a meeting,schedule_meeting
 1732,"can you schedule a meeting with jessica at the office, please","pouvez-vous planifier une réunion avec Jessica au bureau, s'il vous plaît",can you schedule a meeting with jessica at the office please,schedule_meeting
-1733,get me a meeting with bill for 5:30pm tomorrow,organise-moi un rendez-vous avec Bill pour 17h30 demain,set me up with Bill for 5:30 tomorrow,schedule_meeting
+1733,get me a meeting with bill for 5:30pm tomorrow,prends-moi un rendez-vous avec Bill pour 17h30 demain,make me an appointment with Bill for 5:30 tomorrow,schedule_meeting
 1734,meeting room availability at 8:00 please,disponibilité de la salle de réunion à 8h00 svp,meeting room availability at 8:00 am please,schedule_meeting
 1735,can you schedule a meeting room for interviews on thursday,pouvez-vous planifier une salle de réunion pour les entretiens jeudi,can you schedule a meeting room for interviews on thursday,schedule_meeting
 1736,schedule a meeting with tom for 6pm,planifier une réunion avec Tom à 18h,schedule a meeting with Tom at 6pm,schedule_meeting
 1737,schedule a meeting room for friday at 3pm,planifier une salle de réunion pour vendredi à 15h,schedule a meeting room for Friday at 3pm,schedule_meeting
 1738,"can you schedule a meeting with james at the office, please","pouvez-vous planifier une réunion avec James au bureau, s'il vous plaît",can you schedule a meeting with james at the office please,schedule_meeting
 1739,during afternoon is there a meeting room to use,"pendant l'après-midi, y a-t-il une salle de réunion à utiliser","during the afternoon, is there a meeting room to use",schedule_meeting
-1740,are there meeting rooms available between 9-10,y a-t-il des salles de réunion disponibles entre 9h et 10h,Are there meeting rooms available between 9am and 10am?,schedule_meeting
+1740,are there meeting rooms available between 9-10,y a-t-il des salles de réunion disponibles entre 9h et 10h,Are there any meeting rooms available between 9am and 10am?,schedule_meeting
 1741,meeting room availability from 8:00 please,disponibilité de la salle de réunion à partir de 8h00 svp,availability of the meeting room from 8:00 a.m. please,schedule_meeting
 1742,i'd like to schedule a meeting room from 1:00 pm until 2:00 pm,j'aimerais planifier une salle de réunion de 13h00 à 14h00,I would like to schedule a meeting room from 1:00 p.m. to 2:00 p.m.,schedule_meeting
 1743,help me schedule a meeting,aidez-moi à planifier une réunion,help me plan a meeting,schedule_meeting
@@ -1819,7 +1819,7 @@
 1817,what steps do i need to take to switch my insurance plan from an hmo to a high deductible ppo plan,Quelles étapes dois-je suivre pour changer mon régime d'assurance d'un HMO à un régime PPO à franchise élevée,What steps do I need to take to change my insurance plan from an HMO to a high deductible PPO plan?,insurance_change
 1818,i gotta switch to a new insurance plan,je dois passer à un nouveau plan d'assurance,I need to switch to a new insurance plan,insurance_change
 1819,how do i make my insurance policy different,comment puis-je rendre ma police d'assurance différente,how can i make my insurance policy different,insurance_change
-1820,how do i change my current insurance to a new plan with lower co-pay,comment puis-je changer mon assurance actuelle pour un nouveau plan avec une quote-part moins élevée,how can i change my current insurance to a new plan with a lower copay,insurance_change
+1820,how do i change my current insurance to a new plan with lower co-pay,comment puis-je changer mon assurance actuelle pour un nouveau plan avec une quote-part inférieure,how can i change my current insurance to a new plan with a lower copay,insurance_change
 1821,i'd like a new life insurance plan,je voudrais un nouveau plan d'assurance vie,I would like a new life insurance plan,insurance_change
 1822,i am hoping to switch insurance plans,j'espère changer de régime d'assurance,I hope to change my insurance plan,insurance_change
 1823,i need new health insurance,j'ai besoin d'une nouvelle assurance maladie,I need new health insurance,insurance_change
@@ -1862,7 +1862,7 @@
 1860,can i harm my credit if i miss a car payment,Est-ce que je peux nuire à mon crédit si je manque un paiement de voiture ?,Can I hurt my credit if I miss a car payment?,improve_credit_score
 1861,tell me if the following thing can hurt my credit score,dites-moi si la chose suivante peut nuire à ma cote de crédit,tell me if the following can hurt my credit score,improve_credit_score
 1862,how do i maintain my credit score,Comment puis-je maintenir mon score de crédit,How can I maintain my credit score?,improve_credit_score
-1863,what factors can ruin a credit score,quels facteurs peuvent ruiner une cote de crédit,what factors can ruin a credit score,improve_credit_score
+1863,what factors can ruin a credit score,quels facteurs peuvent ruiner une cote de crédit,What factors can ruin a credit score,improve_credit_score
 1864,will checking your credit lower my score,Est-ce que vérifier votre crédit abaissera mon score ?,Will checking your credit lower my score?,improve_credit_score
 1865,i'd like to make my credit score better,j'aimerais améliorer mon score de crédit,I would like to improve my credit score,improve_credit_score
 1866,do you know if bouncing one check on your checking account can hurt your credit score or not,Savez-vous si le fait d'émettre un chèque sans provision sur votre compte courant peut nuire à votre cote de crédit ou non ?,Do you know if writing a bad check on your checking account can hurt your credit score or not?,improve_credit_score
@@ -1879,7 +1879,7 @@
 1877,how can i protect my credit rating,Comment puis-je protéger ma cote de crédit,How can I protect my credit score?,improve_credit_score
 1878,show me some ways to build my credit score,montrez-moi quelques moyens d'améliorer mon score de crédit,show me some ways to improve my credit score,improve_credit_score
 1879,what can i do to keep my credit in good standing,Que puis-je faire pour maintenir mon crédit en règle ?,What can I do to keep my credit in good standing?,improve_credit_score
-1880,help me build my credit score by showing me some ways on how to,aidez-moi à bâtir mon score de crédit en me montrant quelques moyens pour y parvenir.,help me build my credit score by showing me some ways to do this.,improve_credit_score
+1880,help me build my credit score by showing me some ways on how to,aidez-moi à améliorer mon score de crédit en me montrant quelques moyens pour y parvenir.,help me improve my credit score by showing me some ways to do so.,improve_credit_score
 1881,"i heard that opening a new account will decrease my credit score, is it true","j'ai entendu dire que l'ouverture d'un nouveau compte diminuerait mon score de crédit, est-ce vrai ?","I heard that opening a new account will lower my credit score, is this true?",improve_credit_score
 1882,how can i make my credit score better,Comment puis-je améliorer mon score de crédit ?,How can I improve my credit score?,improve_credit_score
 1883,what are some ways to keep my credit score up,Quelles sont les façons de maintenir mon score de crédit élevé ?,What are some ways to keep my credit score high?,improve_credit_score
@@ -1907,7 +1907,7 @@
 1905,"are there any interesting things to do in atlanta, georgia","y a-t-il des choses intéressantes à faire à Atlanta, en Géorgie",are there any interesting things to do in atlanta georgia,travel_suggestion
 1906,"when visiting chicago, what things can i do there","Lorsque je visite Chicago, que puis-je y faire ?","When I visit Chicago, what can I do there?",travel_suggestion
 1907,where should i travel if i want to visit some history museums,où dois-je voyager si je veux visiter des musées d'histoire,where should i travel if i want to visit history museums,travel_suggestion
-1908,where is the best winery in the south of france,où est le meilleur domaine viticole du sud de la france,where is the best winery in the south of france,travel_suggestion
+1908,where is the best winery in the south of france,où est le meilleur domaine viticole du sud de la france,where is the best wine estate in the south of france,travel_suggestion
 1909,where should i book my next trip,où dois-je réserver mon prochain voyage,where should i book my next trip,travel_suggestion
 1910,what's a good use of my time in toronto,quelle est la meilleure façon d'utiliser mon temps à Toronto,what is the best way to use my time in toronto,travel_suggestion
 1911,name some things i should do while in evans,nomme quelques choses que je devrais faire pendant que je suis à Evans,Name some things I should do while I'm in Evans,travel_suggestion
@@ -1975,7 +1975,7 @@
 1973,i'd like you to roll dice,j'aimerais que tu lances les dés,I would like you to roll the dice,roll_dice
 1974,can you roll a 6 sided dice,peux-tu lancer un dé à 6 faces,can you roll a 6 sided die,roll_dice
 1975,i want to roll some dice,je veux lancer des dés,I want to roll dice,roll_dice
-1976,toss a die would you,tu veux bien lancer un dé ?,would you like to roll a die?,roll_dice
+1976,toss a die would you,tu veux bien lancer un dé ?,Would you like to roll a die?,roll_dice
 1977,can you roll a 4 sided dice,peux-tu lancer un dé à 4 faces,can you roll a 4 sided die,roll_dice
 1978,roll dice please,lancez les dés s'il vous plaît,roll the dice please,roll_dice
 1979,what number do you get when you roll one six sided die,quel nombre obtenez-vous lorsque vous lancez un dé à six faces,what number do you get when you roll a six sided die,roll_dice
@@ -2059,7 +2059,7 @@
 2057,"i want to listen to my maroon 5 playlist, play it for me","je veux écouter ma playlist Maroon 5, joue-la pour moi","I want to listen to my Maroon 5 playlist, play it for me",play_music
 2058,play heart shaped box,jouer à la boîte en forme de coeur,play heart shaped box,play_music
 2059,i'd like to hear my workout playlist,j'aimerais entendre ma playlist d'entraînement,I would like to hear my workout playlist,play_music
-2060,can u play the song that sound like bells going off,Peux-tu jouer la chanson qui ressemble à des cloches qui sonnent ?,Can you play the song that sounds like bells ringing?,play_music
+2060,can u play the song that sound like bells going off,Peux-tu jouer la chanson qui ressemble à des cloches qui sonnent,Can you play the song that sounds like bells ringing?,play_music
 2061,go ahead and play the song that goes like hey jude don't make it bad,vas-y et joue la chanson qui dit hey jude ne fais pas de mal,go ahead and play the song that says hey jude do no harm,play_music
 2062,i want to hear pop music,je veux écouter de la musique pop,I want to listen to pop music,play_music
 2063,pull up my shower playlist,lance ma playlist de douche,start my shower playlist,play_music
@@ -2195,7 +2195,7 @@
 2193,please get off my phone,"S'il te plaît, raccroche mon téléphone",Please hang up my phone,sync_device
 2194,i am going to go ahead and pair this with my new phone,je vais aller de l'avant et associer cela à mon nouveau téléphone,I'm going to go ahead and pair this with my new phone,sync_device
 2195,i want to disconnect the current connection to my phone,je souhaite déconnecter la connexion actuelle à mon téléphone,I want to disconnect the current connection to my phone,sync_device
-2196,please desync my current mobile,s'il vous plaît désynchroniser mon mobile actuel,please unsync my current mobile,sync_device
+2196,please desync my current mobile,s'il vous plaît désynchronisez mon mobile actuel,please unsync my current mobile,sync_device
 2197,desync from my phone,désynchronisation de mon téléphone,my phone is out of sync,sync_device
 2198,please disconnect from my phone,"s'il vous plaît, déconnectez-vous de mon téléphone",please disconnect from my phone,sync_device
 2199,quickly disconnect the phone,déconnecter rapidement le téléphone,quickly disconnect the phone,sync_device
@@ -2232,7 +2232,7 @@
 2230,what do i have on my calendar for march 2,qu'est-ce que j'ai sur mon calendrier pour le 2 mars,what do i have on my calendar for march 2nd,calendar
 2231,what items do i have on my calendar for easter,quels éléments ai-je sur mon calendrier pour Pâques,What items do I have on my calendar for Easter?,calendar
 2232,what do i have on my calendar for march 11,qu'est-ce que j'ai sur mon calendrier pour le 11 mars,what do i have on my calendar for march 11th,calendar
-2233,do i have anything on my calendar next sunday,Est-ce que j'ai quelque chose sur mon calendrier dimanche prochain,Do I have anything on my calendar next Sunday?,calendar
+2233,do i have anything on my calendar next sunday,Est-ce que j'ai quelque chose sur mon calendrier dimanche prochain ?,Do I have anything on my calendar next Sunday?,calendar
 2234,what do i have to do on march 2 that's on my calendar,que dois-je faire le 2 mars qui est sur mon calendrier,what should i do on march 2nd which is on my calendar,calendar
 2235,what's happening on may 3rd,que se passe-t-il le 3 mai,what happens on may 3rd,calendar
 2236,on the 26th what is on the table for my calendar,"le 26, qu'est-ce qu'il y a sur la table de mon calendrier","26th, what's on my calendar table?",calendar
@@ -2307,11 +2307,11 @@
 2305,do i need a visa to scotland,Ai-je besoin d'un visa pour l'Écosse ?,Do I need a visa for Scotland?,international_visa
 2306,does travelling to that place require a visa,est-ce que voyager vers cet endroit nécessite un visa,does traveling to this location require a visa,international_visa
 2307,i need to know if i must have an international visa to go to france,j'ai besoin de savoir si je dois avoir un visa international pour aller en France,I need to know if I need an international visa to go to France,international_visa
-2308,do i need to get a visa for russia,dois-je obtenir un visa pour la Russie,do i need to get a visa for russia,international_visa
+2308,do i need to get a visa for russia,Dois-je obtenir un visa pour la Russie ?,Do I need to get a visa for Russia?,international_visa
 2309,i am going to germany soon do i need a visa,"je vais bientôt en Allemagne, ai-je besoin d'un visa ?","I'm going to Germany soon, do I need a visa?",international_visa
 2310,do i need a visa to travel to canada,Ai-je besoin d'un visa pour voyager au Canada,Do I need a visa to travel to Canada?,international_visa
 2311,do i need a travel visa to visit russia,Ai-je besoin d'un visa de voyage pour visiter la Russie,Do I need a travel visa to visit Russia,international_visa
-2312,do i need a visa to russia,Ai-je besoin d'un visa pour la Russie ?,Do I need a visa for Russia?,international_visa
+2312,do i need a visa to russia,Ai-je besoin d'un visa pour la Russie,Do I need a visa for Russia?,international_visa
 2313,do i need to obtain a travel visa to go on vacation to places in eastern europe,Dois-je obtenir un visa de voyage pour partir en vacances dans des endroits en Europe de l'Est ?,Do I need a travel visa to go on holiday to places in Eastern Europe?,international_visa
 2314,let me know if i need an international visa to go to sudan,faites-moi savoir si j'ai besoin d'un visa international pour aller au Soudan,please let me know if i need an international visa to go to sudan,international_visa
 2315,do i need a visa to travel to jamaica,Ai-je besoin d'un visa pour voyager en Jamaïque ?,Do I need a visa to travel to Jamaica?,international_visa
@@ -2440,7 +2440,7 @@
 2438,name the items on my shopping list,nommez les articles sur ma liste de courses,name the items on my shopping list,shopping_list
 2439,read my shopping list to me,lis-moi ma liste de courses,read me my shopping list,shopping_list
 2440,what does my shopping list involve,qu'est-ce que ma liste de courses comprend,what does my shopping list include,shopping_list
-2441,would you let me know what is on my shopping list,Pourrais-tu me dire ce qu'il y a sur ma liste de courses ?,Could you tell me what's on my shopping list?,shopping_list
+2441,would you let me know what is on my shopping list,Pourriez-vous me dire ce qu'il y a sur ma liste de courses ?,Could you tell me what's on my shopping list?,shopping_list
 2442,tell me what's on my shopping list,dis-moi ce qu'il y a sur ma liste de courses,tell me what's on my shopping list,shopping_list
 2443,what are the contents of my shopping list,quel est le contenu de ma liste de courses,what's on my shopping list,shopping_list
 2444,what does my shopping list entail,Que contient ma liste de courses ?,What's on my shopping list?,shopping_list
@@ -2651,7 +2651,7 @@
 2649,how do i know what the outlets are like,Comment puis-je savoir à quoi ressemblent les prises,How do I know what the sockets look like?,plug_type
 2650,are shots needed for uk travel,Les vaccins sont-ils nécessaires pour voyager au Royaume-Uni ?,Are vaccinations required for travel to the UK?,vaccines
 2651,which vaccinations are required to go to viet nam,Quels vaccins sont nécessaires pour aller au Vietnam,What vaccinations are required to go to Vietnam?,vaccines
-2652,are there shots required before going to south africa,y a-t-il des vaccins obligatoires avant de partir en Afrique du Sud,Are there any mandatory vaccinations before going to South Africa?,vaccines
+2652,are there shots required before going to south africa,y a-t-il des vaccins obligatoires avant de se rendre en Afrique du Sud,Are there any mandatory vaccinations before traveling to South Africa?,vaccines
 2653,are vaccinations necessary to go there,est-ce que des vaccins sont nécessaires pour y aller,are any vaccinations required to go there,vaccines
 2654,should i get any shots before i go to south africa,dois-je me faire vacciner avant de partir en Afrique du Sud ?,Do I need to get vaccinated before going to South Africa?,vaccines
 2655,tell me if i need any more vaccines if i go there,dis-moi si j'ai besoin d'autres vaccins si j'y vais,tell me if i need any other vaccinations if i go,vaccines
@@ -2686,14 +2686,14 @@
 2684,are my vaccines up to date for going there,mes vaccins sont à jour pour y aller,my vaccinations are up to date to go there,vaccines
 2685,do i need any shots if i travel to africa,Ai-je besoin de vaccins si je voyage en Afrique ?,Do I need any vaccinations if I travel to Africa?,vaccines
 2686,do i need shots before i get to africa,Ai-je besoin de vaccins avant d'arriver en Afrique ?,Do I need any vaccinations before arriving in Africa?,vaccines
-2687,do i need to protect myself with some shots for a trip to vietnam,dois-je me protéger avec quelques vaccins pour un voyage au Vietnam,Do I need to protect myself with some vaccines for a trip to Vietnam?,vaccines
+2687,do i need to protect myself with some shots for a trip to vietnam,dois-je me protéger avec quelques injections pour un voyage au Vietnam,Should I protect myself with some injections for a trip to Vietnam?,vaccines
 2688,is there a list of recommended shots to get before travelling to kenya,existe-t-il une liste de vaccins recommandés à prendre avant de voyager au Kenya,is there a list of recommended vaccinations to take before traveling to kenya,vaccines
-2689,do i need specific shots before traveling to germany,Ai-je besoin de vaccins spécifiques avant de voyager en Allemagne,Do I need any specific vaccinations before traveling to Germany?,vaccines
+2689,do i need specific shots before traveling to germany,Ai-je besoin de vaccins spécifiques avant de voyager en Allemagne ?,Do I need any specific vaccinations before travelling to Germany?,vaccines
 2690,which types of vaccinations are required when leaving the united states,Quels types de vaccinations sont nécessaires pour quitter les États-Unis,What types of vaccinations are required to leave the United States?,vaccines
 2691,do i need to get vaccinations before i go,dois-je me faire vacciner avant de partir ?,Do I need to get vaccinated before I go?,vaccines
 2692,are there any mandatory shots that i must get before my trip to jamaica,Y a-t-il des vaccins obligatoires que je dois recevoir avant mon voyage en Jamaïque ?,Are there any mandatory vaccinations I must receive before my trip to Jamaica?,vaccines
 2693,which shots do i need before i go to thailand,De quels vaccins ai-je besoin avant de partir en Thaïlande ?,What vaccinations do I need before going to Thailand?,vaccines
-2694,what shots do i need to get in order to travel to khartoum,quels vaccins dois-je recevoir pour me rendre à Khartoum,What vaccinations do I need to get to travel to Khartoum?,vaccines
+2694,what shots do i need to get in order to travel to khartoum,De quels vaccins ai-je besoin pour me rendre à Khartoum ?,What vaccinations do I need to travel to Khartoum?,vaccines
 2695,are any shots recommended before going to kenya,Est-ce que des vaccins sont recommandés avant d'aller au Kenya,Are there any vaccinations recommended before going to Kenya?,vaccines
 2696,traveling to the uk am i going to need any specific shots,"en voyageant au Royaume-Uni, aurai-je besoin de vaccins spécifiques ?","When travelling to the UK, will I need any specific vaccinations?",vaccines
 2697,am i required to get a vaccine for this trip,suis-je obligé de me faire vacciner pour ce voyage ?,Do I have to get vaccinated for this trip?,vaccines
@@ -2750,7 +2750,7 @@
 2748,what time is my next paycheck coming,À quelle heure mon prochain chèque de paie arrive-t-il ?,What time does my next paycheck arrive?,payday
 2749,when will i get my next paycheck,Quand recevrai-je mon prochain chèque de paie ?,When will I receive my next paycheck?,payday
 2750,did the application i put in for a mastercard go through yet,Est-ce que la demande que j'ai faite pour une Mastercard a déjà été acceptée ?,Has the application I made for a Mastercard already been accepted?,application_status
-2751,i want to know if my credit card application has been processed yet,je voudrais savoir si ma demande de carte de crédit a déjà été traitée,I would like to know if my credit card application has already been processed,application_status
+2751,i want to know if my credit card application has been processed yet,je veux savoir si ma demande de carte de crédit a déjà été traitée,I want to know if my credit card application has already been processed,application_status
 2752,how will i know when my application for a credit card has been processed,Comment saurai-je quand ma demande de carte de crédit a été traitée ?,How will I know when my credit card application has been processed?,application_status
 2753,what is the status of my application for the credit card,quel est le statut de ma demande de carte de crédit,what is the status of my credit card application,application_status
 2754,check on my credit card application,vérifier ma demande de carte de crédit,check my credit card application,application_status
@@ -2760,7 +2760,7 @@
 2758,has there been any changes in the status of my credit card application,Y a-t-il eu des changements dans le statut de ma demande de carte de crédit ?,Have there been any changes in the status of my credit card application?,application_status
 2759,look into the status of the credit card application i submitted recently for my new card,regardez l'état de la demande de carte de crédit que j'ai soumise récemment pour ma nouvelle carte,look at the status of the credit card application I recently submitted for my new card,application_status
 2760,i want an update on my application for a credit card that i sent in a couple weeks ago,je veux une mise à jour sur ma demande de carte de crédit que j'ai envoyée il y a quelques semaines,I want an update on my credit card application that I sent a few weeks ago,application_status
-2761,do i have any updates about my credit card application,Est-ce que j'ai des nouvelles de ma demande de carte de crédit ?,Do I have any news about my credit card application?,application_status
+2761,do i have any updates about my credit card application,Est-ce que j'ai des mises à jour concernant ma demande de carte de crédit,Do I have any updates regarding my credit card application?,application_status
 2762,please check the status of my mastercard application,veuillez vérifier le statut de ma demande de mastercard,please check the status of my mastercard application,application_status
 2763,can you check the status of my credit card application,pouvez-vous vérifier l'état de ma demande de carte de crédit,can you check the status of my credit card application,application_status
 2764,when can i hear the decision on my credit card application,Quand puis-je entendre la décision concernant ma demande de carte de crédit,When can I hear the decision on my credit card application?,application_status
@@ -2867,7 +2867,7 @@
 2865,can you tell me something funny,Peux-tu me dire quelque chose de drôle ?,Can you tell me something funny?,tell_joke
 2866,"please, recite to me some good one liners","S'il vous plaît, récitez-moi quelques bonnes phrases",Please recite me some good sentences.,tell_joke
 2867,show me something funny about food,montre-moi quelque chose de drôle à propos de la nourriture,show me something funny about food,tell_joke
-2868,let me know something funny,dis-moi quelque chose de drôle,tell me something funny,tell_joke
+2868,let me know something funny,fais-moi savoir quelque chose de drôle,let me know something funny,tell_joke
 2869,what’s your favorite funny joke,Quelle est ta blague drôle préférée ?,What is your favorite funny joke?,tell_joke
 2870,heard any good jokes lately,avez-vous entendu de bonnes blagues récemment,have you heard any good jokes lately,tell_joke
 2871,i wanna hear something funny,je veux entendre quelque chose de drôle,I want to hear something funny,tell_joke
@@ -2903,7 +2903,7 @@
 2901,can i use sour cream instead of milk,puis-je utiliser de la crème sure à la place du lait,can i use sour cream instead of milk,ingredient_substitution
 2902,is it okay to switch water for milk,Est-il acceptable de remplacer l'eau par du lait ?,Is it okay to replace water with milk?,ingredient_substitution
 2903,"i don't have sour cream, can i use yogurt instead","je n'ai pas de crème aigre, puis-je utiliser du yaourt à la place ?","I don't have sour cream, can I use yogurt instead?",ingredient_substitution
-2904,can i use baking soda instead of baking powder,puis-je utiliser du bicarbonate de soude au lieu de la levure chimique,can i use baking soda instead of baking powder,ingredient_substitution
+2904,can i use baking soda instead of baking powder,puis-je utiliser du bicarbonate de soude à la place de la levure chimique,can i use baking soda instead of baking powder,ingredient_substitution
 2905,can i use yogurt in place of sour cream,puis-je utiliser du yaourt à la place de la crème sure,can i use yogurt instead of sour cream,ingredient_substitution
 2906,could i use olive oil instead of grape seed oil,puis-je utiliser de l'huile d'olive à la place de l'huile de pépins de raisin,can i use olive oil instead of grapeseed oil,ingredient_substitution
 2907,alternatives to white wine in food,alternatives au vin blanc dans l'alimentation,alternatives to white wine in the diet,ingredient_substitution
@@ -2945,7 +2945,7 @@
 2943,can i use almond milk instead of rice milk,puis-je utiliser du lait d'amande à la place du lait de riz,can i use almond milk instead of rice milk,ingredient_substitution
 2944,can i substitute eggs for milk in a recipe,puis-je remplacer les œufs par du lait dans une recette,can i replace eggs with milk in a recipe,ingredient_substitution
 2945,would it be possible to replace the salt with baking soda,serait-il possible de remplacer le sel par du bicarbonate de soude,would it be possible to replace the salt with baking soda,ingredient_substitution
-2946,can i substitute ginger for garlic,puis-je remplacer l'ail par du gingembre,can i substitute ginger for garlic,ingredient_substitution
+2946,can i substitute ginger for garlic,puis-je remplacer l'ail par du gingembre,can i replace garlic with ginger,ingredient_substitution
 2947,will it be okay if i use water instead of milk,est-ce que ça ira si j'utilise de l'eau à la place du lait ?,will it be ok if i use water instead of milk?,ingredient_substitution
 2948,can i swap yogurt for sour cream,puis-je remplacer le yaourt par de la crème sure,can i replace yogurt with sour cream,ingredient_substitution
 2949,i wanna sub sugar for salt,je veux remplacer le sucre par du sel,I want to replace sugar with salt,ingredient_substitution
@@ -3023,7 +3023,7 @@
 3021,what is your birthday,quel est ton anniversaire,what is your birthday,how_old_are_you
 3022,what's your age siri,quel âge as-tu siri,how old are you siri,how_old_are_you
 3023,let me know when you were born,fais-moi savoir quand tu es né,let me know when you were born,how_old_are_you
-3024,how long have you been functional,Depuis combien de temps êtes-vous fonctionnel,How long have you been functional?,how_old_are_you
+3024,how long have you been functional,Depuis combien de temps êtes-vous fonctionnel ?,How long have you been operational?,how_old_are_you
 3025,please tell me your date of birth,s'il te plaît dis-moi ta date de naissance,please tell me your date of birth,how_old_are_you
 3026,how old will you be next year,Quel âge auras-tu l'année prochaine ?,How old will you be next year?,how_old_are_you
 3027,tell me when you were born,Dis-moi quand tu es né,Tell me when you were born,how_old_are_you
@@ -3087,7 +3087,7 @@
 3085,where is the closest starbucks,où est le Starbucks le plus proche,where is the nearest starbucks,directions
 3086,could you tell me how to get to the statue of liberty by bus,Pourrais-tu me dire comment aller à la statue de la liberté en bus,Could you tell me how to get to the statue of liberty by bus?,directions
 3087,can a bus get me to the statue of liberty,est-ce qu'un bus peut m'amener à la statue de la liberté,can a bus take me to the statue of liberty,directions
-3088,what's the quickest way to a bank,quel est le chemin le plus rapide vers une banque,what is the fastest way to a bank,directions
+3088,what's the quickest way to a bank,quel est le chemin le plus rapide pour accéder à une banque,what is the fastest way to get to a bank,directions
 3089,can you tell me where the nearest rest station to me is,Peux-tu me dire où se trouve la station de repos la plus proche de chez moi ?,Can you tell me where the nearest rest station is to my house?,directions
 3090,what's the direction for foot traffic to get to the eiffel tower,quelle est la direction de la circulation piétonnière pour se rendre à la tour Eiffel,what is the direction of pedestrian traffic to get to the Eiffel Tower,directions
 3091,assist me to know how to get to target by bus,aidez-moi à savoir comment me rendre à la cible en bus,help me know how to get to target by bus,directions
@@ -3161,7 +3161,7 @@
 3159,how can i rollover my 401k at my new job,Comment puis-je transférer mon 401k à mon nouvel emploi,How do I transfer my 401k to my new job,rollover_401k
 3160,i desperately need to rollover my 401k somehow,j'ai désespérément besoin de transférer mon 401k d'une manière ou d'une autre,I desperately need to transfer my 401k somehow,rollover_401k
 3161,can you instruct me on how to rollover my 401k,pouvez-vous m'expliquer comment transférer mon 401k,can you explain to me how to transfer my 401k,rollover_401k
-3162,will you help me figure out how to transfer my 401k,pouvez-vous m'aider à comprendre comment transférer mon 401k,can you help me understand how to transfer my 401k,rollover_401k
+3162,will you help me figure out how to transfer my 401k,Peux-tu m'aider à comprendre comment transférer mon 401k,Can you help me figure out how to transfer my 401k,rollover_401k
 3163,i need to transfer my 401 k,j'ai besoin de transférer mon 401 k,I need to transfer my 401k,rollover_401k
 3164,walk me through the process of transferring my 401k,expliquez-moi le processus de transfert de mon 401k,explain to me the process of transferring my 401k,rollover_401k
 3165,explain to me how to rollover my 401k,explique-moi comment transférer mon 401k,explain to me how to transfer my 401k,rollover_401k
@@ -3194,7 +3194,7 @@
 3192,i have a new job now and need help with rolling over my 401k,j'ai un nouvel emploi maintenant et j'ai besoin d'aide pour transférer mon 401k,I have a new job now and need help transferring my 401k,rollover_401k
 3193,i recently got a new job and need assistance with my 401k rollover,j'ai récemment obtenu un nouvel emploi et j'ai besoin d'aide pour mon transfert 401k,I recently got a new job and need help with my 401k transfer,rollover_401k
 3194,i'd like my 401k to be rolled over,j'aimerais que mon 401k soit transféré,I would like my 401k to be transferred,rollover_401k
-3195,"i got a new job, can you help me with my 401k rollover","j'ai un nouvel emploi, pouvez-vous m'aider avec mon transfert 401k","I have a new job, can you help me with my 401k transfer",rollover_401k
+3195,"i got a new job, can you help me with my 401k rollover","j'ai trouvé un nouvel emploi, pouvez-vous m'aider avec mon transfert 401k","I found a new job, can you help me with my 401k transfer",rollover_401k
 3196,how do i relocate my 401k,comment puis-je déplacer mon 401k,how do i move my 401k,rollover_401k
 3197,where do i go the transfer my 401k,où dois-je aller pour transférer mon 401k,where do i go to transfer my 401k,rollover_401k
 3198,walk me through on how to roll over my 401k,expliquez-moi comment transférer mon 401k,explain to me how to transfer my 401k,rollover_401k
@@ -3204,7 +3204,7 @@
 3202,have i been approved for vacation yet,Est-ce que j'ai déjà été approuvé pour des vacances ?,Have I been approved for a vacation yet?,pto_request_status
 3203,update on vacation request,mise à jour sur la demande de vacances,update on vacation request,pto_request_status
 3204,i requested some vacation time; has it been approved,j'ai demandé des vacances ; est-ce que cela a été approuvé ?,I requested a vacation; was it approved?,pto_request_status
-3205,tell me the status of my day off request,dis-moi où en est ma demande de jour de congé,tell me where my day off request is,pto_request_status
+3205,tell me the status of my day off request,dis-moi où en est ma demande de jour de congé,tell me where my day off request is at,pto_request_status
 3206,has my request for the day off been approved yet,Ma demande de jour de congé a-t-elle déjà été approuvée ?,Has my request for a day off been approved yet?,pto_request_status
 3207,"on my vacation request, what is the latest information","sur ma demande de congés, quelles sont les dernières informations","on my leave request, what is the latest information?",pto_request_status
 3208,check on the status of my vacation request please,vérifiez l'état de ma demande de vacances s'il vous plaît,please check the status of my vacation request,pto_request_status
@@ -3230,7 +3230,7 @@
 3228,i need to know if my vacation was approved,j'ai besoin de savoir si mes vacances ont été approuvées,I need to know if my vacation has been approved,pto_request_status
 3229,give me the status of my vacation request,donne moi le statut de ma demande de vacances,give me the status of my vacation request,pto_request_status
 3230,can you share the status of my day off request,pouvez-vous partager le statut de ma demande de jour de congé,can you share the status of my day off request,pto_request_status
-3231,"i haven't heard if my request for time off for vacation has been approved , can you get an update for me","je n'ai pas encore entendu si ma demande de congé pour vacances a été approuvée, pouvez-vous me tenir au courant ?","I haven't heard yet if my vacation leave request has been approved, can you keep me updated?",pto_request_status
+3231,"i haven't heard if my request for time off for vacation has been approved , can you get an update for me","je n'ai pas entendu si ma demande de congé pour vacances a été approuvée, pouvez-vous me tenir au courant ?","I haven't heard if my vacation leave request has been approved, can you keep me updated?",pto_request_status
 3232,has my manager at mcdonald's confirmed i can take vacation,Mon manager chez McDonald's m'a-t-il confirmé que je pouvais prendre des vacances ?,Did my manager at McDonald's confirm that I could take vacation?,pto_request_status
 3233,what about my vacation request,qu'en est-il de ma demande de vacances,what about my vacation request,pto_request_status
 3234,what is the status of my vacation request,quel est le statut de ma demande de vacances,What is the status of my vacation request?,pto_request_status
@@ -3265,7 +3265,7 @@
 3263,please confirm my reservation for red robin at 9,s'il vous plaît confirmer ma réservation pour Red Robin à 9 heures,please confirm my reservation for Red Robin at 9am,confirm_reservation
 3264,can you check that i have a reservation on february 28th for 3 in the afternoon,peux-tu vérifier que j'ai une réservation le 28 février pour 15h,can you check that i have a reservation on february 28th for 3pm,confirm_reservation
 3265,does taco house have a reservation for jean,est-ce que le taco house a une réservation pour jean,does taco house have a reservation for jean,confirm_reservation
-3266,check and confirm reservations at ruth chris for carol lee,vérifiez et confirmez les réservations chez Ruth Chris pour Carol Lee,Check and confirm reservations at Ruth Chris for Carol Lee,confirm_reservation
+3266,check and confirm reservations at ruth chris for carol lee,vérifier et confirmer les réservations chez Ruth Chris pour Carol Lee,check and confirm reservations at Ruth Chris for Carol Lee,confirm_reservation
 3267,verify that i have reservations at chilis for john doe,vérifier que j'ai des réservations chez Chilis pour John Doe,check that I have reservations at Chilis for John Doe,confirm_reservation
 3268,do i have reservations at creme at 7 pm,est-ce que j'ai des réservations à la crème à 19h,do i have reservations at cream at 7pm,confirm_reservation
 3269,i would like you to confirm my reservation for next saturday at 11 am,je voudrais que vous me confirmiez ma réservation pour samedi prochain à 11h,I would like you to confirm my reservation for next Saturday at 11am.,confirm_reservation
@@ -3355,7 +3355,7 @@
 3353,what is the calorie content of a scoop of chocolate ice cream,quelle est la teneur en calories d'une boule de glace au chocolat,what is the calorie content of a scoop of chocolate ice cream,calories
 3354,what is the calorie count for one cookie,quel est le nombre de calories pour un biscuit,how many calories are in a cookie,calories
 3355,how many calories does a kitkat have,combien de calories contient un kitkat,how many calories are in a kitkat,calories
-3356,calorie count of cheetos,nombre de calories des cheetos,cheetos calories count,calories
+3356,calorie count of cheetos,nombre de calories des cheetos,cheetos calories,calories
 3357,how many calories are in vanilla ice cream,combien de calories y a-t-il dans la glace à la vanille,how many calories are in vanilla ice cream,calories
 3358,what is the calorie content of a small bag of lay's potato chips,quelle est la teneur en calories d'un petit sac de chips de pommes de terre Lay's,what is the calorie content of a small bag of lay's potato chips,calories
 3359,can you tell me the calories for the cheeseburger,peux-tu me dire les calories du cheeseburger,can you tell me the calories in cheeseburger,calories
@@ -3378,7 +3378,7 @@
 3376,how many calories are in a honey bun,Combien de calories y a-t-il dans un pain au miel ?,How many calories are in a honey bread?,calories
 3377,can you provide me the calories in the smoothie,peux-tu me donner les calories du smoothie,can you give me the calories in the smoothie,calories
 3378,i want the calorie content for a banana,je veux la teneur en calories d'une banane,I want the calorie content of a banana,calories
-3379,give me expected number of calories in a breakfast burrito,donne-moi le nombre attendu de calories dans un burrito au petit-déjeuner,give me the expected number of calories in a breakfast burrito,calories
+3379,give me expected number of calories in a breakfast burrito,donne-moi le nombre prévu de calories dans un burrito pour le petit-déjeuner,give me the expected number of calories in a breakfast burrito,calories
 3380,whats the calorie content of oatmeal,Quelle est la teneur en calories des flocons d'avoine,What is the calorie content of oatmeal?,calories
 3381,what is the calorie count in a cookie,quel est le nombre de calories dans un cookie,how many calories are in a cookie,calories
 3382,how many calories are in waffles,Combien de calories y a-t-il dans les gaufres ?,How many calories are in waffles?,calories
@@ -3402,7 +3402,7 @@
 3400,can you set a timer for me,Peux-tu régler une minuterie pour moi ?,Can you set a timer for me?,timer
 3401,please set a timer for,veuillez régler une minuterie pour,please set a timer for,timer
 3402,please set a timer for 6 minutes,veuillez régler une minuterie sur 6 minutes,please set a timer for 6 minutes,timer
-3403,alert me in 20 minutes,préviens moi dans 20 minutes,let me know in 20 minutes,timer
+3403,alert me in 20 minutes,préviens-moi dans 20 minutes,let me know in 20 minutes,timer
 3404,create a timer for me,crée un minuteur pour moi,create a timer for me,timer
 3405,i need you to set a time,j'ai besoin que tu fixes une heure,I need you to set a time,timer
 3406,"i'm cooking an egg, timer for 3 mins","je fais cuire un œuf, minuteur pour 3 minutes","I cook an egg, timer for 3 minutes",timer
@@ -4033,7 +4033,7 @@
 4031,change my amex account pin to 1234,changer le code PIN de mon compte amex en 1234,change my amex account pin code to 1234,pin_change
 4032,is there a way to change my pin number for my savings account,existe-t-il un moyen de changer mon code PIN pour mon compte d'épargne,is there a way to change my pin for my savings account,pin_change
 4033,swap my amex pin to 1234,échanger mon code PIN amex contre 1234,exchange my amex pin code for 1234,pin_change
-4034,can you change my 1st national account pin to 4892,peux-tu changer mon premier code PIN de compte national en 4892,can you change my first national account pin code to 4892,pin_change
+4034,can you change my 1st national account pin to 4892,peux-tu changer mon premier code PIN de compte national en 4892,can you change my first national account pin to 4892,pin_change
 4035,i want a new pin for my savings account,je veux un nouveau code PIN pour mon compte d'épargne,I want a new PIN for my savings account,pin_change
 4036,change the pin on my capital one account to be 1234,changer le code PIN de mon compte Capital One pour qu'il soit 1234,change my capital one account pin to 1234,pin_change
 4037,i wanna change my pin number for my credit acount,je veux changer mon code PIN pour mon compte de crédit,I want to change my PIN code for my credit account,pin_change
@@ -4050,7 +4050,7 @@
 4048,change the pin on my bank of america account to be 1234,changer le code PIN de mon compte Bank of America pour qu'il soit 1234,change my bank of america account pin to 1234,pin_change
 4049,i am unable to remember what my pin is for my bank of america checking account,je n'arrive pas à me souvenir de mon code PIN pour mon compte courant Bank of America,I can't remember my PIN for my Bank of America checking account,pin_change
 4050,"was a hold placed on my wells fargo account, and if so why","une retenue a été placée sur mon compte Wells Fargo, et si oui pourquoi","A hold was placed on my Wells Fargo account, and if so why?",account_blocked
-4051,"there's a hold on my chase account, but why","il y a une retenue sur mon compte chase, mais pourquoi",there is a hold on my chase account but why,account_blocked
+4051,"there's a hold on my chase account, but why","il y a une retenue sur mon compte Chase, mais pourquoi","There is a hold on my Chase account, but why?",account_blocked
 4052,what would cause my bank account to be frozen,qu'est-ce qui pourrait provoquer le gel de mon compte bancaire,what could cause my bank account to be frozen,account_blocked
 4053,why is my account locked,pourquoi mon compte est verrouillé,why is my account locked,account_blocked
 4054,"help, my account is blocked","au secours, mon compte est bloqué","help, my account is blocked",account_blocked
@@ -4194,7 +4194,7 @@
 4192,tell me the procedure for changing oil in a car,dis-moi la procédure pour changer l'huile dans une voiture,tell me the procedure to change the oil in a car,oil_change_how
 4193,i intend to learn how to change oil in my car,j'ai l'intention d'apprendre à changer l'huile de ma voiture,I plan to learn how to change the oil in my car,oil_change_how
 4194,i want to learn the process of changing oil,je veux apprendre le processus de changement d'huile,I want to learn the oil change process,oil_change_how
-4195,i should use what kind of oil and can you help me change it,Quel type d'huile dois-je utiliser et pouvez-vous m'aider à la changer,What type of oil should I use and can you help me change it,oil_change_how
+4195,i should use what kind of oil and can you help me change it,Quel type d'huile dois-je utiliser et pouvez-vous m'aider à la changer,What type of oil should I use and can you help me change it?,oil_change_how
 4196,how do i change the oil in my passat,comment changer l'huile dans ma passat,how to change the oil in my passat,oil_change_how
 4197,tell me how to change the oil in 2014 odyssey,dis-moi comment changer l'huile dans l'odyssée 2014,tell me how to change oil in odyssey 2014,oil_change_how
 4198,find instructions on how to change my oil,trouver des instructions sur la façon de changer mon huile,find instructions on how to change my oil,oil_change_how
@@ -4253,7 +4253,7 @@
 4251,is it possible to rent a car from laguardia from tuesday to friday,est-il possible de louer une voiture à Laguardia du mardi au vendredi,is it possible to rent a car in Laguardia from Tuesday to Friday,car_rental
 4252,i need a rental car for sfo from friday to saturday,j'ai besoin d'une voiture de location pour SFO du vendredi au samedi,I need a rental car for SFO from Friday to Saturday,car_rental
 4253,are there any places nearby i can rent a car at,Y a-t-il des endroits à proximité où je peux louer une voiture,Are there any places nearby where I can rent a car?,car_rental
-4254,could i rent a car in seattle from next monday to thursday please,"Puis-je louer une voiture à Seattle du lundi au jeudi prochain, s'il vous plaît",Can I rent a car in Seattle from Monday to next Thursday please,car_rental
+4254,could i rent a car in seattle from next monday to thursday please,"Puis-je louer une voiture à Seattle du lundi au jeudi prochain, s'il vous plaît",Can I rent a car in Seattle from Monday to Thursday next week please,car_rental
 4255,i'd like to find a place that rents flashy sports cars in tampa,j'aimerais trouver un endroit qui loue des voitures de sport flashy à Tampa,I would like to find a place that rents flashy sports cars in Tampa,car_rental
 4256,i need you to get me a rental car in nashville,j'ai besoin que tu me trouves une voiture de location à Nashville,I need you to find me a rental car in Nashville,car_rental
 4257,i want to rent a car in boise from april 12-15,je veux louer une voiture à Boise du 12 au 15 avril,I want to rent a car in Boise from April 12th to April 15th,car_rental
@@ -4281,7 +4281,7 @@
 4279,is there a car rental available from tuesday to thursday out of lax,y a t-il une location de voiture disponible du mardi au jeudi en dehors de Lax,is there a car rental available from Tuesday to Thursday outside of Lax,car_rental
 4280,will i be able to rent a car in boston from march 2 to march 4,Est-ce que je pourrai louer une voiture à Boston du 2 au 4 mars,Will I be able to rent a car in Boston from March 2nd to March 4th?,car_rental
 4281,please look up if i can rent a car in houston from march 25 to march 29,"s'il vous plaît, vérifiez si je peux louer une voiture à Houston du 25 au 29 mars",please check if i can rent a car in houston from march 25th to march 29th,car_rental
-4282,could i rent a car out of dallas from april 1-10,puis-je louer une voiture à Dallas du 1er au 10 avril,can i rent a car in dallas april 1-10,car_rental
+4282,could i rent a car out of dallas from april 1-10,Puis-je louer une voiture à Dallas du 1er au 10 avril,Can I rent a car in Dallas April 1-10,car_rental
 4283,i'd like to rent a vehicle from nov 1st to nov 15th in san antonio and i need a 15 passenger van,j'aimerais louer un véhicule du 1er au 15 novembre à San Antonio et j'ai besoin d'une camionnette de 15 passagers,I would like to rent a vehicle from November 1st to 15th in San Antonio and I need a 15 passenger van,car_rental
 4284,how can i rent a car in boston,comment puis-je louer une voiture à boston,how can i rent a car in boston,car_rental
 4285,can you help me with seattle car rental bookings,pouvez-vous m'aider avec les réservations de location de voiture à Seattle,can you help me with car rental reservations in seattle,car_rental
@@ -4289,11 +4289,11 @@
 4287,could i rent a car from tuesday to thursday out of lax,puis-je louer une voiture du mardi au jeudi en dehors de Lax,can i rent a car from tuesday to thursday outside lax,car_rental
 4288,i would like some help getting a rental car reserved in los angeles,j'aimerais de l'aide pour réserver une voiture de location à Los Angeles,I would like help booking a rental car in Los Angeles,car_rental
 4289,can i get a jeep to rent in bangor from the first of the month to a week after the first,puis-je obtenir une jeep à louer à Bangor du premier du mois à une semaine après le premier,can i get a jeep for rent in bangor from the first of the month to a week after the first,car_rental
-4290,"in nashville, i need a rental car booked","à Nashville, j'ai besoin de réserver une voiture de location",in Nashville I need to reserve a rental car,car_rental
+4290,"in nashville, i need a rental car booked","à Nashville, j'ai besoin de réserver une voiture de location",in Nashville I need to book a rental car,car_rental
 4291,find me a rental car from 3/6 - 3/9 in port charles,Trouvez-moi une voiture de location du 6 au 9 mars à Port Charles,Find me a rental car March 6-9 in Port Charles,car_rental
 4292,is it possible to rent a car from new york on 3/2/19 to 3/5/19,Est-il possible de louer une voiture à New York du 02/03/19 au 05/03/19,Is it possible to rent a car in New York from 02/03/19 to 05/03/19,car_rental
 4293,help me get a rental car,aidez-moi à obtenir une voiture de location,help me get a rental car,car_rental
-4294,can i rent a car in belgium from march 01 to march 02 and have it be a porsche,puis-je louer une voiture en Belgique du 01 mars au 02 mars et que ce soit une Porsche,can i rent a car in belgium from march 01 to march 02 and it is a porsche,car_rental
+4294,can i rent a car in belgium from march 01 to march 02 and have it be a porsche,puis-je louer une voiture en Belgique du 01 mars au 02 mars et que ce soit une Porsche,can I rent a car in Belgium from March 1 to March 2 and it is a Porsche,car_rental
 4295,i want to rent a car in boston for march 2 until march 4,je veux louer une voiture à Boston du 2 au 4 mars,I want to rent a car in Boston from March 2nd to March 4th,car_rental
 4296,a rental car needs to be booked in nashville,une voiture de location doit être réservée à Nashville,A rental car must be booked in Nashville,car_rental
 4297,i want a bmw suv for march 2 to 6th in dallas,je veux un SUV BMW pour le 2 au 6 mars à Dallas,I want a BMW SUV for March 2-6 in Dallas,car_rental
@@ -4511,7 +4511,7 @@
 4509,"yep, that's right","ouais, c'est vrai","yeah, that's true",yes
 4510,i think it's true,je pense que c'est vrai,I think it's true,yes
 4511,"yeah that's right, so true","ouais c'est vrai, tellement vrai","yeah it's true, so true",yes
-4512,"yes, that's accurate","oui, c'est exact","yes, that's correct",yes
+4512,"yes, that's accurate","oui, c'est exact","yes, that's right",yes
 4513,"yes, that is a fact","oui, c'est un fait","yes, it is a fact",yes
 4514,"yep, that's true","ouais, c'est vrai","yeah, that's true",yes
 4515,yes that is correct,oui c'est correct,yes it is correct,yes
@@ -4608,7 +4608,7 @@
 4606,what do people call you,comment les gens t'appellent,what people call you,what_is_your_name
 4607,do you have a name i can use,as-tu un nom que je peux utiliser,do you have a name i can use,what_is_your_name
 4608,what name should i use for you,quel nom dois-je utiliser pour toi,what name should i use for you,what_is_your_name
-4609,do you have a name i should call you by,Est-ce que tu as un nom par lequel je devrais t'appeler ?,Do you have a name I should call you by?,what_is_your_name
+4609,do you have a name i should call you by,as-tu un nom par lequel je devrais t'appeler ?,do you have a name i should call you by?,what_is_your_name
 4610,"ai, do you like your name","ai, tu aimes ton nom","ai, you like your name",what_is_your_name
 4611,what is the name i should use to refer to you,quel est le nom que je devrais utiliser pour me référer à toi,what name should i use to refer to you,what_is_your_name
 4612,"ai, what's your name","ai, quel est ton nom","ai, what is your name",what_is_your_name
@@ -4673,7 +4673,7 @@
 4671,can you tell me the amount of gas i have,Peux-tu me dire la quantité de gaz dont je dispose ?,Can you tell me how much gas I have?,gas
 4672,can i make it to work with my current fuel level,puis-je le faire fonctionner avec mon niveau de carburant actuel,can i make it work with my current fuel level,gas
 4673,is my gas tank full,Mon réservoir d'essence est-il plein ?,Is my gas tank full?,gas
-4674,can my car get to reno with the gas currently in my tank,Ma voiture peut-elle aller à Reno avec l'essence que j'ai actuellement dans mon réservoir,Can my car go to Reno with the gas I currently have in my tank?,gas
+4674,can my car get to reno with the gas currently in my tank,Ma voiture peut-elle aller à Reno avec l'essence que j'ai actuellement dans le réservoir,Can my car go to Reno with the gas I currently have in the tank?,gas
 4675,am i low on gas,suis-je à court d'essence ?,am i running out of gas?,gas
 4676,i would like to know the amount of gas i have,j'aimerais savoir la quantité de gaz dont je dispose,I would like to know how much gas I have,gas
 4677,what level is my gas tank at,à quel niveau est mon réservoir d'essence,how full is my gas tank,gas
@@ -4875,7 +4875,7 @@
 4873,suggest a meal from denmark to me,propose-moi un repas du Danemark,offer me a meal from Denmark,meal_suggestion
 4874,i'd like to get dinner suggestions for thai food,j'aimerais avoir des suggestions de plats thaïlandais pour le dîner,I would like some suggestions for Thai dishes for dinner.,meal_suggestion
 4875,need some good dinner ideas,j'ai besoin de bonnes idées pour le dîner,I need some good ideas for dinner,meal_suggestion
-4876,what food from italy do you suggest,Quelle nourriture d'Italie proposez-vous ?,What Italian food do you offer?,meal_suggestion
+4876,what food from italy do you suggest,Quelle nourriture d'Italie proposez-vous,What Italian food do you offer?,meal_suggestion
 4877,what meal from italy do you suggest,quel repas italien proposez-vous,what italian meal do you offer,meal_suggestion
 4878,do you have any southern dishes to recommend,Avez-vous des plats du sud à recommander ?,Do you have any southern dishes to recommend?,meal_suggestion
 4879,suggest food from italy to me,propose-moi de la nourriture italienne,offer me italian food,meal_suggestion
@@ -4949,7 +4949,7 @@
 4947,lets fin out some fun facts about humans,découvrons quelques faits amusants sur les humains,let's find out some fun facts about humans,fun_fact
 4948,lets hear an interesting fact about funko pops,écoutons un fait intéressant sur les Funko Pops,Let's hear an interesting fact about Funko Pops,fun_fact
 4949,tell me about something some trivia,"Parle-moi de quelque chose, d'anecdotes","Tell me about something, some anecdotes",fun_fact
-4950,give me the nutritional information for mashed potatoes,donne-moi les informations nutritionnelles de la purée de pommes de terre,give me the nutritional information for mashed potatoes,nutrition_info
+4950,give me the nutritional information for mashed potatoes,donne-moi les informations nutritionnelles de la purée de pommes de terre,give me the nutritional information of mashed potatoes,nutrition_info
 4951,please give me the nutrition facts for chicken parmesan,s'il vous plaît donnez-moi les informations nutritionnelles du poulet parmesan,please give me the nutritional information of chicken parmesan,nutrition_info
 4952,tell me how healthy mac and cheese is,dis-moi à quel point le macaroni au fromage est sain,tell me how healthy mac and cheese is,nutrition_info
 4953,what are the nutrition facts for a medium popcorn at the movies,quelles sont les valeurs nutritionnelles d'un pop-corn moyen au cinéma,what are the nutritional values ​​of an average movie theater popcorn,nutrition_info
@@ -5185,7 +5185,7 @@
 5183,book me a hotel room in memphis for 3 people from 3/6 until 3/10,réservez-moi une chambre d'hôtel à Memphis pour 3 personnes du 6 mars au 10 mars,book me a hotel room in Memphis for 3 people from March 6th to March 10th,book_hotel
 5184,"march 20th through the 22nd, please book me a hotel room in manhattan big enough for 10 people","Du 20 au 22 mars, veuillez me réserver une chambre d'hôtel à Manhattan suffisamment grande pour 10 personnes","From March 20th to 22nd, please book me a hotel room in Manhattan large enough for 10 people.",book_hotel
 5185,will you find me a place to stay in casper from march 5th to march 11th,peux-tu me trouver un endroit où séjourner à Casper du 5 au 11 mars,can you find me a place to stay in casper from march 5th to march 11th,book_hotel
-5186,can you find me a hotel in columbus with good reviews,Peux-tu me trouver un hôtel à Columbus avec de bonnes critiques,Can you find me a hotel in Columbus with good reviews?,book_hotel
+5186,can you find me a hotel in columbus with good reviews,Peux-tu me trouver un hôtel à Columbus avec de bonnes critiques ?,Can you find me a hotel in Columbus with good reviews?,book_hotel
 5187,help me find a hotel in that has good reviews in columbus,aidez-moi à trouver un hôtel qui a de bonnes critiques à Columbus,help me find a hotel that has good reviews in columbus,book_hotel
 5188,help me find a good reviews hotel in la,aidez-moi à trouver un bon hôtel avec des avis positifs à Los Angeles,help me find a good hotel with positive reviews in Los Angeles,book_hotel
 5189,do you know of any well reviewed hotels in chicago,Connaissez-vous des hôtels bien notés à Chicago ?,Do you know of any highly rated hotels in Chicago?,book_hotel
@@ -5360,7 +5360,7 @@
 5358,can you recommend an indian restaurant,pouvez-vous me recommander un restaurant indien,can you recommend me an indian restaurant,restaurant_suggestion
 5359,can you list off 4 star restaurants,pouvez-vous énumérer des restaurants 4 étoiles,can you list 4 star restaurants,restaurant_suggestion
 5360,what's the best place for some thai in new york city,quel est le meilleur endroit pour manger de la cuisine thaï à New York,what is the best place to eat thai food in new york,restaurant_suggestion
-5361,"i'm in the mood for italian, are there any good places around","j'ai envie de cuisine italienne, y a-t-il de bons endroits dans les environs","I'm craving Italian food, are there any good places nearby?",restaurant_suggestion
+5361,"i'm in the mood for italian, are there any good places around","j'ai envie de cuisine italienne, y a-t-il de bons endroits dans les environs ?","I'm craving Italian food, are there any good places nearby?",restaurant_suggestion
 5362,what are some good sushi restaurants in reno,Quels sont les bons restaurants de sushi à Reno,What are some good sushi restaurants in Reno?,restaurant_suggestion
 5363,find an indian restaurant,trouver un restaurant indien,find an indian restaurant,restaurant_suggestion
 5364,can you recommend a decent place in chicago to get pizza,Peux-tu me recommander un bon endroit à Chicago pour manger une pizza ?,Can you recommend a good place in Chicago to get pizza?,restaurant_suggestion
@@ -5369,7 +5369,7 @@
 5367,is there a barbecue restaurant around here,y a-t-il un restaurant barbecue dans le coin ?,Is there a barbecue restaurant nearby?,restaurant_suggestion
 5368,i'm famished so give me some places to eat!,J'ai faim alors donnez-moi des endroits où manger !,I'm hungry so give me places to eat!,restaurant_suggestion
 5369,is there any good place in hawaii for pasta,Y a-t-il un bon endroit à Hawaï pour manger des pâtes ?,Is there a good place in Hawaii to eat pasta?,restaurant_suggestion
-5370,can you tell me the best place for cajun shrimp in tampa,peux-tu me dire le meilleur endroit pour manger des crevettes cajun à Tampa,can you tell me the best place to eat cajun shrimp in tampa,restaurant_suggestion
+5370,can you tell me the best place for cajun shrimp in tampa,Peux-tu me dire le meilleur endroit pour manger des crevettes cajun à Tampa ?,Can you tell me the best place to eat Cajun shrimp in Tampa?,restaurant_suggestion
 5371,can you find a good steakhouse for tonight,peux-tu trouver un bon steakhouse pour ce soir,can you find a good steakhouse for tonight,restaurant_suggestion
 5372,can you find me a good restaurant to try eating at,Peux-tu me trouver un bon restaurant où essayer de manger ?,Can you find me a good restaurant to try eating at?,restaurant_suggestion
 5373,what decent restaurants around here are italian,quels bons restaurants ici sont italiens,what good restaurants here are italian,restaurant_suggestion
@@ -5391,7 +5391,7 @@
 5389,any ideas on a good place to eat out,des idées sur un bon endroit pour manger au restaurant,ideas for a good place to eat at a restaurant,restaurant_suggestion
 5390,please list nearby restaurants with 4 or more star reviews,Veuillez énumérer les restaurants à proximité avec des avis 4 étoiles ou plus,Please list nearby restaurants with 4 star or higher reviews,restaurant_suggestion
 5391,what's a good restaurant nearby,quel est un bon restaurant à proximité,what is a good restaurant nearby,restaurant_suggestion
-5392,where's a good place to get some grub,où est un bon endroit pour manger un morceau,where is a good place to get a bite to eat,restaurant_suggestion
+5392,where's a good place to get some grub,où est un bon endroit pour manger quelque chose,where is a good place to eat something,restaurant_suggestion
 5393,can you list off different restaurants,pouvez-vous énumérer différents restaurants,can you list different restaurants,restaurant_suggestion
 5394,"i'm not going to cook today, can you suggest a restaurant","je ne vais pas cuisiner aujourd'hui, peux-tu me suggérer un restaurant","I'm not going to cook today, can you suggest a restaurant?",restaurant_suggestion
 5395,what are good places for a burrito in albuquerque,quels sont les bons endroits pour un burrito à Albuquerque,what are some good places for a burrito in albuquerque,restaurant_suggestion
@@ -5475,7 +5475,7 @@
 5473,how much is the current balance in my td bank savings account,quel est le solde actuel de mon compte d'épargne bancaire td,what is the current balance of my td bank savings account,balance
 5474,what is the balance of my bank accounts,quel est le solde de mes comptes bancaires,What is the balance of my bank accounts?,balance
 5475,how much money do i have in my account,combien d'argent ai-je sur mon compte,how much money do i have in my account,balance
-5476,i wish to know the balance of my bank of american account,je souhaite connaître le solde de mon compte bancaire américain,I would like to know the balance of my American bank account,balance
+5476,i wish to know the balance of my bank of american account,je souhaite connaître le solde de mon compte bancaire américain,I want to know the balance of my American bank account,balance
 5477,what is my bank balance for all accounts,quel est mon solde bancaire pour tous les comptes,what is my bank balance for all accounts,balance
 5478,i wanna know my bank balance,je veux connaître mon solde bancaire,I want to know my bank balance,balance
 5479,how much is in savings,combien y a-t-il d'économies,how much savings are there,balance
@@ -5686,11 +5686,11 @@
 5684,remove chips from my shopping list,supprimer les chips de ma liste de courses,remove chips from my shopping list,shopping_list_update
 5685,remove fries from my shopping list,supprimer les frites de ma liste de courses,remove fries from my shopping list,shopping_list_update
 5686,i need you to add creamer to my shopping list,j'ai besoin que tu ajoutes de la crème à ma liste de courses,I need you to add cream to my shopping list,shopping_list_update
-5687,take fresh carrots off my shopping list,retirer les carottes fraîches de ma liste de courses,remove fresh carrots from my shopping list,shopping_list_update
+5687,take fresh carrots off my shopping list,rayer les carottes fraîches de ma liste de courses,cross fresh carrots off my shopping list,shopping_list_update
 5688,add bread to my list of groceries,ajouter du pain à ma liste de courses,add bread to my shopping list,shopping_list_update
 5689,"on my shopping list, remove bread and add milk","sur ma liste de courses, retirer le pain et ajouter du lait","on my shopping list, remove bread and add milk",shopping_list_update
 5690,are bananas on my shopping list can you add them if they aren't,les bananes sont-elles sur ma liste de courses ? Peux-tu les ajouter si elles ne le sont pas ?,Are bananas on my shopping list? Can you add them if they are not?,shopping_list_update
-5691,can you put detergent on my shopping list cause i'm all out,Peux-tu mettre du détergent sur ma liste de courses car j'en ai plus,Can you put detergent on my shopping list because I'm out of it?,shopping_list_update
+5691,can you put detergent on my shopping list cause i'm all out,Peux-tu mettre du détergent sur ma liste de courses car j'en ai plus ?,Can you put detergent on my shopping list because I'm out of it?,shopping_list_update
 5692,can you take frozen food of my shopping list,Peux-tu retirer les aliments surgelés de ma liste de courses ?,Can you remove frozen foods from my shopping list?,shopping_list_update
 5693,would you add bananas to my shopping list as i am out,ajouterais-tu des bananes à ma liste de courses car je suis dehors ?,would you add bananas to my shopping list since i'm out?,shopping_list_update
 5694,can you add carrots to my shopping list and delete potatoes,Peux-tu ajouter des carottes à ma liste de courses et supprimer des pommes de terre,Can you add carrots to my shopping list and remove potatoes?,shopping_list_update
@@ -5771,7 +5771,7 @@
 5769,what is an 18 percent tip on 20 dollars,qu'est-ce qu'un pourboire de 18 pour cent sur 20 dollars,what is an 18 percent tip on $20,calculator
 5770,what is the square root of 144,quelle est la racine carrée de 144,what is the square root of 144,calculator
 5771,what is 20 times 20 times 30,combien font 20 fois 20 fois 30,how much is 20 times 20 times 30,calculator
-5772,how many times does 8 go into 2000,Combien de fois 8 entre dans 2000,How many times does 8 go into 2000?,calculator
+5772,how many times does 8 go into 2000,combien de fois 8 entre dans 2000,how many times does 8 go into 2000,calculator
 5773,what is 13 times 45,combien fait 13 fois 45,how much is 13 times 45,calculator
 5774,what does 2 + 2 equal,qu'est-ce que 2 + 2 égale,what does 2 + 2 equal,calculator
 5775,i need you to help me with some math if you can,j'ai besoin que tu m'aides avec quelques maths si tu peux,I need you to help me with some math if you can,calculator
@@ -5809,7 +5809,7 @@
 5807,when can i expect to receive the order,Quand puis-je m'attendre à recevoir la commande ?,When can I expect to receive the order?,order_status
 5808,can you see if my order was delivered,pouvez-vous voir si ma commande a été livrée,can you see if my order has been delivered,order_status
 5809,did my order ship,ma commande a-t-elle été expédiée,has my order been shipped,order_status
-5810,could you check to see if my order has been delivered,pourriez-vous vérifier si ma commande a été livrée,could you check if my order has been delivered,order_status
+5810,could you check to see if my order has been delivered,Pourriez-vous vérifier si ma commande a été livrée,Could you please check if my order has been delivered?,order_status
 5811,has my delivery order arrived yet,Ma commande de livraison est-elle déjà arrivée ?,Has my delivery order arrived yet?,order_status
 5812,has the order that i placed arrived,la commande que j'ai passée est-elle arrivée,Did the order I placed arrive?,order_status
 5813,help me find my package,aidez moi à retrouver mon colis,help me find my package,order_status
@@ -5958,7 +5958,7 @@
 5956,do i have any meetings with dave today,Est-ce que j'ai des réunions avec Dave aujourd'hui ?,Do I have any meetings with Dave today?,meeting_schedule
 5957,what do i have going on between 9 and 10,qu'est-ce qui se passe entre 9 et 10 heures,what happens between 9 and 10 o'clock,meeting_schedule
 5958,are any meetings scheduled for today,Est-ce qu'il y a des réunions prévues pour aujourd'hui ?,Are there any meetings scheduled for today?,meeting_schedule
-5959,do i have any meetings scheduled between 3 and 5 pm today,Est-ce que j'ai des réunions prévues entre 15h et 17h aujourd'hui,Do I have any meetings scheduled between 3pm and 5pm today?,meeting_schedule
+5959,do i have any meetings scheduled between 3 and 5 pm today,Est-ce que j'ai des réunions prévues entre 15h et 17h aujourd'hui ?,Do I have any meetings scheduled between 3pm and 5pm today?,meeting_schedule
 5960,let me hear all meetings for today,laisse-moi entendre toutes les réunions d'aujourd'hui,let me hear all the meetings today,meeting_schedule
 5961,do you see any meetings with john on my schedule today,Est-ce que tu vois des réunions avec John sur mon planning aujourd'hui ?,Do you see any meetings with John on my schedule today?,meeting_schedule
 5962,what meetings are on my calendar,quelles réunions sont sur mon calendrier,what meetings are on my calendar,meeting_schedule
@@ -6187,7 +6187,7 @@
 6185,i suspect fraudulent transaction,je soupçonne une transaction frauduleuse,I suspect a fraudulent transaction,report_fraud
 6186,please report information about activity on my credit card,veuillez signaler des informations sur l'activité sur ma carte de crédit,Please report information about activity on my credit card,report_fraud
 6187,i have charges on my amex card i didn't make,j'ai des frais sur ma carte amex que je n'ai pas effectués,I have charges on my Amex card that I did not make,report_fraud
-6188,how do i report a fraudulent charge on my visa,Comment signaler une charge frauduleuse sur mon visa,How to report a fraudulent charge on my visa,report_fraud
+6188,how do i report a fraudulent charge on my visa,Comment signaler une charge frauduleuse sur mon visa,How do I report a fraudulent charge on my visa?,report_fraud
 6189,can you help me deal with this fraudulent transaction from verizon on my account,pouvez-vous m'aider à gérer cette transaction frauduleuse de Verizon sur mon compte,can you help me deal with this fraudulent transaction from verizon on my account,report_fraud
 6190,i think there's fraud on my account,je pense qu'il y a une fraude sur mon compte,I think there is fraud on my account,report_fraud
 6191,i'm reporting fraudelent activity on my card,je signale une activité frauduleuse sur ma carte,I am reporting fraudulent activity on my card,report_fraud
@@ -6283,7 +6283,7 @@
 6281,the answer is no,la réponse est non,the answer is no,no
 6282,the information is wrong,l'information est fausse,the information is false,no
 6283,i would have to say the answer to that is no,je dois dire que la réponse à cette question est non,I have to say that the answer to this question is no.,no
-6284,"no, that is inaccurate","non, c'est inexact","No, that's not correct",no
+6284,"no, that is inaccurate","non, c'est inexact","No, that's not correct.",no
 6285,no!,Non!,No!,no
 6286,what you just said is false,ce que tu viens de dire est faux,what you just said is wrong,no
 6287,that is a completely false statement,c'est une déclaration complètement fausse,This is a completely false statement.,no
@@ -6404,7 +6404,7 @@
 6402,who do i report card theft to,à qui dois-je signaler le vol de carte,Who should I report card theft to?,report_lost_card
 6403,what do i do to report a lost card,que dois-je faire pour signaler une carte perdue,What should I do to report a lost card?,report_lost_card
 6404,i am obliged to report my stolen card,je suis obligé de signaler ma carte volée,I have to report my card stolen,report_lost_card
-6405,what must i do to report my card lost,que dois-je faire pour signaler la perte de ma carte,What should I do to report the loss of my card?,report_lost_card
+6405,what must i do to report my card lost,que dois-je faire pour signaler la perte de ma carte,What should I do to report my card lost?,report_lost_card
 6406,my capital one credit card was stolen,ma carte de crédit Capital One a été volée,My Capital One credit card was stolen,report_lost_card
 6407,i need to report a lost card,je dois signaler une carte perdue,I need to report a lost card,report_lost_card
 6408,"i need to report my card as stolen, please","je dois signaler que ma carte a été volée, s'il vous plaît","I need to report that my card has been stolen, please",report_lost_card
@@ -6476,7 +6476,7 @@
 6474,are there any transaction fees associated with my chase card if i am in tokyo,Y a-t-il des frais de transaction associés à ma carte Chase si je suis à Tokyo,Are there any transaction fees associated with my Chase card if I am in Tokyo?,international_fees
 6475,are there any fees for using my amex in england,Y a-t-il des frais pour utiliser mon Amex en Angleterre ?,Are there any fees for using my Amex in England?,international_fees
 6476,will i be charged if i use the card in australia,Est-ce que je serai facturé si j'utilise la carte en Australie,Will I be charged if I use the card in Australia?,international_fees
-6477,will i be charged if i use my card in france,est-ce que je serai facturé si j'utilise ma carte en France,Will I be charged if I use my card in France?,international_fees
+6477,will i be charged if i use my card in france,est-ce que je serai facturé si j'utilise ma carte en France,will i be charged if i use my card in france,international_fees
 6478,will i be charged if i use the card in france,est-ce que je serai facturé si j'utilise la carte en France,will i be charged if i use the card in france,international_fees
 6479,i want to know if there is any transaction fee using washington federal card when i am in canada,je voudrais savoir s'il y a des frais de transaction en utilisant la carte fédérale de Washington lorsque je suis au Canada,I would like to know if there are any transaction fees using the Washington Federal Card when I am in Canada,international_fees
 6480,do you charge me if i use my card in japan,est-ce que vous me facturez si j'utilise ma carte au Japon,do you charge me if i use my card in japan,international_fees
@@ -6553,7 +6553,7 @@
 6551,what's on my reminder list today,qu'est-ce qu'il y a sur ma liste de rappels aujourd'hui,what's on my reminder list today,reminder
 6552,my list of reminders is what,ma liste de rappels est ce que,my reminder list is what,reminder
 6553,please tell me everything on my list of reminders,s'il te plaît dis-moi tout ce qui se trouve sur ma liste de rappels,please tell me everything that is on my reminder list,reminder
-6554,what were the reminders that i made,quels étaient les rappels que j'ai faits,what were the reminders I made,reminder
+6554,what were the reminders that i made,quels étaient les rappels que j'ai faits,what were the reminders that I made,reminder
 6555,will you repeat my reminder list,est-ce que tu vas répéter ma liste de rappels,are you going to repeat my reminder list,reminder
 6556,please read my reminders,s'il vous plaît lisez mes rappels,please read my reminders,reminder
 6557,i want to see my reminder list,je veux voir ma liste de rappels,I want to see my reminder list,reminder
@@ -6584,7 +6584,7 @@
 6582,can you read me my list of reminders,peux-tu me lire ma liste de rappels,can you read me my reminder list,reminder
 6583,what are the items on my reminder list,quels sont les éléments de ma liste de rappel,what are the items on my reminder list,reminder
 6584,read my reminder list to me,lis-moi ma liste de rappels,read me my reminder list,reminder
-6585,can you read my list back to me,Peux-tu me relire ma liste ?,Can you read my list back to me?,reminder
+6585,can you read my list back to me,Peux-tu me relire ma liste ?,Can you read my list again?,reminder
 6586,did i set up a reminder to clean the bathroom,Est-ce que j'ai configuré un rappel pour nettoyer la salle de bain ?,Have I set a reminder to clean the bathroom?,reminder
 6587,can you remind me what i was trying to remember,Peux-tu me rappeler ce que j'essayais de me rappeler,Can you remind me what I was trying to remember?,reminder
 6588,is there a reminder for my aa meeting on my list,y a-t-il un rappel pour ma réunion AA sur ma liste,is there a reminder for my AA meeting on my list,reminder
@@ -6802,7 +6802,7 @@
 6800,i have to schedule somewhere get my tires checked out,je dois prendre rendez-vous quelque part pour faire vérifier mes pneus,I need to make an appointment somewhere to have my tires checked,schedule_maintenance
 6801,"i need an oil change, make an appointment","j'ai besoin d'une vidange d'huile, prendre rendez-vous","I need an oil change, make an appointment",schedule_maintenance
 6802,i want to schedule car maintenance,je veux planifier l'entretien de la voiture,I want to schedule car maintenance,schedule_maintenance
-6803,how do i schedule getting my tires checked,comment planifier la vérification de mes pneus,How to schedule my tire check,schedule_maintenance
+6803,how do i schedule getting my tires checked,comment planifier le contrôle de mes pneus,How to schedule my tire check,schedule_maintenance
 6804,can i please get an appointment to get my oil changed,Puis-je obtenir un rendez-vous pour faire changer mon huile ?,Can I get an appointment to have my oil changed?,schedule_maintenance
 6805,"i don't know why my check engine light is on, i need a mechanic","je ne sais pas pourquoi mon voyant de contrôle du moteur est allumé, j'ai besoin d'un mécanicien","I don't know why my check engine light is on, I need a mechanic",schedule_maintenance
 6806,i need help cause my check engine light came on,j'ai besoin d'aide car mon voyant de contrôle du moteur s'est allumé,I need help because my check engine light came on,schedule_maintenance
@@ -6817,7 +6817,7 @@
 6815,who can i contact about why check engine light is on,Qui puis-je contacter pour savoir pourquoi le voyant de contrôle du moteur est allumé,Who can I contact to find out why the check engine light is on,schedule_maintenance
 6816,please schedule an appointment for my oil to get changed,veuillez prendre rendez-vous pour que mon huile soit changée,please make an appointment to have my oil changed,schedule_maintenance
 6817,can you schedule me a mechanic,peux-tu me programmer un rendez-vous avec un mécanicien,can you schedule me an appointment with a mechanic,schedule_maintenance
-6818,i want to to schedule maintenance on my vehicle,je souhaite planifier l'entretien de mon véhicule,I want to schedule maintenance for my vehicle,schedule_maintenance
+6818,i want to to schedule maintenance on my vehicle,je souhaite planifier l'entretien de mon véhicule,I would like to schedule maintenance for my vehicle,schedule_maintenance
 6819,i need to find someone to look at my check engine light,je dois trouver quelqu'un pour regarder mon voyant de contrôle du moteur,I need to find someone to look at my check engine light,schedule_maintenance
 6820,i wanna schedule some car maintenance,je veux planifier un entretien de voiture,I want to schedule a car service,schedule_maintenance
 6821,"my engine light came on, so i need to get help","mon voyant moteur s'est allumé, j'ai donc besoin d'aide",my engine light came on so i need help,schedule_maintenance
@@ -7200,7 +7200,7 @@
 7198,it may be either one,ça peut être l'un ou l'autre,it could be either,maybe
 7199,that's a possibility,c'est une possibilité,it is a possibility,maybe
 7200,"at 9 tomorrow, set off the alarm","à 9 heures demain, déclenche le réveil","at 9am tomorrow, set the alarm",alarm
-7201,set my alarm for 6am tomorrow,régler mon réveil à 6 heures demain matin,set my alarm for 6am tomorrow morning,alarm
+7201,set my alarm for 6am tomorrow,régler mon réveil à 6 heures du matin demain,set my alarm for 6am tomorrow,alarm
 7202,can you set alarm for me,Peux-tu régler une alarme pour moi ?,Can you set an alarm for me?,alarm
 7203,i want to make an alarm,je veux faire une alarme,I want to make an alarm,alarm
 7204,wake me up at 6 am,Réveille-moi à 6 heures du matin,Wake me up at 6am,alarm
@@ -7279,7 +7279,7 @@
 7277,i want my credit score,je veux mon score de crédit,I want my credit score,credit_score
 7278,how do i locate my credit score,Comment puis-je localiser mon score de crédit,How do I locate my credit score?,credit_score
 7279,how do i find my credit score,Comment puis-je trouver mon score de crédit,How do I find my credit score?,credit_score
-7280,can you figure out how to find my credit score,peux-tu comprendre comment trouver mon score de crédit,can you understand how to find my credit score,credit_score
+7280,can you figure out how to find my credit score,peux-tu comprendre comment trouver mon score de crédit,can you figure out how to find my credit score,credit_score
 7281,websites that share credit ratings,sites Web qui partagent les notes de crédit,websites that share credit scores,credit_score
 7282,tell me my credit score please,dis-moi mon score de crédit s'il te plaît,tell me my credit score please,credit_score
 7283,get my credit score,obtenir mon score de crédit,get my credit score,credit_score
@@ -7325,7 +7325,7 @@
 7323,"see you later, alligator","à plus tard, alligator","see you later, alligator",goodbye
 7324,it was good to talk to you today,c'était bien de te parler aujourd'hui,It was nice talking to you today,goodbye
 7325,"goodbye, helpful ai device!","Au revoir, appareil d'IA utile !","Goodbye, helpful AI device!",goodbye
-7326,tootles,des toupies,spinning tops,goodbye
+7326,tootles,des tootles,some tootles,goodbye
 7327,cya later,à plus tard,see you,goodbye
 7328,it was nice chatting with you,c'était agréable de discuter avec toi,It was nice to chat with you,goodbye
 7329,ill see you around,Je te verrai dans le coin,I'll see you around,goodbye
@@ -7568,7 +7568,7 @@
 7566,please define erection for me,"s'il vous plaît, définissez-moi l'érection",please define erection for me,definition
 7567,what does idiosyncratic mean,que signifie idiosyncratique,what does idiosyncratic mean,definition
 7568,tell me the meaning of condemnation,dis-moi la signification de la condamnation,tell me the meaning of condemnation,definition
-7569,define monetary for me please,définissez-moi monétaire pour moi s'il vous plaît,set monetary for me please,definition
+7569,define monetary for me please,définissez-moi monétaire s'il vous plaît,set me monetary please,definition
 7570,tell me the meaning of hegemony,dis-moi la signification de l'hégémonie,tell me the meaning of hegemony,definition
 7571,what does indignation mean,que signifie l'indignation,what does indignation mean,definition
 7572,define ambivalence for me please,définissez-moi l'ambivalence s'il vous plaît,define ambivalence for me please,definition
@@ -7603,7 +7603,7 @@
 7601,tell me how to get new insurance,dites-moi comment obtenir une nouvelle assurance,tell me how to get new insurance,insurance_change
 7602,explain to me how do i get new insurance,explique-moi comment obtenir une nouvelle assurance,explain to me how to get new insurance,insurance_change
 7603,i want to get new insurance,je veux souscrire une nouvelle assurance,I want to take out new insurance,insurance_change
-7604,can you tell me how do i get new insurance,Peux-tu me dire comment obtenir une nouvelle assurance,Can you tell me how to get new insurance?,insurance_change
+7604,can you tell me how do i get new insurance,Peux-tu me dire comment obtenir une nouvelle assurance,Can you tell me how to get new insurance,insurance_change
 7605,i'd like to know how changes are made to my insurance policy,j'aimerais savoir comment les modifications sont apportées à ma police d'assurance,I would like to know how changes are made to my insurance policy,insurance_change
 7606,how can i make changes for my insurance policy,comment puis-je apporter des modifications à ma police d'assurance,how do i make changes to my insurance policy,insurance_change
 7607,can you tell me how changes on my insurance policy can be made,pouvez-vous me dire comment les modifications peuvent être apportées à ma police d'assurance,can you tell me how changes can be made to my insurance policy,insurance_change
@@ -7648,7 +7648,7 @@
 7646,are there any travel alerts for seattle,y a-t-il des alertes de voyage pour Seattle,Are there any travel alerts for Seattle?,travel_alert
 7647,how safe is it to travel to guatemala right now and are there any alerts,Est-il sûr de voyager au Guatemala en ce moment et y a-t-il des alertes,Is it safe to travel to Guatemala right now and are there any alerts?,travel_alert
 7648,are there any travel alerts for juarez,y a-t-il des alertes de voyage pour Juarez,Are there any travel alerts for Juarez?,travel_alert
-7649,what's the danger level of flying to russia right now,Quel est le niveau de dangerosité d'un vol vers la Russie en ce moment ?,How dangerous is it to fly to Russia right now?,travel_alert
+7649,what's the danger level of flying to russia right now,quel est le niveau de dangerosité d'un vol vers la Russie en ce moment,How dangerous is a flight to Russia right now?,travel_alert
 7650,are there any travel alerts for antarctica,existe-t-il des alertes de voyage pour l'Antarctique,are there any travel alerts for antarctica,travel_alert
 7651,are there any travel alerts for mountain view,existe-t-il des alertes de voyage pour Mountain View,are there any travel alerts for mountain view,travel_alert
 7652,does mexico have any travel alerts i should know about,Le Mexique a-t-il des alertes de voyage que je devrais connaître ?,Does Mexico have any travel alerts I should know about?,travel_alert
@@ -7801,7 +7801,7 @@
 7799,what's the clock say,que dit l'horloge,what does the clock say,time
 7800,what is the present status of my credit card application,quel est le statut actuel de ma demande de carte de crédit,What is the current status of my credit card application?,application_status
 7801,what is the current status of my credit card application,quel est le statut actuel de ma demande de carte de crédit,What is the current status of my credit card application?,application_status
-7802,in what status is my credit card application currently in,Dans quel état se trouve actuellement ma demande de carte de crédit,What status is my credit card application currently in?,application_status
+7802,in what status is my credit card application currently in,dans quel statut se trouve actuellement ma demande de carte de crédit,What is the current status of my credit card application?,application_status
 7803,how far along is my credit card application,Où en est ma demande de carte de crédit ?,Where is my credit card application?,application_status
 7804,what is the status of my credit card application looking like,à quoi ressemble le statut de ma demande de carte de crédit,What does my credit card application status look like?,application_status
 7805,pull up my credit card application's current status,consulter le statut actuel de ma demande de carte de crédit,check the current status of my credit card application,application_status
@@ -7933,7 +7933,7 @@
 7931,what kinds of subjects do you know about,Quels types de sujets connaissez-vous ?,What types of topics do you know?,what_can_i_ask_you
 7932,what are the different subjects that you know,quels sont les différents sujets que tu connais,what are the different subjects you know,what_can_i_ask_you
 7933,which kinds of info are you familiar with,Quels types d'informations connaissez-vous ?,What types of information do you know?,what_can_i_ask_you
-7934,what kind of information do you know,Quel genre d'informations connaissez-vous,What kind of information do you know?,what_can_i_ask_you
+7934,what kind of information do you know,quel genre d'informations connaissez-vous,what kind of information do you know,what_can_i_ask_you
 7935,which subjects can you tell me about,de quels sujets peux-tu me parler,What topics can you talk to me about?,what_can_i_ask_you
 7936,can i ask you all different types of questions,puis-je vous poser tous les différents types de questions,can i ask you all the different types of questions,what_can_i_ask_you
 7937,can you answer all types of questions,peux-tu répondre à tous les types de questions,can you answer all types of questions,what_can_i_ask_you
@@ -7992,7 +7992,7 @@
 7990,what reservations are available for 3 people at the xenophobe,quelles réservations sont disponibles pour 3 personnes au xénophobe,what reservations are available for 3 people to xenophobe,restaurant_reservation
 7991,under the name zebee book a reservation at the xenophobe for 3,sous le nom de zebee réservez une chambre au xenophobe pour 3,under the name of zebee book a room at the xenophobe for 3,restaurant_reservation
 7992,use the name wheeler to reserve a table for 3 at andrea's steakhouse at 5pm,utilisez le nom wheeler pour réserver une table pour 3 au steakhouse d'andrea à 17h,use the name wheeler to reserve a table for 3 at andrea's steakhouse at 5pm,restaurant_reservation
-7993,make a reservation for wheeler party of 3 for 5pm at andrea's steakhouse,faites une réservation pour le groupe Wheeler de 3 pour 17h au steakhouse d'Andrea,make a reservation for Wheeler's group of 3 for 5pm at Andrea's Steakhouse,restaurant_reservation
+7993,make a reservation for wheeler party of 3 for 5pm at andrea's steakhouse,faites une réservation pour le Wheeler Party de 3 pour 17h au steakhouse d'Andrea,Make a reservation for the Wheeler Party of 3 for 5pm at Andrea's Steakhouse,restaurant_reservation
 7994,reserve a table for 3 at andrea's steakhouse around 5pm under the name wheeler,réservez une table pour 3 au steakhouse d'Andrea vers 17h sous le nom de wheeler,book a table for 3 at andrea's steakhouse around 5pm under the name wheeler,restaurant_reservation
 7995,i need a table for 3 at 5pm at andrea's steakhouse under wheeler,j'ai besoin d'une table pour 3 à 17h au steakhouse d'Andrea sous Wheeler,I need a table for 3 at 5pm at Andrea's Steakhouse on Wheeler,restaurant_reservation
 7996,reserve a table for 3 under the name wheeler at andrea's steakhouse for 5pm,réservez une table pour 3 sous le nom de wheeler au steakhouse d'andrea pour 17h,reserve a table for 3 under the name wheeler at andrea's steakhouse for 5pm,restaurant_reservation
@@ -8046,12 +8046,12 @@
 8044,please put a block on my capital one account immediately,"s'il vous plaît, bloquez immédiatement mon compte Capital One",Please block my Capital One account immediately,freeze_account
 8045,please put a block on my discover account immediately,"s'il vous plaît, bloquez immédiatement mon compte Discover",please block my discover account immediately,freeze_account
 8046,please put a block on my regions account immediately,"s'il vous plaît, bloquez immédiatement mon compte Regions",please block my Regions account immediately,freeze_account
-8047,please put a block on my wells fargo account immediately,"s'il vous plaît, bloquez immédiatement mon compte Wells Fargo",please block my Wells Fargo account immediately,freeze_account
+8047,please put a block on my wells fargo account immediately,"s'il vous plaît, bloquez immédiatement mon compte Wells Fargo",Please block my Wells Fargo account immediately,freeze_account
 8048,please put a block on my us bank account immediately,"S'il vous plaît, bloquez immédiatement mon compte bancaire américain",Please block my US bank account immediately,freeze_account
 8049,i need you to act swiftly and freeze all activity on my capital one checking,j'ai besoin que vous agissiez rapidement et que vous geliez toute activité sur mon compte courant Capital One,I need you to act quickly and freeze all activity on my Capital One checking account.,freeze_account
 8050,place a hold on my chase money market market account at once,mettre en attente mon compte du marché monétaire de Chase immédiatement,put my Chase Money Market account on hold immediately,freeze_account
 8051,i need to block all transactions from going through on my citi checking account straight away,je dois bloquer immédiatement toutes les transactions sur mon compte courant Citi,I must immediately block all transactions on my Citi checking account,freeze_account
-8052,please immediately block my navy federal credit union account,"s'il vous plaît, bloquez immédiatement mon compte de la Navy Federal Credit Union",please block my Navy Federal Credit Union account immediately,freeze_account
+8052,please immediately block my navy federal credit union account,"s'il vous plaît, bloquez immédiatement mon compte de la coopérative de crédit fédérale de la marine",please immediately block my navy federal credit union account,freeze_account
 8053,can you initiate a block on my bank of america checking asap,pouvez-vous initier un blocage sur mon compte courant Bank of America dès que possible,can you initiate a freeze on my bank of america checking account asap,freeze_account
 8054,i need my savings account placed under a block as soon as possible,j'ai besoin que mon compte d'épargne soit bloqué dès que possible,I need my savings account frozen asap,freeze_account
 8055,please put a hold on my retirement account right now,"S'il vous plaît, bloquez mon compte de retraite dès maintenant",Please freeze my retirement account now,freeze_account
@@ -8161,7 +8161,7 @@
 8159,what timezone is london in,Dans quel fuseau horaire se trouve Londres,What time zone is London in?,timezone
 8160,i want you to skip past this song to the next track,je veux que tu passes cette chanson à la piste suivante,I want you to skip this song to the next track,next_song
 8161,please skip this song and go to the next one instead,"S'il vous plaît, sautez cette chanson et passez plutôt à la suivante",Please skip this song and move on to the next one instead.,next_song
-8162,would you skip past this song and just play what comes next,Pourriez-vous passer cette chanson et simplement jouer celle qui vient ensuite ?,Could you skip this song and just play the next one?,next_song
+8162,would you skip past this song and just play what comes next,Pourriez-vous passer outre cette chanson et simplement jouer celle qui vient ensuite ?,Could you skip this song and just play the next one?,next_song
 8163,"i dont want to hear this song, just play the next one","Je ne veux pas entendre cette chanson, je veux juste écouter la suivante","I don't want to hear this song, I just want to hear the next one",next_song
 8164,let's skip over this song and listen to the next tune instead,sautons cette chanson et écoutons plutôt le morceau suivant,let's skip this song and listen to the next track instead,next_song
 8165,would you play the next song,est-ce que tu jouerais la chanson suivante ?,would you play the next song?,next_song
@@ -8216,7 +8216,7 @@
 8214,"i want to eat mediterranean fare with at least four stars, near me","je veux manger de la cuisine méditerranéenne avec au moins quatre étoiles, près de chez moi","I want to eat Mediterranean cuisine with at least four stars, close to home",restaurant_suggestion
 8215,what are some good ethiopian restaurants in queens,Quels sont les bons restaurants éthiopiens dans le Queens,What are some good Ethiopian restaurants in Queens?,restaurant_suggestion
 8216,what are some good itialian restaurants in north salem,quels sont les bons restaurants italiens à North Salem,what are some good italian restaurants in north salem,restaurant_suggestion
-8217,what are some good vegan restaurants in broadripple,quels sont les bons restaurants végétaliens à broadripple,what are some good vegan restaurants in broadripple,restaurant_suggestion
+8217,what are some good vegan restaurants in broadripple,Quels sont les bons restaurants végétaliens à Broadripple,What are some good vegan restaurants in Broadripple?,restaurant_suggestion
 8218,what are some good mexican restaurants in indianapolis,Quels sont les bons restaurants mexicains à Indianapolis,What are some good Mexican restaurants in Indianapolis?,restaurant_suggestion
 8219,what are some good southern bbq restaurants in nashville,Quels sont les bons restaurants de barbecue du sud à Nashville,What are some good southern barbecue restaurants in Nashville?,restaurant_suggestion
 8220,whats the reward balance for my visa,quel est le solde de récompense pour mon visa,what is the reward balance for my visa,rewards_balance
@@ -8394,7 +8394,7 @@
 8392,i need to know this car's mpg,j'ai besoin de connaître le mpg de cette voiture,i need to know the mpg of this car,mpg
 8393,how many miles will i get for one gallon on this car,Combien de kilomètres vais-je obtenir pour un gallon sur cette voiture,How many miles will I get per gallon on this car,mpg
 8394,i would like to know the mpg for this car,j'aimerais connaître le mpg de cette voiture,I would like to know the mpg of this car,mpg
-8395,what's the mpg of my car,quelle est la consommation de ma voiture,What is my car's consumption?,mpg
+8395,what's the mpg of my car,quelle est la consommation de ma voiture,What is the consumption of my car?,mpg
 8396,get me info on my mpg,donne-moi des informations sur mon mpg,give me information about my mpg,mpg
 8397,tell me the mpg of my vehicle,dis-moi le mpg de mon véhicule,tell me the mpg of my vehicle,mpg
 8398,how many mpg does my car get,Combien de mpg ma voiture obtient-elle ?,How many mpg does my car get?,mpg
@@ -8641,10 +8641,10 @@
 8639,read back my day for march 4th 2019,relisez ma journée du 4 mars 2019,"read my day of March 4, 2019",calendar
 8640,i need you to schedule an uber pickup for me and three other people at 7pm to go to abe's pizza,j'ai besoin que tu planifies un ramassage Uber pour moi et trois autres personnes à 19 heures pour aller chez Abe's Pizza,I need you to schedule an Uber pickup for me and three other people at 7pm to go to Abe's Pizza,uber
 8641,send me an uber to arrive at 5pm at my house and there will be two people going to scully's downtown,envoie-moi un Uber pour arriver à 17h chez moi et il y aura deux personnes qui iront chez Scully au centre-ville,send me an Uber to my house at 5pm and there will be two people going to Scully's downtown,uber
-8642,send me an uber now for four people and we are going to appleby's downtown,Envoyez-moi un Uber maintenant pour quatre personnes et nous irons au centre-ville d'Appleby,Send me an Uber now for four people and we will go to downtown Appleby,uber
+8642,send me an uber now for four people and we are going to appleby's downtown,Envoyez-moi un Uber maintenant pour quatre personnes et nous irons au centre-ville d'Appleby,Send me an Uber now for four people and we will go to Appleby town centre,uber
 8643,i need an uber ride to come and pick me up now at work,j'ai besoin d'un Uber pour venir me chercher au travail maintenant,I need an Uber to pick me up from work now,uber
 8644,can you find me an uber and have it here at 7pm,Peux-tu me trouver un Uber et le faire venir ici à 19h ?,Can you get me an Uber and have it here at 7pm?,uber
-8645,"call me an uber please, and make it for four people to go downtown","Appelez-moi un Uber s'il vous plaît, et faites en sorte que quatre personnes puissent aller au centre-ville",Please call me an Uber and get four people downtown.,uber
+8645,"call me an uber please, and make it for four people to go downtown","Appelez-moi un Uber s'il vous plaît, et faites en sorte que quatre personnes puissent aller au centre-ville","Call me an Uber please, and make it possible for four people to go downtown",uber
 8646,i need an uber to come to my work at 5pm for three people going to the cineplex downtown,j'ai besoin d'un Uber pour venir à mon travail à 17 heures pour trois personnes qui vont au Cineplex du centre-ville,I need an Uber to get to work at 5pm for three people going to the Cineplex downtown,uber
 8647,are there any ubers available in my area right now,Y a-t-il des Uber disponibles dans ma région en ce moment ?,Are there any Ubers available in my area right now?,uber
 8648,schedule an uber to pick me up at home in an hour,planifier un Uber pour venir me chercher à la maison dans une heure,schedule an Uber to pick me up at home in an hour,uber
@@ -9065,7 +9065,7 @@
 9063,tell me the calorie content of frosted flakes,dis-moi la teneur en calories des flocons givrés,tell me the calorie content of frosted flakes,calories
 9064,inform me of the calorie content of vanilla ice cream,informe-moi de la teneur en calories de la glace à la vanille,tell me the calorie content of vanilla ice cream,calories
 9065,how many calories are in apples,Combien de calories y a-t-il dans les pommes ?,How many calories are in apples?,calories
-9066,how many calories are in oranges,Combien de calories y a-t-il dans les oranges ?,How many calories are in oranges?,calories
+9066,how many calories are in oranges,combien de calories y a-t-il dans les oranges,how many calories are in oranges,calories
 9067,how many calories are in ice cream,Combien de calories y a-t-il dans la crème glacée ?,How many calories are in ice cream?,calories
 9068,how many calories are in cake,Combien de calories y a-t-il dans un gâteau ?,How many calories are in a cake?,calories
 9069,how many calories are in oreos,combien de calories y a-t-il dans les Oreos,how many calories are in oreos,calories
@@ -9099,7 +9099,7 @@
 9097,my card was destroyed when my house burned down and i need a replacement,ma carte a été détruite lorsque ma maison a brûlé et j'ai besoin d'un remplacement,my card was destroyed when my house burned down and i need a replacement,damaged_card
 9098,i accidentally caught my card on fire,J'ai accidentellement mis le feu à ma carte,I accidentally set my card on fire,damaged_card
 9099,i accidentally shredded my card,j'ai accidentellement déchiqueté ma carte,I accidentally shredded my card,damaged_card
-9100,does mcdonald's have good reviews,McDonald's a-t-il de bonnes critiques,Does McDonald's have good reviews?,restaurant_reviews
+9100,does mcdonald's have good reviews,McDonald's a-t-il de bonnes critiques ?,Does McDonald's have good reviews?,restaurant_reviews
 9101,are the review for mcdonald's good or bad,les critiques de McDonald's sont-elles bonnes ou mauvaises,are mcdonald's reviews good or bad,restaurant_reviews
 9102,how are the reviews for mcdonald's,Comment sont les avis sur McDonald's,How are the reviews on McDonald's?,restaurant_reviews
 9103,what are the review for mcdonald's,quelles sont les critiques de McDonald's,what are the reviews of mcdonald's,restaurant_reviews
@@ -9398,8 +9398,8 @@
 9396,is my order at the delivery address,ma commande est-elle à l'adresse de livraison,is my order at the delivery address,order_status
 9397,when is my order coming,Quand est-ce que ma commande arrive ?,When will my order arrive?,order_status
 9398,is my order here,est-ce que ma commande est ici,is my order here,order_status
-9399,when will my order arrive,Quand est-ce que ma commande arrivera,When will my order arrive?,order_status
-9400,"i forgot my pin number for my credit union bank account, can you help","j'ai oublié mon numéro PIN pour mon compte bancaire de coopérative de crédit, pouvez-vous m'aider","I forgot my PIN number for my credit union bank account, can you help me?",pin_change
+9399,when will my order arrive,Quand ma commande arrivera-t-elle ?,When will my order arrive?,order_status
+9400,"i forgot my pin number for my credit union bank account, can you help","j'ai oublié mon numéro de code PIN pour mon compte bancaire de coopérative de crédit, pouvez-vous m'aider","I forgot my pin number for my credit union bank account, can you help me",pin_change
 9401,i want to change my bank of america account pin number,je veux changer le numéro de code PIN de mon compte Bank of America,I want to change my Bank of America account PIN number,pin_change
 9402,i want to change the pin number on my credit union account,je souhaite modifier le code PIN de mon compte de coopérative de crédit,I want to change my credit union account PIN,pin_change
 9403,can you help me figure out my pin number for my visa account,pouvez-vous m'aider à trouver mon numéro PIN pour mon compte Visa,can you help me find my pin number for my visa account,pin_change
@@ -9472,7 +9472,7 @@
 9470,name this song,nomme cette chanson,name this song,what_song
 9471,what's that song on the speaker now,Quelle est cette chanson sur le haut-parleur en ce moment ?,What's that song on the speaker right now?,what_song
 9472,what's the name of the song playing right now,quel est le nom de la chanson qui joue en ce moment,what is the name of the song that is playing right now,what_song
-9473,what song is playing right now,Quelle chanson est jouée en ce moment ?,What song is playing right now?,what_song
+9473,what song is playing right now,Quelle chanson est jouée en ce moment,What song is playing right now?,what_song
 9474,do you know the song on the speaker right now,Connaissez-vous la chanson qui passe en ce moment sur le haut-parleur ?,Do you know what song is playing on the speaker right now?,what_song
 9475,what's that song that is playing now,Quelle est la chanson qui joue en ce moment ?,What song is playing right now?,what_song
 9476,what is that tune,quelle est cette mélodie,what is this melody,what_song
@@ -9784,8 +9784,8 @@
 9782,do i have to get a shot for travel to taiwan,dois-je me faire vacciner pour voyager à Taiwan ?,Do I need to get vaccinated to travel to Taiwan?,vaccines
 9783,are shots required before traveling to brazil,les vaccins sont-ils obligatoires avant de voyager au Brésil,Are vaccinations required before traveling to Brazil?,vaccines
 9784,can i travel to south africa without getting a shot,Puis-je voyager en Afrique du Sud sans me faire vacciner ?,Can I travel to South Africa without getting vaccinated?,vaccines
-9785,what shots are required to visit australia,quels vaccins sont nécessaires pour visiter l'Australie,What vaccinations are required to visit Australia,vaccines
-9786,do i need any vaccines before traveling to brazil,Ai-je besoin de vaccins avant de voyager au Brésil ?,Do I need any vaccinations before traveling to Brazil?,vaccines
+9785,what shots are required to visit australia,quels vaccins sont nécessaires pour visiter l'Australie,what vaccinations are required to visit australia,vaccines
+9786,do i need any vaccines before traveling to brazil,Ai-je besoin de vaccins avant de voyager au Brésil,Do I need any vaccinations before traveling to Brazil?,vaccines
 9787,what shots do i need before going to africa,de quels vaccins ai-je besoin avant de partir en Afrique,What vaccinations do I need before going to Africa?,vaccines
 9788,do i need to get any shots before volunteering in the congo,dois-je me faire vacciner avant de faire du bénévolat au Congo,Do I need to get vaccinated before volunteering in Congo?,vaccines
 9789,must i have shots before i take a trip to canada,Dois-je me faire vacciner avant de partir en voyage au Canada ?,Do I need to get vaccinated before traveling to Canada?,vaccines
@@ -9820,7 +9820,7 @@
 9818,can you tell me how many pto days do i have left,Peux-tu me dire combien de jours de congés payés il me reste ?,Can you tell me how many days of paid vacation I have left?,pto_balance
 9819,what is the amount of time i can request off in the coming year,combien de temps puis-je demander de congés l'année prochaine,how much time off can i ask for next year,pto_balance
 9820,where is the closest subway entrance to me to go to brooklyn,où est l'entrée de métro la plus proche de chez moi pour aller à Brooklyn,where is the closest subway entrance to my house to go to brooklyn,directions
-9821,"where is the closest red lobster to my location right now, which is 5th avenue","où se trouve le Red Lobster le plus proche de chez moi en ce moment, c'est la 5e avenue",where is the closest Red Lobster to me right now it's 5th avenue,directions
+9821,"where is the closest red lobster to my location right now, which is 5th avenue","où se trouve le Red Lobster le plus proche de chez moi en ce moment, c'est-à-dire la 5e avenue","where is the closest Red Lobster to me right now, that is 5th avenue",directions
 9822,"i am on main street now, where is the closest bus stop to me","je suis sur la rue principale maintenant, où est l'arrêt de bus le plus proche de chez moi","I'm on the main street now, where is the closest bus stop to my house",directions
 9823,i am in downtown austin where is the nearest airport,je suis au centre-ville d'Austin où se trouve l'aéroport le plus proche,I am in downtown Austin where the closest airport is,directions
 9824,where is the closet bus stop to go to downtown dallas,Où est l'arrêt de bus le plus proche pour aller au centre-ville de Dallas,Where is the closest bus stop to downtown Dallas,directions
@@ -9927,7 +9927,7 @@
 9925,what might i need to do to direct deposit my paycheck,que dois-je faire pour déposer directement mon chèque de paie,what do i do to direct deposit my paycheck,direct_deposit
 9926,what information do i need to direct deposit my paycheck,De quelles informations ai-je besoin pour déposer directement mon chèque de paie,What information do I need to direct deposit my paycheck?,direct_deposit
 9927,how do i go about getting direct deposit in my usaa account,comment puis-je obtenir un dépôt direct sur mon compte USAA,how do i get direct deposit into my usaa account,direct_deposit
-9928,does my td ameritrade checking account take direct deposit,mon compte courant TD Ameritrade accepte-t-il le dépôt direct,Does my TD Ameritrade checking account accept direct deposit?,direct_deposit
+9928,does my td ameritrade checking account take direct deposit,Mon compte courant TD Ameritrade accepte-t-il le dépôt direct ?,Does my TD Ameritrade checking account accept direct deposit?,direct_deposit
 9929,"if i want to direct deposit my paycheck, what info do i need","Si je veux déposer directement mon chèque de paie, de quelles informations ai-je besoin","If I want to direct deposit my paycheck, what information do I need?",direct_deposit
 9930,direct deposit my paycheck to my capital one account,déposer directement mon chèque de paie sur mon compte Capital One,directly deposit my paycheck into my Capital One account,direct_deposit
 9931,i'd like direct deposit to my chase bank account,je voudrais un dépôt direct sur mon compte bancaire Chase,I would like a direct deposit into my Chase bank account,direct_deposit
@@ -10090,7 +10090,7 @@
 10088,share my location with google,partager ma position avec Google,share my location with google,share_location
 10089,send mike my exact location,envoie à Mike ma position exacte,send Mike my exact location,share_location
 10090,"send my current location to steve, please","envoyez ma position actuelle à Steve, s'il vous plaît",send my current location to Steve please,share_location
-10091,steve needs to know my location,Steve a besoin de savoir où je suis,Steve needs to know where I am,share_location
+10091,steve needs to know my location,Steve a besoin de savoir où je me trouve,Steve needs to know where I am,share_location
 10092,i'd like to send steve my location,j'aimerais envoyer ma position à Steve,I would like to send my position to Steve,share_location
 10093,share my location with steve,partager ma position avec Steve,share my location with Steve,share_location
 10094,i need to send my location to my friend steve,je dois envoyer ma position à mon ami Steve,I have to send my location to my friend Steve,share_location
@@ -10156,7 +10156,7 @@
 10154,add to friday's calendar a doctor's appointment,ajouter au calendrier du vendredi un rendez-vous chez le médecin,add a doctor's appointment to the Friday calendar,calendar_update
 10155,mark my calendar that i will be meeting steven on march 5,Notez sur mon calendrier que je rencontrerai Steven le 5 mars,Mark my calendar to meet Steven on March 5th.,calendar_update
 10156,"on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit","le 22 de ce mois, nous devons libérer notre calendrier afin de pouvoir le laisser ouvert pour que Mark puisse nous rendre visite",On the 22nd of this month we need to clear our calendar so that we can leave it open for Mark to visit us.,calendar_update
-10157,"can you remove that event from my calendar, please","Pouvez-vous supprimer cet événement de mon calendrier, s'il vous plaît",Can you please remove this event from my calendar?,calendar_update
+10157,"can you remove that event from my calendar, please","pouvez-vous supprimer cet événement de mon calendrier, s'il vous plaît",can you please remove this event from my calendar,calendar_update
 10158,can you remove this event from my calendar,Peux-tu supprimer cet événement de mon calendrier,Can you remove this event from my calendar?,calendar_update
 10159,"can you remove this event from my calendar, please","pouvez-vous supprimer cet événement de mon calendrier, s'il vous plaît",can you please remove this event from my calendar,calendar_update
 10160,are you secretly real,es-tu secrètement réel,are you secretly real,are_you_a_bot
@@ -10169,7 +10169,7 @@
 10167,"clear something up, are you a robot","clarifie quelque chose, es-tu un robot","clarify something, are you a robot",are_you_a_bot
 10168,are you a human being or a computer,es-tu un être humain ou un ordinateur,are you a human or a computer,are_you_a_bot
 10169,can you tell me if you are a real live person,Peux-tu me dire si tu es une vraie personne vivante,Can you tell me if you are a real living person,are_you_a_bot
-10170,am i speaking with a real person,Est-ce que je parle à une vraie personne,Am I talking to a real person?,are_you_a_bot
+10170,am i speaking with a real person,est-ce que je parle à une vraie personne,am i talking to a real person,are_you_a_bot
 10171,are you an actual human,es-tu un vrai humain ?,are you a real human?,are_you_a_bot
 10172,would you be classified as a bot,seriez-vous classé comme un robot,would you be classified as a robot,are_you_a_bot
 10173,would it be accurate to call you a bot,serait-il exact de vous appeler un robot,would it be accurate to call you a robot,are_you_a_bot
@@ -10213,7 +10213,7 @@
 10211,when is my cards end month,quand est le mois de fin de mes cartes,when is the end month of my cards,expiration_date
 10212,what month does my card stop working,À partir de quel mois ma carte cesse de fonctionner,From which month does my card stop working?,expiration_date
 10213,my card will work until what month,ma carte fonctionnera jusqu'à quel mois,my card will work until what month,expiration_date
-10214,what month does my card close,quel mois ma carte ferme,what month does my card close?,expiration_date
+10214,what month does my card close,quel mois ma carte ferme,which month does my card close?,expiration_date
 10215,when do i need a new credit card,Quand ai-je besoin d'une nouvelle carte de crédit,When do I need a new credit card?,expiration_date
 10216,in what month does my credit card expire,Dans quel mois ma carte de crédit expire-t-elle,In which month does my credit card expire?,expiration_date
 10217,when is my credit card set to expire,Quand est-ce que ma carte de crédit expirera ?,When will my credit card expire?,expiration_date
@@ -10451,7 +10451,7 @@
 10449,what does my commute look like,à quoi ressemble mon trajet domicile-travail,What does my commute look like?,traffic
 10450,what is the traffic like on the road to downtown dallas,à quoi ressemble le trafic sur la route menant au centre-ville de Dallas,What traffic looks like on the road to downtown Dallas,traffic
 10451,what kind of traffic is on hwy 1 going to the downtown area right now,quel type de trafic y a-t-il sur l'autoroute 1 en direction du centre-ville en ce moment,what kind of traffic is there on highway 1 heading downtown right now,traffic
-10452,"how is the traffic on rt 5 towards my work , community bank","comment est la circulation sur la route 5 en direction de mon travail, banque communautaire","how is traffic on route 5 to my work, community bank",traffic
+10452,"how is the traffic on rt 5 towards my work , community bank","comment est la circulation sur la route 5 en direction de mon travail, banque communautaire","How is traffic on Hwy 5 going to my work, community bank",traffic
 10453,"is there any traffic on the road i take home from work right now, rt 40","Y a-t-il du trafic sur la route que je prends pour rentrer du travail en ce moment, rt 40","Is there traffic on the road I'm taking home from work right now, rt 40",traffic
 10454,tell me how the traffic is on rt 7 to the airport today,Dis-moi comment se passe le trafic sur la route 7 en direction de l'aéroport aujourd'hui,Tell me how the traffic is on Route 7 towards the airport today.,traffic
 10455,what will the traffic be like if i headed out to work right now,à quoi ressemblera le trafic si je me rends au travail maintenant,what will the traffic be like if i go to work now,traffic
@@ -10469,7 +10469,7 @@
 10467,i ran out of checks and need more ordered,je n'ai plus de chèques et j'ai besoin d'en commander davantage,I am out of checks and need to order more,order_checks
 10468,please order more checks i just used the last one,"s'il vous plaît, commandez plus de chèques, je viens d'utiliser le dernier","please order more checks, i just used the last one",order_checks
 10469,i just used my last check and need more now,je viens d'utiliser mon dernier chèque et j'en ai besoin de plus maintenant,I just used my last check and I need more now,order_checks
-10470,i ran out of checks and need more asap,je n'ai plus de chèques et j'en ai besoin de plus dès que possible,I'm out of checks and need more ASAP,order_checks
+10470,i ran out of checks and need more asap,je n'ai plus de chèques et j'en ai besoin de plus dès que possible,I am out of checks and need more asap,order_checks
 10471,i would like more checks sent to my address,je voudrais que plus de chèques soient envoyés à mon adresse,I would like more checks to be sent to my address,order_checks
 10472,how would i go about getting more checks for my western union account,Comment puis-je obtenir plus de chèques pour mon compte Western Union ?,How can I get more checks for my Western Union account?,order_checks
 10473,i just used my final check order more,je viens d'utiliser ma dernière commande de chèque plus,I just used my last check order plus,order_checks
@@ -10493,8 +10493,8 @@
 10491,i was in target about to buy a chair when my card got declined,J'étais à Target sur le point d'acheter une chaise lorsque ma carte a été refusée,I was at Target about to buy a chair when my card was declined,card_declined
 10492,my card just got declined when i was in home depot buying tile,ma carte vient d'être refusée alors que j'étais chez Home Depot pour acheter du carrelage,My card was just declined while I was at Home Depot buying tiles.,card_declined
 10493,i was trying to buy a chainsaw at the tractor store and they said my card was declined,j'essayais d'acheter une tronçonneuse au magasin de tracteurs et ils ont dit que ma carte avait été refusée,I was trying to buy a chainsaw at the tractor store and they said my card was declined,card_declined
-10494,why was my card declined just now when i tried to buy a jeep at carmax,pourquoi ma carte a-t-elle été refusée à l'instant alors que j'essayais d'acheter une jeep chez carmax,why was my card declined just now when i was trying to buy a jeep at carmax,card_declined
-10495,i was at walmart trying to buy toilet paper and my card got declined,J'étais chez Walmart en train d'essayer d'acheter du papier toilette et ma carte a été refusée,I was at Walmart trying to buy toilet paper and my card was declined,card_declined
+10494,why was my card declined just now when i tried to buy a jeep at carmax,pourquoi ma carte a-t-elle été refusée à l'instant alors que j'essayais d'acheter une jeep chez carmax,why was my card declined just now when i was trying to buy a jeep from carmax,card_declined
+10495,i was at walmart trying to buy toilet paper and my card got declined,j'étais chez Walmart en train d'essayer d'acheter du papier toilette et ma carte a été refusée,I was at Walmart trying to buy toilet paper and my card was declined,card_declined
 10496,target declined my card and i don't know why,Target a refusé ma carte et je ne sais pas pourquoi,Target declined my card and I don't know why,card_declined
 10497,do you know why my card was declined at target i can't figure out why,"savez-vous pourquoi ma carte a été refusée chez Target, je n'arrive pas à comprendre pourquoi","do you know why my card was declined at Target, I can't figure out why",card_declined
 10498,i can't figure out why my card was declined at target,je n'arrive pas à comprendre pourquoi ma carte a été refusée chez Target,I can't figure out why my card was declined at Target,card_declined

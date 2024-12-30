@@ -56,7 +56,7 @@
 54,what is the carry on limit,ले जाने की सीमा क्या है,What is the carry limit,carry_on
 55,what should i know about the carry on policy for american,अमेरिकी नागरिकों के लिए कैरी ऑन पॉलिसी के बारे में मुझे क्या पता होना चाहिए?,What should I know about the carry on policy for US citizens?,carry_on
 56,"if i fly internationally, do brittish airwaiys have carry-on limitations","अगर मैं अंतरराष्ट्रीय स्तर पर उड़ान भरता हूं, तो क्या ब्रिटिश एयरवेज में कैरी-ऑन सीमाएं हैं?","If I fly internationally, does British Airways have carry-on limits?",carry_on
-57,what are the rules for carry on luggage for delta,डेल्टा के लिए सामान ले जाने के नियम क्या हैं?,What are the carry-on baggage rules for Delta?,carry_on
+57,what are the rules for carry on luggage for delta,डेल्टा के लिए सामान ले जाने के नियम क्या हैं?,What are the carry on baggage rules for Delta?,carry_on
 58,can i have 3 carry ons with delta at jfk,क्या मैं जेएफके में डेल्टा के साथ 3 कैरी ऑन ले सकता हूँ?,Can I take 3 carry ons with Delta at JFK?,carry_on
 59,how many carry ons are allowed on a flight with wow to iceland,वाउ से आइसलैंड की उड़ान में कितने सामान ले जाने की अनुमति है?,How much carry-on baggage is allowed on Wau to Iceland flight?,carry_on
 60,what are the requirements for carry on on flights with united airlines,यूनाइटेड एयरलाइंस के साथ उड़ानों पर कैरी ऑन के लिए क्या आवश्यकताएं हैं,What are the requirements for carry on on flights with United Airlines,carry_on
@@ -102,7 +102,7 @@
 100,volume to whisper voice,आवाज़ का वॉल्यूम फुसफुसाना,whisper volume,whisper_mode
 101,i want whisper mode to be switched off,मैं चाहता हूं कि व्हिस्पर मोड बंद कर दिया जाए,I want whisper mode to be turned off,whisper_mode
 102,let's switch out of whisper mode,चलो कानाफूसी मोड से बाहर निकलें,Let's get out of whisper mode,whisper_mode
-103,i want your setting adjusted to whisper voice now,मैं चाहता हूँ कि आपकी सेटिंग अब फुसफुसाती आवाज़ में समायोजित हो जाए,I want your settings to be adjusted to a whisper now,whisper_mode
+103,i want your setting adjusted to whisper voice now,मैं चाहता हूँ कि आपकी सेटिंग अब फुसफुसाती आवाज़ में समायोजित हो जाए,I want your setting to be adjusted to a whisper now,whisper_mode
 104,go into whisper mode now please,अब कृपया कानाफूसी मोड में चले जाओ,now please go into whisper mode,whisper_mode
 105,turn up your volume,अपना वॉल्यूम बढ़ाओ,turn up your volume,whisper_mode
 106,exit out of whisper mode,कानाफूसी मोड से बाहर निकलें,Exit Whisper Mode,whisper_mode
@@ -131,7 +131,7 @@
 129,whisper from here on out please,कृपया यहाँ से धीरे से बोलो,please speak softly here,whisper_mode
 130,switch to whisper mode,कानाफूसी मोड पर स्विच करें,Switch to whisper mode,whisper_mode
 131,turn on your whisper mode,अपना व्हिस्पर मोड चालू करें,Turn on your whisper mode,whisper_mode
-132,please shut off whisper mode for now,कृपया अभी के लिए व्हिस्पर मोड बंद कर दें,Please turn off whisper mode for now,whisper_mode
+132,please shut off whisper mode for now,कृपया अभी के लिए व्हिस्पर मोड बंद कर दें,Please turn off Whisper Mode for now,whisper_mode
 133,can you please lower the volume please,क्या आप कृपया आवाज़ कम कर सकते हैं,can you turn down the volume please,whisper_mode
 134,"switch to whisper mode, please",कृपया कानाफूसी मोड पर स्विच करें,Please switch to whisper mode,whisper_mode
 135,i want to switch out of whisper mode,मैं कानाफूसी मोड से बाहर निकलना चाहता हूँ,I want out of whisper mode,whisper_mode
@@ -162,7 +162,7 @@
 160,please send a text message to natalie for me,कृपया मेरे लिए नेटली को एक टेक्स्ट संदेश भेजें,Please send Natalie a text message for me,text
 161,i want to send a text,मैं एक पाठ भेजना चाहता हूँ,I'd like to send a text,text
 162,text matt and tell him i will be late tonight,मैट को मैसेज करो और उसे बताओ कि मैं आज रात देर से आऊँगा,Text Matt and tell him I'll be in late tonight,text
-163,text my boss for me and tell them i will be a little bit late,मेरे बॉस को मैसेज भेजकर बता दो कि मैं थोड़ा देर से आऊंगा,Please send a message to my boss and tell him that I will be arriving a little late,text
+163,text my boss for me and tell them i will be a little bit late,मेरे बॉस को मैसेज भेजकर बता दो कि मैं थोड़ा देर से आऊंगा,Send a message to my boss and tell him that I will be a little late,text
 164,send chris a text message that says stop for milk on your way home,क्रिस को एक टेक्स्ट संदेश भेजें जिसमें लिखा हो कि घर जाते समय दूध के लिए रुकें,Send Chris a text message saying stop for milk on your way home,text
 165,i have to send a text,मुझे एक संदेश भेजना है,I want to send a message,text
 166,text my dad for me and tell them i love you,मेरे लिए मेरे पिताजी को संदेश भेजें और उन्हें बताएं कि मैं आपसे प्यार करता हूँ,Send a message to my dad for me and tell him I love you,text
@@ -193,7 +193,7 @@
 191,text my mom for me and tell them i will be home soon,मेरी माँ को मेरे लिए मैसेज करो और उन्हें बताओ कि मैं जल्द ही घर आ जाऊँगा,Text my mom for me and tell her I'll be home soon,text
 192,text tony and invite him to my party next saturday,टोनी को मैसेज करो और उसे अगले शनिवार को मेरी पार्टी में आमंत्रित करो,Text Tony and invite him to my party next Saturday,text
 193,text chris and ask what time he will be home,क्रिस को मैसेज करके पूछो कि वह किस समय घर आएगा,Text Chris and ask what time he'll be home,text
-194,text christy and ask her what she wants for dinner,क्रिस्टी को मैसेज करें और उससे पूछें कि वह रात के खाने में क्या चाहती है,Text Christie and ask her what she wants for dinner,text
+194,text christy and ask her what she wants for dinner,क्रिस्टी को मैसेज करें और उससे पूछें कि वह रात के खाने में क्या चाहती है,Message Christy and ask her what she wants for dinner,text
 195,i have to have a text sent,मुझे एक पाठ भेजना है,I'd like to send a text,text
 196,text nick and tell him the car's ready,निक को मैसेज करें और बताएं कि कार तैयार है,Text Nick and tell him the car is ready,text
 197,i need to send a text,मुझे एक पाठ भेजना है,I'd like to send a text,text
@@ -443,7 +443,7 @@
 441,book a reservation for 3 at red lobster under the name steve,रेड लॉबस्टर में स्टीव नाम से 3 लोगों के लिए आरक्षण बुक करें,Book a reservation for 3 people named Steve at Red Lobster,restaurant_reservation
 442,can you get me a table for 8 at johnnys,क्या आप मुझे जॉनीज़ में 8 लोगों के लिए एक टेबल दिलवा सकते हैं?,Can you get me a table for 8 at Johnny's?,restaurant_reservation
 443,make me a reservation for tomorrow at happys for four,मुझे कल के लिए हैप्पीज़ फॉर फोर में आरक्षण करा दो,Make me a reservation at Happy's for Four for tomorrow,restaurant_reservation
-444,book a reservation for 8 pm at red robin under the name kevin,केविन नाम से रेड रॉबिन में रात 8 बजे के लिए आरक्षण बुक करें,Book a reservation at Red Robin with the name Kevin for 8 p.m.,restaurant_reservation
+444,book a reservation for 8 pm at red robin under the name kevin,केविन नाम से रेड रॉबिन में रात 8 बजे के लिए आरक्षण बुक करें,Book a reservation at Red Robin with the name Kevin for 8pm,restaurant_reservation
 445,"call and make a 5:45 pm reservation for jason rogers, table for four","कॉल करें और जेसन रोजर्स के लिए शाम 5:45 बजे आरक्षण करें, चार लोगों के लिए टेबल","Call and make a reservation for Jason Rogers at 5:45 p.m., table for four",restaurant_reservation
 446,can you make a reservation for me at the restaurant,क्या आप मेरे लिए रेस्तरां में आरक्षण कर सकते हैं,can you make a restaurant reservation for me,restaurant_reservation
 447,i need you to reserve at table for a party of four at devon's for 6:00 pm,मुझे आपसे शाम 6:00 बजे डेवन्स में चार लोगों की पार्टी के लिए टेबल आरक्षित करने की आवश्यकता है,I need you to reserve a table for a party of four at Devons at 6:00 p.m.,restaurant_reservation
@@ -582,7 +582,7 @@
 580,boost volume to 4,वॉल्यूम को 4 तक बढ़ाएँ,increase the volume to 4,change_volume
 581,please raise volume,कृपया आवाज़ बढ़ाएँ,please increase the volume,change_volume
 582,please speak louder,कृपया जोर से बोलें,please speak louder,change_volume
-583,turn down your volume,अपनी आवाज़ कम करें,Lower your volume,change_volume
+583,turn down your volume,अपनी आवाज़ कम करें,lower your volume,change_volume
 584,i want to increase your volume,मैं आपकी आवाज़ बढ़ाना चाहता हूँ,I want to raise your voice,change_volume
 585,you must increase the volume to 4 please,कृपया वॉल्यूम 4 तक बढ़ाएँ,please turn the volume up to 4,change_volume
 586,increase the volume level to 4 now,अब वॉल्यूम स्तर 4 तक बढ़ाएँ,Now increase the volume level to 4,change_volume
@@ -650,7 +650,7 @@
 648,what's the routing number for my savings account,मेरे बचत खाते का रूटिंग नंबर क्या है,What is my savings account routing number,routing
 649,routing number for american river,अमेरिकी नदी के लिए रूटिंग नंबर,Routing numbers for American River,routing
 650,do you know the fuel economy of this car,क्या आप इस कार की ईंधन अर्थव्यवस्था जानते हैं,do you know the fuel economy of this car,mpg
-651,what's the miles per gallon on this car,इस कार पर प्रति गैलन मील कितना है,how much is the miles per gallon on this car,mpg
+651,what's the miles per gallon on this car,इस कार पर प्रति गैलन मील कितना है,what is the miles per gallon on this car,mpg
 652,how does this cars mpg do on the highway,हाईवे पर इस कार का माइलेज कैसा है?,How is the mileage of this car on the highway?,mpg
 653,how much gas does this use in the city,शहर में कितनी गैस का उपयोग होता है,How much gas is used in the city,mpg
 654,how many miles per gallon does it get in the city,शहर में प्रति गैलन कितने मील मिलते हैं,how many miles per gallon do you get in the city,mpg
@@ -662,7 +662,7 @@
 660,how many miles per gallon does this car get in the city,यह कार शहर में प्रति गैलन कितने मील चलती है,How many miles per gallon does this car get in the city,mpg
 661,what is my average mpg in this car,इस कार में मेरा औसत माइलेज क्या है?,What is my average mileage in this car?,mpg
 662,what kind of gas mileage do i get,मुझे किस प्रकार का गैस माइलेज मिलता है,what kind of gas mileage do I get,mpg
-663,is the fuel economy of this car good or bad,इस कार की ईंधन अर्थव्यवस्था अच्छी है या बुरी,Is the fuel economy of this car good or bad,mpg
+663,is the fuel economy of this car good or bad,इस कार की ईंधन अर्थव्यवस्था अच्छी है या बुरी,Is the fuel economy of this car good or bad?,mpg
 664,how many miles does my car get per gallon,मेरी कार प्रति गैलन कितने मील चलती है,how many miles per gallon does my car go,mpg
 665,tell me what this cars highway mpg is,मुझे बताओ इस कार का हाईवे mpg क्या है,tell me what is the highway mpg of this car,mpg
 666,what kind of mpg does this car get in the city,शहर में इस कार को कितना माइलेज मिलता है,How much mileage does this car get in the city,mpg
@@ -741,12 +741,12 @@
 739,how much do i have to pay for my cable bill,मुझे अपने केबल बिल के लिए कितना भुगतान करना होगा,How much do I need to pay for my cable bill,bill_balance
 740,add all my bills for this month and tell me the total,इस महीने के मेरे सभी बिल जोड़ें और मुझे कुल राशि बताएं,Add all my bills for this month and tell me the total amount,bill_balance
 741,please tell me how much i owe sprint and how much i owe hsn,कृपया मुझे बताएं कि मुझे स्प्रिंट का कितना बकाया है और एचएसएन का कितना बकाया है?,Please tell me how much I owe Sprint and how much I owe HSN?,bill_balance
-742,what do i owe bill wise,मुझे बिल के अनुसार क्या देना है,What do I need to pay on the bill,bill_balance
+742,what do i owe bill wise,मुझे बिल के अनुसार क्या देना है,What do I have to pay as per the bill,bill_balance
 743,how much is my groceries and gas bill,मेरा किराने का सामान और गैस बिल कितना है,How much is my grocery and gas bill,bill_balance
 744,how much is my electric bill for,मेरा बिजली बिल कितना है,how much is my electricity bill,bill_balance
 745,my dte bill is how much,मेरा डीटीई बिल कितना है,how much is my dte bill,bill_balance
 746,i need to know my bill total for my verizon payment due this month,मुझे इस महीने देय अपने वेरिज़ोन भुगतान के लिए अपने बिल का कुल योग जानना है,I need to know my bill total for my Verizon payment due this month,bill_balance
-747,what's the final amount of all the money i need to pay in bills this month,इस महीने मुझे बिलों में भुगतान करने के लिए कुल धनराशि कितनी है?,How much total money do I have to pay in bills this month?,bill_balance
+747,what's the final amount of all the money i need to pay in bills this month,इस महीने मुझे बिलों में भुगतान करने के लिए कुल धनराशि कितनी है?,How much do I have in total to pay in bills this month?,bill_balance
 748,how much is my internet bill,मेरा इंटरनेट बिल कितना है,how much is my internet bill,bill_balance
 749,what is the cost of water and electric this month,इस महीने पानी और बिजली का खर्च क्या है,What is the cost of water and electricity this month,bill_balance
 750,tell me all about the creatures you own,मुझे अपने पास मौजूद सभी जीवों के बारे में बताओ,Tell me about all the creatures you have,do_you_have_pets
@@ -758,9 +758,9 @@
 756,do you own pets,क्या आपके पास पालतू जानवर हैं,do you have pets,do_you_have_pets
 757,tell me whether you are a cat or dog person,मुझे बताओ कि तुम बिल्ली वाले हो या कुत्ते वाले,tell me are you a cat person or a dog person,do_you_have_pets
 758,what is the colour of your pets,आपके पालतू जानवर का रंग क्या है,what colour is your pet,do_you_have_pets
-759,would you like to live with a cat or a dog,क्या आप बिल्ली या कुत्ते के साथ रहना पसंद करेंगे,would you rather live with a cat or a dog,do_you_have_pets
+759,would you like to live with a cat or a dog,क्या आप बिल्ली या कुत्ते के साथ रहना पसंद करेंगे,would you prefer to live with a cat or a dog,do_you_have_pets
 760,"what sort of person are you, a cat or dog person","आप किस तरह के व्यक्ति हैं, बिल्ली या कुत्ते वाले व्यक्ति","What kind of person are you, a cat or a dog person",do_you_have_pets
-761,share some information about your pets with me,अपने पालतू जानवरों के बारे में कुछ जानकारी मेरे साथ साझा करें,Share some information about your pet with me,do_you_have_pets
+761,share some information about your pets with me,अपने पालतू जानवरों के बारे में कुछ जानकारी मेरे साथ साझा करें,Share some information about your pet with me.,do_you_have_pets
 762,to what animal species do your pets belong,आपके पालतू जानवर किस पशु प्रजाति के हैं,What animal species does your pet belong to?,do_you_have_pets
 763,i'd like to learn more about your pets,मैं आपके पालतू जानवरों के बारे में अधिक जानना चाहता हूँ,I'd like to know more about your pets,do_you_have_pets
 764,what are the pets that you raise,आप कौन से पालतू जानवर पालते हैं,what pets do you keep,do_you_have_pets
@@ -809,7 +809,7 @@
 807,how long will it take me to make baked chicken,मुझे बेक्ड चिकन बनाने में कितना समय लगेगा,How long will it take me to make a baked chicken,cook_time
 808,when should i take an apple pie out,मुझे सेब पाई कब निकालनी चाहिए,When should I take out the apple pie,cook_time
 809,tell me how long i ought to spend preparing fajitas,मुझे बताओ कि मुझे फजितास तैयार करने में कितना समय लगाना चाहिए,Tell me how long should I spend preparing fajitas,cook_time
-810,how long does it take to cook roast beef,रोस्ट बीफ़ पकाने में कितना समय लगता है,How long does it take to cook roast beef,cook_time
+810,how long does it take to cook roast beef,रोस्ट बीफ़ पकाने में कितना समय लगता है,how long does it take to cook roast beef,cook_time
 811,how long does this dish need to be in the oven,इस डिश को ओवन में कितनी देर तक रखना होगा,How long should this dish be kept in the oven?,cook_time
 812,about how long should you cook a 10 pound turkey,आपको 10 पाउंड का टर्की कितनी देर तक पकाना चाहिए,How long should you cook a 10 pound turkey,cook_time
 813,how many minutes do i cook baked ziti,बेक्ड ज़ीटी को कितने मिनट तक पकाना चाहिए,How many minutes should baked ziti cook,cook_time
@@ -847,7 +847,7 @@
 845,i need the cooking length for a turkey,मुझे टर्की के लिए खाना पकाने की लंबाई की आवश्यकता है,I need the cooking length for a turkey,cook_time
 846,how long do noodles need to cook,नूडल्स को पकाने में कितना समय लगता है,how long does it take to cook the noodles,cook_time
 847,what is the duration of time cookies should be in the oven,कुकीज़ को ओवन में कितने समय तक रखना चाहिए,How long should cookies be kept in the oven,cook_time
-848,how long to i bake the brownies,मुझे ब्राउनी को कितनी देर तक पकाना है,How long do I need to cook the brownies,cook_time
+848,how long to i bake the brownies,मुझे ब्राउनी को कितनी देर तक पकाना है,How long do I need to bake the brownies,cook_time
 849,how long do i need to make lasagne,मुझे लज़ान्या बनाने में कितना समय लगेगा,How long will it take me to make lasagna,cook_time
 850,which song is playing now,अभी कौन सा गाना बज रहा है,what song is playing right now,what_song
 851,what is this song,यह गाना कौन सा है,which song is this,what_song
@@ -881,7 +881,7 @@
 879,can you tell me the name of this song,क्या आप मुझे इस गाने का नाम बता सकते हैं,can you tell me the name of this song,what_song
 880,what's song am i hearing,मैं कौन सा गाना सुन रहा हूँ,what song am i listening to,what_song
 881,what's the now playing song that we are listening to,अभी हम कौन सा गाना सुन रहे हैं,what song are we listening to right now,what_song
-882,do you know what this song is,क्या आप जानते हैं यह गाना कौन सा है,do you know which song is this,what_song
+882,do you know what this song is,क्या आप जानते हैं यह गाना कौन सा है,do you know which song this is,what_song
 883,what am i hearing on the speakers now,अब मैं स्पीकर पर क्या सुन रहा हूँ,What am I listening to on the speaker now?,what_song
 884,i need to know this song's name,मुझे इस गाने का नाम जानना है,I want to know the name of this song,what_song
 885,can you tell me this song,क्या आप मुझे यह गाना बता सकते हैं,can you tell me this song,what_song
@@ -955,7 +955,7 @@
 953,take watering the plants off of my to do list,पौधों को पानी देने का काम मेरी कार्य सूची से हटा दें,Take watering the plants off my to-do list,todo_list_update
 954,add clean the bathroom to my task list,बाथरूम साफ करना मेरी कार्य सूची में जोड़ें,Add cleaning the bathroom to my to do list,todo_list_update
 955,delete everything from the task list,कार्य सूची से सब कुछ हटाएँ,Delete everything from the task list,todo_list_update
-956,make my todo list blank,मेरी टूडू सूची को रिक्त करें,Clear my todo list,todo_list_update
+956,make my todo list blank,मेरी टूडू सूची को रिक्त करें,clear my todo list,todo_list_update
 957,help remind me that i need to add laundry to my list of housework,मुझे याद दिलाने में मदद करें कि मुझे अपने घरेलू काम की सूची में कपड़े धोने का काम भी जोड़ना है,Help remind me to add laundry to my chore list,todo_list_update
 958,add mop bathroom to my to do list,बाथरूम में पोछा लगाना मेरी टू डू सूची में जोड़ें,Add mopping the bathroom to my to do list,todo_list_update
 959,can you place laundry on my to do list,क्या आप कपड़े धोने को मेरी कार्य सूची में शामिल कर सकते हैं?,Can you add laundry to my to-do list?,todo_list_update
@@ -981,7 +981,7 @@
 979,will you please put remember to drop off at the dry cleaner's to my current to do list,क्या आप कृपया मेरी वर्तमान कार्य सूची में ड्राई क्लीनर के पास छोड़ना याद रखना जोड़ देंगे?,Would you please add remembering to drop off at the dry cleaner's to my current to do list?,todo_list_update
 980,add cleaning to my to do list,सफाई को मेरी कार्य सूची में जोड़ें,Add cleaning to my to do list,todo_list_update
 981,nix folding laundry from my todo list,मेरी टू-डू सूची से कपड़ों को तह करके रखना हटा दिया गया है,Folding clothes has been taken off my to-do list,todo_list_update
-982,to my domestic task list please add paint kitchen,कृपया मेरी घरेलू कार्य सूची में रसोईघर की पेंटिंग भी जोड़ दें,Please add painting the kitchen to my chore list,todo_list_update
+982,to my domestic task list please add paint kitchen,कृपया मेरी घरेलू कार्य सूची में रसोईघर की पेंटिंग भी जोड़ दें,Please add painting the kitchen to my household to do list,todo_list_update
 983,add to my task list get carpet cleaned,मेरी कार्य सूची में जोड़ें कालीन साफ़ करवाएँ,Add to my to do list Have carpet cleaned,todo_list_update
 984,can you please add take out recycling on my list of chores to complete,क्या आप कृपया मेरे कामों की सूची में रीसाइकिलिंग को भी शामिल कर सकते हैं?,Can you please add recycling to my to do list?,todo_list_update
 985,add laundry to my list of shit to do,कपड़े धोने को भी मेरी काम की सूची में शामिल करें,Add laundry to my to do list,todo_list_update
@@ -1082,7 +1082,7 @@
 1080,skip and play next song,अगला गाना छोड़ें और चलायें,Skip and play the next song,next_song
 1081,i would like to hear the next tune on this particular playlist,मैं इस विशेष प्लेलिस्ट पर अगला गाना सुनना चाहूंगा,I would like to hear the next song on this particular playlist,next_song
 1082,please play the next song on this playlist,कृपया इस प्लेलिस्ट पर अगला गाना चलाएँ,Please play the next song on this playlist,next_song
-1083,please play the next song,कृपया अगला गाना चलाओ,play the next song please,next_song
+1083,please play the next song,कृपया अगला गाना चलाओ,please play the next song,next_song
 1084,continue to next song on the playlist,प्लेलिस्ट में अगले गीत पर जाएँ,Skip to the next song in the playlist,next_song
 1085,play the next hit,अगला हिट बजाओ,play next hit,next_song
 1086,advance to the next song,अगले गाने पर आगे बढ़ें,Proceed to next song,next_song
@@ -1112,7 +1112,7 @@
 1110,do you know where you were born,क्या आप जानते हैं कि आप कहां पैदा हुए थे,do you know where you were born,where_are_you_from
 1111,where did you originate from,आप कहां से आये हैं,where are you from,where_are_you_from
 1112,could you tell me where did you originate,क्या आप मुझे बता सकते हैं कि आप कहां से आये हैं,can you tell me where you come from,where_are_you_from
-1113,did you grow up here,क्या आप यहीं पले-बढ़े हैं?,Did you grow up here?,where_are_you_from
+1113,did you grow up here,क्या आप यहीं पले-बढ़े हैं,did you grow up here,where_are_you_from
 1114,what is the area that you came from,आप किस क्षेत्र से आये हैं,which region do you come from,where_are_you_from
 1115,would you care to let me know where you were made,क्या आप मुझे बताना चाहेंगे कि आप कहां पैदा हुए,would you like to tell me where you were born,where_are_you_from
 1116,where is your place of origin,आपका मूल स्थान कहां है,where is your native place,where_are_you_from
@@ -1178,7 +1178,7 @@
 1176,how long until i should have my tires replaced,मुझे अपने टायर कब तक बदलवाने चाहिए,When should I replace my tires?,tire_change
 1177,how many miles do i drive before i have to get new tires i replaced them four years ago,मुझे कितने मील ड्राइव करना होगा इससे पहले कि मुझे नए टायर लगवाने पड़ें मैंने उन्हें चार साल पहले बदल दिया था,How many miles do I have to drive before I need new tires I replaced them four years ago,tire_change
 1178,"i replaced my tires yesterday, when should i get new ones","मैंने कल अपने टायर बदलवाए, मुझे नए कब लेने चाहिए?","I replaced my tires yesterday, when should I get new ones?",tire_change
-1179,is there a way to tell if i need new tires,क्या यह बताने का कोई तरीका है कि मुझे नए टायर की आवश्यकता है या नहीं,Is there a way to tell if I need new tires or not,tire_change
+1179,is there a way to tell if i need new tires,क्या यह बताने का कोई तरीका है कि मुझे नए टायर की आवश्यकता है या नहीं,Is there a way to tell if I need new tires or not?,tire_change
 1180,when is it recommended that i change my tires next,अगली बार मुझे अपने टायर कब बदलने चाहिए?,When should I next change my tires?,tire_change
 1181,how many miles before i need my tires changed,कितने मील पहले मुझे अपने टायर बदलने की आवश्यकता होगी,How many miles before I need to replace my tires,tire_change
 1182,when am i due for a tire change,मुझे टायर कब बदलना है,When do I need to change tires,tire_change
@@ -1347,7 +1347,7 @@
 1345,will i pay over $500 in federal taxes,क्या मैं संघीय करों में $500 से अधिक का भुगतान करूंगा,Will I pay more than $500 in federal taxes,taxes
 1346,tell me how much in tax on this,बताओ इस पर कितना टैक्स लगेगा,Tell me how much tax will be levied on this,taxes
 1347,i have to pay how much back in taxes,मुझे कितना टैक्स वापस देना होगा,How much tax do I have to pay back,taxes
-1348,what is the total amount i pay in taxes,मैं करों के रूप में कुल कितनी राशि अदा करता हूँ,How much do I pay in taxes in total?,taxes
+1348,what is the total amount i pay in taxes,मैं करों के रूप में कुल कितनी राशि अदा करता हूँ,How much do I pay in taxes in total,taxes
 1349,what's the damage on my federal tax return,मेरे संघीय कर रिटर्न पर क्या नुकसान है,What's the loss on my federal tax return,taxes
 1350,what if i lost my luggage,अगर मेरा सामान खो गया तो क्या होगा?,What if my luggage is lost?,lost_luggage
 1351,my luggage has not arrived and i would like assistance locating it,मेरा सामान नहीं आया है और मैं उसे ढूंढने में सहायता चाहता हूँ,My item hasn't arrived and I need help finding it,lost_luggage
@@ -1370,7 +1370,7 @@
 1368,i think my luggage was misplaced or has been lost,मुझे लगता है कि मेरा सामान गलत जगह पर रख दिया गया है या खो गया है,I think my luggage is misplaced or lost,lost_luggage
 1369,who can i turn to if i lost my luggage,अगर मेरा सामान खो जाए तो मैं किससे संपर्क कर सकता हूँ?,Who do I contact if I lose my luggage?,lost_luggage
 1370,im at lax and my bags aren't,मैं ढीला हूँ और मेरे बैग नहीं हैं,I'm loose and my bags are gone,lost_luggage
-1371,i lost my luggage coming from new york city on american flight ab123,मैंने न्यूयॉर्क शहर से अमेरिकी फ्लाइट AB123 पर आते समय अपना सामान खो दिया,I lost my luggage while flying from New York City on American Flight AB123,lost_luggage
+1371,i lost my luggage coming from new york city on american flight ab123,मैंने न्यूयॉर्क शहर से अमेरिकी फ्लाइट AB123 पर आते समय अपना सामान खो दिया,I lost my luggage while flying from New York City on American flight AB123,lost_luggage
 1372,i can't find any of my luggage!,मुझे अपना कोई भी सामान नहीं मिल रहा है!,I can't find any of my stuff!,lost_luggage
 1373,i believe that my luggage was lost,मुझे लगता है कि मेरा सामान खो गया है,I think I lost my luggage,lost_luggage
 1374,"my luggage is missing, i think","मेरा सामान गायब है, मुझे लगता है","My luggage is missing, I think",lost_luggage
@@ -1485,7 +1485,7 @@
 1483,i wonder what my to-do list looks like for today,मुझे आश्चर्य है कि आज के लिए मेरी कार्य सूची कैसी दिखती है,I wonder what my to-do list for today looks like,todo_list
 1484,read my to-do list to me,मेरी टू-डू सूची मुझे पढ़कर सुनाओ,Read my to-do list to me,todo_list
 1485,is studying for the chem exam on my todo list,रसायन विज्ञान की परीक्षा की तैयारी मेरी टू-डू सूची में है,Preparing for a chemistry test is on my to-do list,todo_list
-1486,read to me my to do list,मुझे मेरी कार्य सूची पढ़कर सुनाओ,read my to-do list to me,todo_list
+1486,read to me my to do list,मुझे मेरी कार्य सूची पढ़कर सुनाओ,Read my to-do list to me,todo_list
 1487,"tell me what things i need to accomplish per my to do list, please",कृपया मुझे बताएं कि मुझे अपनी कार्य सूची के अनुसार क्या-क्या कार्य पूरे करने हैं?,Please let me know what tasks I need to complete on my to-do list?,todo_list
 1488,is fixing mom's kitchen blind on my to do list,माँ के रसोईघर के पर्दे को ठीक करना मेरी कार्य सूची में है,Fixing mom's kitchen curtains is on my to-do list,todo_list
 1489,"let me hear all of the items on my to do list, please",कृपया मुझे मेरी कार्य सूची की सभी बातें बताएं,Please tell me everything on my to do list,todo_list
@@ -1585,7 +1585,7 @@
 1583,please phone lizzy,कृपया लिज़ी को फ़ोन करें,Please call Lizzie,make_call
 1584,dial lisa's cell phone number,लिसा का सेल फ़ोन नंबर डायल करें,Dial Lisa's cell phone number,make_call
 1585,i must call roderick,मुझे रॉड्रिक को फोन करना होगा,I'll have to call Roderick.,make_call
-1586,phone sarah,फ़ोन सारा,Phone Sara,make_call
+1586,phone sarah,फ़ोन सारा,Phone Sarah,make_call
 1587,please make a phone call to christopher,कृपया क्रिस्टोफर को फ़ोन करें,Please call Christopher,make_call
 1588,phone lobby,फ़ोन लॉबी,Phone Lobby,make_call
 1589,call someone for me,मेरे लिए किसी को बुलाओ,call someone for me,make_call
@@ -1624,7 +1624,7 @@
 1622,please inform me the gas i need to fill this car up with,कृपया मुझे बताएं कि मुझे इस कार में कितना पेट्रोल भरना होगा,Please tell me how much petrol do I need to fill in this car,gas_type
 1623,my car uses what type of fuel,मेरी कार किस प्रकार का ईंधन उपयोग करती है,what type of fuel does my car use,gas_type
 1624,what type of fuel does my car use,मेरी कार किस प्रकार का ईंधन उपयोग करती है,what type of fuel does my car use,gas_type
-1625,what kind of fuel do i need,मुझे किस तरह के ईंधन की ज़रूरत है,what type of fuel do I need,gas_type
+1625,what kind of fuel do i need,मुझे किस तरह के ईंधन की ज़रूरत है,What type of fuel do I need,gas_type
 1626,what kind of fuel goes in my engine,मेरे इंजन में किस प्रकार का ईंधन जाता है,what type of fuel goes into my engine,gas_type
 1627,tell me the gas i need to fill this car up with,मुझे बताओ कि मुझे इस कार में कितना पेट्रोल भरना होगा,tell me how much petrol do i need to fill in this car,gas_type
 1628,tell me the kind of fuel that my vehicle operates on,मुझे बताओ कि मेरा वाहन किस प्रकार के ईंधन पर चलता है,Tell me what type of fuel my vehicle runs on,gas_type
@@ -1696,10 +1696,10 @@
 1694,please cancel my reservation,कृपया मेरा आरक्षण रद्द करें,Please cancel my reservation,cancel_reservation
 1695,can you cancel my reservation tonight for chris at smith and wollensky,क्या आप आज रात स्मिथ और वोलेंस्की में क्रिस के लिए मेरा आरक्षण रद्द कर सकते हैं?,Can you cancel my reservation for Chris at Smith and Wollensky tonight?,cancel_reservation
 1696,please cancel the table for two at burger king,कृपया बर्गर किंग में दो लोगों के लिए टेबल रद्द करें,Please cancel a table for two at Burger King,cancel_reservation
-1697,can you cancel my reservation for dinner tomorrow,क्या आप कल रात के खाने के लिए मेरा आरक्षण रद्द कर सकते हैं?,Can you cancel my reservation for dinner tomorrow night?,cancel_reservation
+1697,can you cancel my reservation for dinner tomorrow,क्या आप कल रात के खाने के लिए मेरा आरक्षण रद्द कर सकते हैं?,Can you cancel my reservation for dinner tomorrow?,cancel_reservation
 1698,please cancel the reservation at zephers for joe and myself right now,कृपया अभी जो और मेरे लिए ज़ेफ़र्स में आरक्षण रद्द करें,Please cancel reservations at Zephyr's for Joe and me right now,cancel_reservation
 1699,could i cancel my reservations,क्या मैं अपना आरक्षण रद्द कर सकता हूँ,can I cancel my reservation,cancel_reservation
-1700,can you schedule a meeting at 10 am tomorrow with john smith,क्या आप कल सुबह 10 बजे जॉन स्मिथ के साथ मीटिंग शेड्यूल कर सकते हैं?,Can you schedule a meeting with John Smith for 10 am tomorrow?,schedule_meeting
+1700,can you schedule a meeting at 10 am tomorrow with john smith,क्या आप कल सुबह 10 बजे जॉन स्मिथ के साथ मीटिंग शेड्यूल कर सकते हैं?,Can you schedule a meeting with John Smith tomorrow at 10 am?,schedule_meeting
 1701,i want to find out how do i schedule a meeting,मैं जानना चाहता हूँ कि मैं मीटिंग कैसे शेड्यूल करूँ,I'd like to know how to schedule a meeting,schedule_meeting
 1702,can you schedule a meeting with james at the office,क्या आप कार्यालय में जेम्स के साथ बैठक निर्धारित कर सकते हैं,can you schedule a meeting with james at the office,schedule_meeting
 1703,can you schedule a meeting with steve for 5,क्या आप स्टीव के साथ 5 बजे की मीटिंग शेड्यूल कर सकते हैं?,Can you schedule a meeting with Steve at 5?,schedule_meeting
@@ -1757,7 +1757,7 @@
 1755,can you call my cellphone,क्या आप मेरे सेलफोन पर कॉल कर सकते हैं,can you call my cell phone,find_phone
 1756,how can i find my phone,मैं अपना फ़ोन कैसे ढूंढ सकता हूँ?,How can I find my phone?,find_phone
 1757,is my phone in the house,क्या मेरा फ़ोन घर में है,is my phone at home,find_phone
-1758,what is the location of my phone,मेरे फ़ोन का स्थान क्या है,what is my phone's location,find_phone
+1758,what is the location of my phone,मेरे फ़ोन का स्थान क्या है,what is my phone location,find_phone
 1759,do you know where i left my phone,क्या तुम्हें पता है मैंने अपना फोन कहां छोड़ा है,do you know where i left my phone,find_phone
 1760,help me find my phone,मेरा फ़ोन ढूंढने में मेरी मदद करें,help me find my phone,find_phone
 1761,please help me find my phone,कृपया मेरा फ़ोन ढूंढने में मेरी मदद करें,please help me find my phone,find_phone
@@ -1821,7 +1821,7 @@
 1819,how do i make my insurance policy different,मैं अपनी बीमा पॉलिसी को अलग कैसे बनाऊं?,How do I make my insurance policy different?,insurance_change
 1820,how do i change my current insurance to a new plan with lower co-pay,मैं अपने वर्तमान बीमा को कम सह-भुगतान वाली नई योजना में कैसे बदलूं?,How do I switch my current insurance to a new plan with a lower co-pay?,insurance_change
 1821,i'd like a new life insurance plan,मुझे एक नई जीवन बीमा योजना चाहिए,I need a new life insurance plan,insurance_change
-1822,i am hoping to switch insurance plans,मैं बीमा योजना बदलने की उम्मीद कर रहा हूँ,I am looking to change insurance plans,insurance_change
+1822,i am hoping to switch insurance plans,मैं बीमा योजना बदलने की उम्मीद कर रहा हूँ,I am looking to change my insurance plan,insurance_change
 1823,i need new health insurance,मुझे नया स्वास्थ्य बीमा चाहिए,I need new health insurance,insurance_change
 1824,"how can i get new insurance, please","मैं नया बीमा कैसे प्राप्त कर सकता हूं, कृपया बताएं?","How can I get a new insurance, please tell me?",insurance_change
 1825,i would like to alter my insurance plan,मैं अपनी बीमा योजना बदलना चाहता हूँ,I want to change my insurance plan,insurance_change
@@ -1867,7 +1867,7 @@
 1865,i'd like to make my credit score better,मैं अपना क्रेडिट स्कोर बेहतर बनाना चाहता हूँ,I want to improve my credit score,improve_credit_score
 1866,do you know if bouncing one check on your checking account can hurt your credit score or not,क्या आप जानते हैं कि आपके चेकिंग खाते का एक चेक बाउंस होने से आपके क्रेडिट स्कोर पर असर पड़ता है या नहीं?,Do you know if bouncing a check from your checking account affects your credit score?,improve_credit_score
 1867,what steps can i take to make sure my credit score doesn't go down,मैं यह सुनिश्चित करने के लिए क्या कदम उठा सकता हूं कि मेरा क्रेडिट स्कोर कम न हो?,What steps can I take to ensure my credit score doesn’t go down?,improve_credit_score
-1868,what lowers credit score,क्रेडिट स्कोर को क्या कम करता है,What lowers a credit score,improve_credit_score
+1868,what lowers credit score,क्रेडिट स्कोर को क्या कम करता है,what lowers a credit score,improve_credit_score
 1869,give me tips on maintaining good credit,मुझे अच्छा क्रेडिट बनाए रखने के लिए सुझाव दें,Give me tips on maintaining good credit,improve_credit_score
 1870,i'd like to find ways to improve my credit score,मैं अपने क्रेडिट स्कोर को बेहतर बनाने के तरीके खोजना चाहता हूँ,I want to find ways to improve my credit score,improve_credit_score
 1871,what are some of the ways that i can see an improvement in my credit score,मैं अपने क्रेडिट स्कोर में सुधार कैसे देख सकता हूँ?,How can I see an improvement in my credit score?,improve_credit_score
@@ -2027,7 +2027,7 @@
 2025,what did you just mention,आपने अभी क्या बताया,what did you just say,repeat
 2026,ai what was the question,अरे सवाल क्या था,hey what was the question,repeat
 2027,ai please repeat,ऐ कृपया दोहराएँ,aye please repeat,repeat
-2028,"i missed that last one, please repeat","मैं आखिरी वाला भूल गया, कृपया दोहराएँ","I forgot the last one, please repeat",repeat
+2028,"i missed that last one, please repeat","मैं आखिरी वाला भूल गया, कृपया दोहराएँ","I forgot the last one, please repeat it",repeat
 2029,please repeat over what you said,कृपया आपने जो कहा उसे दोहराएँ,please repeat what you said,repeat
 2030,"sorry, i didn't hear you, can you say that gain","क्षमा करें, मैंने आपको नहीं सुना, क्या आप यह कह सकते हैं?","Sorry, I didn't hear you, can you say that?",repeat
 2031,"i didn't get that, please repeat","मुझे समझ नहीं आया, कृपया दोहराएँ","I did not understand, please repeat",repeat
@@ -2069,7 +2069,7 @@
 2067,play the song called blood brothers,ब्लड ब्रदर्स नामक गाना बजाओ,Play the song Blood Brothers,play_music
 2068,turn on the rap playlist,रैप प्लेलिस्ट चालू करें,Turn on the rap playlist,play_music
 2069,"that ""baby shark, doo doo,"" song, i want to hear it","वह ""बेबी शार्क, डू डू,"" गाना, मैं इसे सुनना चाहता हूँ","That ""Baby Shark, doo doo,"" song, I want to hear it",play_music
-2070,play that song called colony of birchman,कॉलोनी ऑफ बर्चमैन नामक गाना बजाओ,Play the song Colony of Birchmen,play_music
+2070,play that song called colony of birchman,कॉलोनी ऑफ बर्चमैन नामक गाना बजाओ,Play the song Colony of Birchman,play_music
 2071,can you play your guitar right now,क्या आप अभी अपना गिटार बजा सकते हैं,can you play your guitar now,play_music
 2072,play hey jude,हे जूड खेलो,Play Hey Jude,play_music
 2073,put my workout playlist on,मेरी वर्कआउट प्लेलिस्ट लगाओ,put on my workout playlist,play_music
@@ -2093,7 +2093,7 @@
 2091,is it okay to listen to elvis' music,क्या एल्विस का संगीत सुनना ठीक है?,Is it okay to listen to Elvis music?,play_music
 2092,play some rock,कुछ रॉक बजाओ,play some rock,play_music
 2093,"i want to hear the song that has, ""baby shark, doo doo","मैं वह गाना सुनना चाहता हूँ जिसमें है, ""बेबी शार्क, डू डू","I want to hear that song that goes, ""Baby Shark, doo doo",play_music
-2094,can you play music by the rolling stones,क्या आप रोलिंग स्टोन्स का संगीत बजा सकते हैं,can you play the rolling stones music,play_music
+2094,can you play music by the rolling stones,क्या आप रोलिंग स्टोन्स का संगीत बजा सकते हैं,can you play rolling stones music,play_music
 2095,can you play right above it,क्या आप इसके ठीक ऊपर खेल सकते हैं,can you play right above it,play_music
 2096,play a song for me,मेरे लिए एक गाना बजाओ,play a song for me,play_music
 2097,i need to play the song that goes like hey jude don't make it bad,"मुझे वह गाना बजाना है जो इस तरह है, हे जूड इसे बुरा मत बनाओ","I need to play that song that goes like this, hey Jude don't make it bad",play_music
@@ -2202,10 +2202,10 @@
 2200,do i have anything on my calendar for may 3,क्या मेरे कैलेंडर में 3 मई के लिए कुछ है?,Is there anything on my calendar for May 3rd?,calendar
 2201,is my daughter's birthday on my calendar,क्या मेरी बेटी का जन्मदिन मेरे कैलेंडर पर है,is my daughter's birthday on my calendar,calendar
 2202,can you give me an overview of what march 23 will look like for me,क्या आप मुझे बता सकते हैं कि 23 मार्च मेरे लिए कैसा रहेगा?,Can you tell me what March 23rd will be like for me?,calendar
-2203,what do i have on my calendar for monday the 1st of march,सोमवार 1 मार्च के लिए मेरे कैलेंडर में क्या है?,"What's on my calendar for Monday, March 1?",calendar
-2204,i want my schedule for march 2,मुझे 2 मार्च का अपना शेड्यूल चाहिए,I want my schedule for 2nd march,calendar
+2203,what do i have on my calendar for monday the 1st of march,सोमवार 1 मार्च के लिए मेरे कैलेंडर में क्या है?,"What's on my calendar for Monday, March 1st?",calendar
+2204,i want my schedule for march 2,मुझे 2 मार्च का अपना शेड्यूल चाहिए,I want my schedule for March 2nd,calendar
 2205,what do i have on my calendar for february 8,8 फरवरी के लिए मेरे कैलेंडर में क्या है?,What's on my calendar for February 8th?,calendar
-2206,let me know my march 2 calendar,मुझे मेरा 2 मार्च का कैलेंडर बताओ,tell me my calendar for march 2,calendar
+2206,let me know my march 2 calendar,मुझे मेरा 2 मार्च का कैलेंडर बताओ,show me my calendar for march 2,calendar
 2207,remind me of the date of the event called 'anniversary dinner,मुझे 'वर्षगांठ रात्रिभोज' नामक कार्यक्रम की तारीख याद दिलाइए,Remind me of the date of the event called 'Anniversary Dinner',calendar
 2208,"the 21st, what is on my calendar","21 तारीख, मेरे कैलेंडर में क्या है?","21st, what's on my calendar?",calendar
 2209,tell me what is showing on my calendar for the 17th of march,मुझे बताओ कि 17 मार्च को मेरे कैलेंडर पर क्या दिख रहा है,Tell me what shows up on my calendar on March 17th,calendar
@@ -2317,7 +2317,7 @@
 2315,do i need a visa to travel to jamaica,क्या मुझे जमैका की यात्रा के लिए वीज़ा की आवश्यकता है,Do I need a visa to travel to Jamaica,international_visa
 2316,will i need a visa to go to moldova,क्या मुझे मोल्दोवा जाने के लिए वीज़ा की आवश्यकता होगी,Do I need a visa to visit Moldova,international_visa
 2317,"i'm going to canada soon, do i need a visa","मैं जल्द ही कनाडा जा रहा हूँ, क्या मुझे वीज़ा की ज़रूरत है?","I am moving to Canada soon, do I need a visa?",international_visa
-2318,should i get a travel visa for spain,क्या मुझे स्पेन के लिए यात्रा वीज़ा लेना चाहिए,Do I need a travel visa for Spain?,international_visa
+2318,should i get a travel visa for spain,क्या मुझे स्पेन के लिए यात्रा वीज़ा लेना चाहिए,Do I need a travel visa for Spain,international_visa
 2319,i want to see paris will i need an international visa,मैं पेरिस देखना चाहता हूँ क्या मुझे अंतर्राष्ट्रीय वीज़ा की आवश्यकता होगी?,I want to see Paris. Do I need an international visa?,international_visa
 2320,do i need to apply for a visa to visit dnipro,क्या मुझे dnipro जाने के लिए वीज़ा के लिए आवेदन करना होगा,do I need to apply for a visa to visit Dnipro,international_visa
 2321,"for travel to argentina, do i need to get a travel visa","अर्जेंटीना की यात्रा के लिए, क्या मुझे यात्रा वीज़ा प्राप्त करने की आवश्यकता है","To travel to Argentina, do I need to get a travel visa",international_visa
@@ -2471,7 +2471,7 @@
 2469,how long does oil last in a car,एक कार में तेल कितने समय तक चलता है,how long does oil last in a car,oil_change_when
 2470,oil changes are typical done how often,तेल परिवर्तन आम तौर पर कितनी बार किया जाता है,How often is an oil change typically done,oil_change_when
 2471,how much longer until i need to get my oil changed,मुझे अपना तेल कब तक बदलवाना पड़ेगा,When do I need to get my oil changed,oil_change_when
-2472,when is my car due for an oil change,मेरी कार का तेल कब बदलना है,when should I change my car's oil,oil_change_when
+2472,when is my car due for an oil change,मेरी कार का तेल कब बदलना है,when to change my car oil,oil_change_when
 2473,when am i due for an oil change,मुझे तेल कब बदलवाना है,When do I need to change the oil,oil_change_when
 2474,what date should i next change my oil,मुझे अगली बार किस तारीख को अपना तेल बदलना चाहिए,When should I next change my oil?,oil_change_when
 2475,is it time for an oil change,क्या तेल बदलने का समय आ गया है,Is it time to change the oil,oil_change_when
@@ -2570,7 +2570,7 @@
 2568,what sort of stuff do you know,आप किस तरह की चीजें जानते हैं,what kind of things do you know,what_can_i_ask_you
 2569,what kind of questions can i ask you,मैं आपसे किस तरह के सवाल पूछ सकता हूँ?,What kind of questions can I ask you?,what_can_i_ask_you
 2570,i would like to know the types of subjects are you familiar with,मैं जानना चाहता हूँ कि आप किस प्रकार के विषयों से परिचित हैं,I would like to know what kind of topics you are familiar with,what_can_i_ask_you
-2571,what subjects are you versed in,आप किन विषयों में पारंगत हैं,What subjects are you proficient in?,what_can_i_ask_you
+2571,what subjects are you versed in,आप किन विषयों में पारंगत हैं,What subjects are you proficient in,what_can_i_ask_you
 2572,tell me the subject areas you are familiar with,मुझे उन विषय क्षेत्रों के बारे में बताएं जिनसे आप परिचित हैं,Tell me about the subject areas you are familiar with,what_can_i_ask_you
 2573,what can you be asked about,आपसे क्या पूछा जा सकता है,What may be asked of you,what_can_i_ask_you
 2574,tell me the types of things i can ask you about,मुझे बताओ कि मैं तुमसे किस तरह की बातें पूछ सकता हूँ,Tell me what kind of things I can ask you,what_can_i_ask_you
@@ -2649,7 +2649,7 @@
 2647,if i visit cairo will i need a plug converter,अगर मैं काहिरा जाऊं तो क्या मुझे प्लग कनवर्टर की जरूरत पड़ेगी,Do I need a plug converter if I go to Cairo?,plug_type
 2648,what plugs are used in spain,स्पेन में कौन से प्लग का उपयोग किया जाता है,What plugs are used in Spain,plug_type
 2649,how do i know what the outlets are like,मुझे कैसे पता चलेगा कि आउटलेट किस तरह के हैं,How do I know what type of outlet I have?,plug_type
-2650,are shots needed for uk travel,क्या ब्रिटेन यात्रा के लिए टीके आवश्यक हैं?,Are vaccines necessary for travel to the UK?,vaccines
+2650,are shots needed for uk travel,क्या ब्रिटेन यात्रा के लिए टीके आवश्यक हैं?,Are vaccines required for travel to the UK?,vaccines
 2651,which vaccinations are required to go to viet nam,वियतनाम जाने के लिए कौन से टीके आवश्यक हैं,What vaccinations are needed to visit Vietnam,vaccines
 2652,are there shots required before going to south africa,क्या दक्षिण अफ्रीका जाने से पहले टीके लगवाना ज़रूरी है?,Is it necessary to get vaccinated before travelling to South Africa?,vaccines
 2653,are vaccinations necessary to go there,क्या वहां जाने के लिए टीकाकरण आवश्यक है,Are vaccinations required to go there?,vaccines
@@ -2834,7 +2834,7 @@
 2832,i need to know when the next holiday will be,मुझे जानना है कि अगली छुट्टी कब होगी,I want to know when the next holiday is,next_holiday
 2833,when don't i have to work next,मुझे आगे कब काम नहीं करना पड़ेगा,When will I no longer have to work,next_holiday
 2834,please look up the next holiday for me,कृपया मेरे लिए अगली छुट्टी देखें,please check next holiday for me,next_holiday
-2835,what's the time period till our next day off,हमारी अगली छुट्टी तक का समय क्या है,what time is it till our next vacation,next_holiday
+2835,what's the time period till our next day off,हमारी अगली छुट्टी तक का समय क्या है,what time is it until our next vacation,next_holiday
 2836,when do i have some time off next,अगली बार मुझे कब छुट्टी मिलेगी,When will I get a holiday next time?,next_holiday
 2837,which holiday is next,अगली छुट्टी कौन सी है,what is the next holiday,next_holiday
 2838,how many more days until my next paid day off,मेरे अगले वेतनित अवकाश तक कितने दिन और हैं,How many days till my next paid leave,next_holiday
@@ -2973,7 +2973,7 @@
 2971,make sure april 1 is clear on my calendar,सुनिश्चित करें कि 1 अप्रैल मेरे कैलेंडर पर स्पष्ट हो,Make sure April 1st is clear on my calendar,calendar_update
 2972,please add final exams to my calendar for may 2,कृपया 2 मई के लिए मेरे कैलेंडर में अंतिम परीक्षाएं जोड़ें,Please add final exams to my calendar for May 2nd,calendar_update
 2973,add my birthday to my calendar for next month on the 5th,अगले महीने की 5 तारीख को मेरे जन्मदिन को मेरे कैलेंडर में जोड़ दें,Add my birthday to my calendar on the 5th of next month,calendar_update
-2974,please put annie's baby shower on march 30 in my calendar,कृपया एनी के बेबी शॉवर को 30 मार्च को मेरे कैलेंडर में डाल दें,Please put Annie's baby shower on my calendar for March 30th,calendar_update
+2974,please put annie's baby shower on march 30 in my calendar,कृपया एनी के बेबी शॉवर को 30 मार्च को मेरे कैलेंडर में डाल दें,Please put Annie's baby shower on March 30th on my calendar,calendar_update
 2975,get rid of everything on my calendar for march 2nd,2 मार्च के लिए मेरे कैलेंडर पर मौजूद सभी चीज़ें हटा दें,Delete everything on my calendar for March 2,calendar_update
 2976,i shall remove fishing from my calendar for soccer,मैं फुटबॉल के लिए अपने कैलेंडर से मछली पकड़ने को हटा दूंगा,I'll take fishing off my calendar for football,calendar_update
 2977,delete that event from calendar,उस ईवेंट को कैलेंडर से हटाएँ,Remove the event from the calendar,calendar_update
@@ -3081,7 +3081,7 @@
 3079,does the bus go to the washington monument,क्या बस वाशिंगटन स्मारक तक जाती है,does the bus go to the washington monument,directions
 3080,how do i get to the park on foot,मैं पैदल पार्क तक कैसे जाऊं?,How do I get to the park on foot?,directions
 3081,does home have a starbucks nearby,क्या घर के पास कोई स्टारबक्स है,is there a starbucks near home,directions
-3082,i need to know how to get to target by bus,मुझे यह जानना है कि बस से टारगेट तक कैसे पहुंचा जाए,I want to know how to get to Target by bus,directions
+3082,i need to know how to get to target by bus,मुझे यह जानना है कि बस से टारगेट तक कैसे पहुंचा जाए,I would like to know how to get to Target by bus,directions
 3083,how would i get to city hall via bus,मैं बस से सिटी हॉल कैसे पहुंचूंगा?,How do I get to City Hall by bus?,directions
 3084,i would like to know where the closest gas station is,मैं जानना चाहता हूँ कि सबसे नज़दीकी पेट्रोल पंप कहाँ है,I want to know where the nearest petrol pump is,directions
 3085,where is the closest starbucks,सबसे नज़दीकी स्टारबक्स कहां है,where is the nearest starbucks,directions
@@ -3205,14 +3205,14 @@
 3203,update on vacation request,छुट्टी के अनुरोध पर अद्यतन,Update on Leave Request,pto_request_status
 3204,i requested some vacation time; has it been approved,मैंने कुछ छुट्टी का अनुरोध किया है; क्या इसे मंजूरी मिल गई है,I have requested some leave; has it been approved,pto_request_status
 3205,tell me the status of my day off request,मुझे मेरे छुट्टी के अनुरोध की स्थिति बताओ,Tell me the status of my leave request,pto_request_status
-3206,has my request for the day off been approved yet,क्या छुट्टी के लिए मेरा अनुरोध अभी तक स्वीकृत हुआ है,Has my leave request been approved yet?,pto_request_status
+3206,has my request for the day off been approved yet,क्या छुट्टी के लिए मेरा अनुरोध अभी तक स्वीकृत हुआ है,Has my request for leave been approved yet,pto_request_status
 3207,"on my vacation request, what is the latest information",मेरे अवकाश अनुरोध पर नवीनतम जानकारी क्या है,What is the latest information on my leave request,pto_request_status
 3208,check on the status of my vacation request please,कृपया मेरे अवकाश अनुरोध की स्थिति की जांच करें,Please check the status of my leave request,pto_request_status
 3209,whats going on with my day off request,मेरे छुट्टी के अनुरोध के साथ क्या हो रहा है,What is happening with my leave request,pto_request_status
 3210,any news for me regarding my day off request,मेरे अवकाश अनुरोध के संबंध में कोई समाचार है?,Any news regarding my leave request?,pto_request_status
 3211,how is my vacation request looking,मेरा अवकाश अनुरोध कैसा लग रहा है,What my leave request looks like,pto_request_status
 3212,has my vacation request been approved,क्या मेरा अवकाश अनुरोध स्वीकृत हो गया है,Has my leave request been approved,pto_request_status
-3213,do you know if my vacation was approved yet or not,क्या तुम्हें पता है कि मेरी छुट्टी मंजूर हुई या नहीं,Do you know whether my leave has been approved or not,pto_request_status
+3213,do you know if my vacation was approved yet or not,क्या तुम्हें पता है कि मेरी छुट्टी मंजूर हुई या नहीं,Do you know whether my leave has been approved or not?,pto_request_status
 3214,could you tell me what the status of my day off request is,क्या आप मुझे बता सकते हैं कि मेरे अवकाश अनुरोध की स्थिति क्या है,Can you tell me what is the status of my leave request,pto_request_status
 3215,is the request for vacation i filed with my manager at intel approved yet,क्या इंटेल में मेरे प्रबंधक के समक्ष दायर छुट्टी का अनुरोध अभी तक स्वीकृत हुआ है?,Has the leave request filed with my manager at Intel been approved yet?,pto_request_status
 3216,has my time off request been approved yet,क्या मेरा अवकाश अनुरोध अभी तक स्वीकृत हुआ है,Has my leave request been approved yet,pto_request_status
@@ -3291,7 +3291,7 @@
 3289,confirm my taco house reservation for jean,जीन के लिए मेरे टैको हाउस आरक्षण की पुष्टि करें,Confirm my Taco House reservation for Gene,confirm_reservation
 3290,i would like to try and confirm that i have a reservation at la palapa for bolding,मैं यह पुष्टि करने का प्रयास करना चाहूंगा कि मेरे पास बोल्डिंग के लिए ला पलापा में आरक्षण है,I would like to try to confirm that I have a reservation at La Palapa for bouldering,confirm_reservation
 3291,i wanna confirm my reservation for 2/20 at 8 pm,मैं 2/20 को रात 8 बजे के लिए अपना आरक्षण कन्फर्म करना चाहता हूँ,I'd like to confirm my reservation for 2/20 at 8pm,confirm_reservation
-3292,i would like for you to confirm my reservation for red robin at 5 pm,मैं चाहता हूं कि आप शाम 5 बजे रेड रॉबिन के लिए मेरे आरक्षण की पुष्टि करें,I would like you to confirm my reservation for Red Robin at 5 p.m.,confirm_reservation
+3292,i would like for you to confirm my reservation for red robin at 5 pm,मैं चाहता हूं कि आप शाम 5 बजे रेड रॉबिन के लिए मेरे आरक्षण की पुष्टि करें,I want you to confirm my reservation for Red Robin at 5 p.m.,confirm_reservation
 3293,please confirm i have a reservation for 2 pm on february 21st,कृपया पुष्टि करें कि मेरे पास 21 फरवरी को दोपहर 2 बजे के लिए आरक्षण है,Please confirm I have a reservation for February 21st at 2pm,confirm_reservation
 3294,i would like to try and confirm that i have a reservation at houlihan’s for mike,मैं यह पुष्टि करने का प्रयास करना चाहूंगा कि मेरे पास माइक के लिए हौलिहान में आरक्षण है,I would like to try to confirm that I have a reservation for Mike at Houlihan's,confirm_reservation
 3295,can you check that there's a reservation for mark at sidetracks,क्या आप जाँच सकते हैं कि साइडट्रैक्स पर मार्क के लिए आरक्षण है,Can you check if there is a reservation for Mark on Sidetracks,confirm_reservation
@@ -3335,7 +3335,7 @@
 3333,will you please confirm the month that my card expires,कृपया बताएं कि मेरा कार्ड किस महीने समाप्त हो रहा है,Please tell me in which month my card is expiring,expiration_date
 3334,how much time do i have before my credit card expires,मेरे क्रेडिट कार्ड की वैधता समाप्त होने से पहले मेरे पास कितना समय है?,How much time do I have before my credit card expires?,expiration_date
 3335,how many days until my amex card reaches it expiration date,मेरे एमेक्स कार्ड की समाप्ति तिथि तक कितने दिन बाकी हैं?,How many days are left until my Amex card expires?,expiration_date
-3336,on what date does my visa card expires,मेरा वीज़ा कार्ड किस तारीख को समाप्त हो रहा है,When does my Visa card expire,expiration_date
+3336,on what date does my visa card expires,मेरा वीज़ा कार्ड किस तारीख को समाप्त हो रहा है,When does my Visa card expire?,expiration_date
 3337,can you check the expiration date for my amex card,क्या आप मेरे एमेक्स कार्ड की समाप्ति तिथि की जांच कर सकते हैं?,Can you check my Amex card expiration date?,expiration_date
 3338,can you tell me the expiration date for my mastercard,क्या आप मुझे मेरे मास्टरकार्ड की समाप्ति तिथि बता सकते हैं?,Can you tell me the expiration date of my MasterCard?,expiration_date
 3339,how long is it going to be until my card expires,मेरे कार्ड की वैधता समाप्त होने में कितना समय लगेगा,How long will it take for my card to expire,expiration_date
@@ -3382,7 +3382,7 @@
 3380,whats the calorie content of oatmeal,दलिया में कैलोरी की मात्रा कितनी होती है,How many calories are in oatmeal,calories
 3381,what is the calorie count in a cookie,एक कुकी में कैलोरी की मात्रा कितनी होती है,how many calories are in a cookie,calories
 3382,how many calories are in waffles,वफ़ल में कितनी कैलोरी होती है,How many calories are in waffles,calories
-3383,how many calories are in cookies,कुकीज़ में कितनी कैलोरी होती है,How many calories are in cookies,calories
+3383,how many calories are in cookies,कुकीज़ में कितनी कैलोरी होती है,how many calories are in cookies,calories
 3384,how many calories does a big mac have,एक बिग मैक में कितनी कैलोरी होती है,how many calories are in a big mac,calories
 3385,what type of calorie numbers are in onions,प्याज में किस प्रकार की कैलोरी होती है,What calories are in onions?,calories
 3386,what's a big bowl of ice cream contain in calories,एक बड़े कटोरे आइसक्रीम में कितनी कैलोरी होती है,How many calories are in a large bowl of ice cream,calories
@@ -3391,7 +3391,7 @@
 3389,how many calories do cheetos have,चीटोस में कितनी कैलोरी होती है,how many calories are in cheetos,calories
 3390,how high in calories is pork,सूअर का मांस कैलोरी में कितना उच्च है,How high in calories is pork,calories
 3391,how many calories does a scoop of chocolate ice cream contain,एक स्कूप चॉकलेट आइसक्रीम में कितनी कैलोरी होती है,How many calories are in one scoop of chocolate ice cream,calories
-3392,what's the caloric content if you eat roast beef,यदि आप भुना हुआ मांस खाते हैं तो उसमें कैलोरी की मात्रा कितनी है,If you eat roast beef then how many calories are in it,calories
+3392,what's the caloric content if you eat roast beef,यदि आप भुना हुआ मांस खाते हैं तो उसमें कैलोरी की मात्रा कितनी है,"If you eat roasted meat, how many calories are in it",calories
 3393,what is the calorie count for muffins,मफिन में कैलोरी की मात्रा कितनी है,How many calories are in a muffin,calories
 3394,how many calories are in a can of coke,कोक के एक कैन में कितनी कैलोरी होती है,how many calories are in a can of coke,calories
 3395,how many calories in scoop of chocolate ice cream,चॉकलेट आइसक्रीम के एक स्कूप में कितनी कैलोरी होती है,How many calories are in a scoop of chocolate ice cream,calories
@@ -3407,13 +3407,13 @@
 3405,i need you to set a time,मुझे आपसे समय निर्धारित करने की आवश्यकता है,I need to make an appointment with you,timer
 3406,"i'm cooking an egg, timer for 3 mins","मैं अंडा पका रही हूँ, टाइमर 3 मिनट का है","I'm cooking an egg, the timer is set to 3 minutes",timer
 3407,please run a timer for me,कृपया मेरे लिए टाइमर चलाएँ,Please run a timer for me,timer
-3408,will you set the timer,क्या आप टाइमर सेट करेंगे,Would you set a timer,timer
+3408,will you set the timer,क्या आप टाइमर सेट करेंगे,Would you like to set a timer,timer
 3409,set a timer to go off in 5 minutes,5 मिनट में बंद होने के लिए टाइमर सेट करें,Set a timer to go off in 5 minutes,timer
 3410,timer 10 minutes,टाइमर 10 मिनट,Timer 10 minutes,timer
 3411,set a ten second timer,दस सेकंड का टाइमर सेट करें,Set a timer for ten seconds,timer
 3412,set the timer for me please,कृपया मेरे लिए टाइमर सेट करें,please set a timer for me,timer
 3413,want 5 minute timer,5 मिनट का टाइमर चाहिए,I need a 5 minute timer,timer
-3414,let's get a timer set for 5 minutes,चलो 5 मिनट के लिए टाइमर सेट करते हैं,Let's set a timer for 5 minutes,timer
+3414,let's get a timer set for 5 minutes,चलो 5 मिनट के लिए टाइमर सेट करते हैं,let's set a timer for 5 minutes,timer
 3415,set a seven minute timer,सात मिनट का टाइमर सेट करें,Set a timer for seven minutes,timer
 3416,i want a 10 minute timer,मुझे 10 मिनट का टाइमर चाहिए,I need a 10 minute timer,timer
 3417,please set a timer for 40 minutes,कृपया 40 मिनट का टाइमर सेट करें,Please set a timer for 40 minutes,timer
@@ -3547,7 +3547,7 @@
 3545,"buy a flight from santa fe to jacksonville on new year's eve that returns on the fourth, please",कृपया नए साल की पूर्व संध्या पर सांता फ़े से जैक्सनविले के लिए एक उड़ान बुक करें जो चौथे दिन वापस आए।,Please book a flight from Santa Fe to Jacksonville on New Year's Eve and return on the fourth day.,book_flight
 3546,"book a flight from jacksonville, fl to atlanta, ga on 14 february 2019 and returning on 1 march 2019","14 फरवरी 2019 को जैक्सनविले, फ्लोरिडा से अटलांटा, जॉर्जिया के लिए उड़ान बुक करें और 1 मार्च 2019 को वापसी करें","Book a flight from Jacksonville, Florida to Atlanta, Georgia on February 14, 2019 and return on March 1, 2019",book_flight
 3547,"buy a flight for me from nyc to la on march 1, returning on march 5","1 मार्च को न्यूयॉर्क से लॉस एंजिल्स के लिए मेरे लिए उड़ान बुक करें, 5 मार्च को वापसी","Book a flight for me from New York to Los Angeles on March 1, return on March 5",book_flight
-3548,"purchase a flight from fiji to san diego on november 1 that returns on december 1, please",कृपया 1 नवंबर को फिजी से सैन डिएगो के लिए उड़ान बुक करें जो 1 दिसंबर को वापस आए।,Please book a flight from Fiji to San Diego on November 1st returning on December 1st.,book_flight
+3548,"purchase a flight from fiji to san diego on november 1 that returns on december 1, please",कृपया 1 नवंबर को फिजी से सैन डिएगो के लिए उड़ान बुक करें जो 1 दिसंबर को वापस आए।,Please book a flight from Fiji to San Diego on November 1st and return on December 1st.,book_flight
 3549,i need to get from jfk to dallas with united for under $500,मुझे 500 डॉलर से कम में यूनाइटेड के साथ जेएफके से डलास जाना है,I want to fly from JFK to Dallas with United for under $500,book_flight
 3550,please change the ai name for me,कृपया मेरे लिए ai नाम बदलें,please change ai name for me,change_ai_name
 3551,change the name of your system,अपने सिस्टम का नाम बदलें,Change your system name,change_ai_name
@@ -3606,7 +3606,7 @@
 3604,what is my apr for my credit card,मेरे क्रेडिट कार्ड का वार्षिक ब्याज क्या है?,What is the annual interest on my credit card?,apr
 3605,"on my bank of america visa, what is the apr",मेरे बैंक ऑफ अमेरिका वीज़ा पर apr क्या है?,What is the APR on my Bank of America Visa?,apr
 3606,i'd like to know the apr on my visa card,मैं अपने वीज़ा कार्ड पर वार्षिक ब्याज दर जानना चाहता हूँ,I want to know the annual interest rate on my VISA card,apr
-3607,what is my apr,मेरा अप्रैल क्या है,What is my April,apr
+3607,what is my apr,मेरा अप्रैल क्या है,what is my april,apr
 3608,can you look into whether my card has good apr or not,क्या आप देख सकते हैं कि मेरे कार्ड का वार्षिक प्रतिशत अच्छा है या नहीं,Can you check if my card has a good annual percentage or not,apr
 3609,"check the apr on my disney visa, please",कृपया मेरे डिज्नी वीज़ा पर apr की जाँच करें,please check the apr on my disney visa,apr
 3610,can you give me an appraisal of my card's apr,क्या आप मुझे मेरे कार्ड के apr का मूल्यांकन दे सकते हैं,can you give me a price estimate for my card,apr
@@ -3614,7 +3614,7 @@
 3612,i must know my visa card's apr,मुझे अपने वीज़ा कार्ड का अप्रैल जानना चाहिए,I need to know the APR of my VISA card,apr
 3613,give me the apr for my mastercard,मुझे मेरे मास्टरकार्ड का वार्षिक प्रतिशत बताइए,Tell me my MasterCard annual percentage,apr
 3614,what will the apr on my transferred balance be after the first year on my bank of america credit card,मेरे बैंक ऑफ अमेरिका क्रेडिट कार्ड पर पहले वर्ष के बाद मेरे हस्तांतरित शेष राशि पर apr क्या होगा?,What will be the APR on my transferred balance after the first year on my Bank of America credit card?,apr
-3615,what is the credit card apr if you could fill me in,"क्रेडिट कार्ड का अप्रैल क्या है, अगर आप मुझे बता सकें",what is the apr of credit card if you can tell me,apr
+3615,what is the credit card apr if you could fill me in,"क्रेडिट कार्ड का अप्रैल क्या है, अगर आप मुझे बता सकें",what is the apr of the credit card if you can tell me,apr
 3616,what's the apr on my amex card,मेरे एमेक्स कार्ड पर apr क्या है?,What is the apr on my Amex card?,apr
 3617,fill me in on the apr for my american express card,मुझे मेरे अमेरिकन एक्सप्रेस कार्ड के लिए वार्षिक ब्याज दर बताएं,Tell me the annual interest rate for my American Express card,apr
 3618,"on my wells fargo mastercard, what is the current apr",मेरे वेल्स फार्गो मास्टरकार्ड पर वर्तमान अप्रैल क्या है?,What is the current APR on my Wells Fargo Mastercard?,apr
@@ -3665,7 +3665,7 @@
 3663,does gramercy tavern in new york accept reservations,क्या न्यू यॉर्क में ग्रैमरसी टैवर्न आरक्षण स्वीकार करता है,Does Gramercy Tavern in New York accept reservations,accept_reservations
 3664,does moes in la except rerservations,क्या ला में मोस आरक्षण को छोड़कर,What to expect except Moose Reservation in LA,accept_reservations
 3665,can i make reservations at applebee's or no,क्या मैं एप्पलबीज़ में आरक्षण कर सकता हूँ या नहीं,Can I make a reservation at Applebee's?,accept_reservations
-3666,do you know if ruth chris does reservations,क्या आप जानते हैं कि रूथ क्रिस आरक्षण करता है,Do you know if Ruth's Chris takes reservations?,accept_reservations
+3666,do you know if ruth chris does reservations,क्या आप जानते हैं कि रूथ क्रिस आरक्षण करता है,Do you know if Ruth's Chris takes reservations,accept_reservations
 3667,does minnis take reservations,क्या मिनिस आरक्षण लेता है,Does Minis take reservations?,accept_reservations
 3668,do they take reservations at applebees,क्या वे एप्पलबीज़ में आरक्षण लेते हैं,do they take reservations at applebees,accept_reservations
 3669,what locations of applebee's take reservations,एप्पलबी के कौन से स्थान आरक्षण लेते हैं,Which Applebee's locations take reservations,accept_reservations
@@ -3731,7 +3731,7 @@
 3729,what's the exchange rate between dollars and pesos,डॉलर और पेसो के बीच विनिमय दर क्या है,What is the exchange rate between the dollar and the peso,exchange_rate
 3730,usd to the euro exchanges at what right now,USD से यूरो एक्सचेंज अभी क्या है?,What is the USD to Euro exchange right now?,exchange_rate
 3731,exchange rate between mexico and us,मेक्सिको और अमेरिका के बीच विनिमय दर,Exchange rate between Mexico and America,exchange_rate
-3732,i wanna know five dollars in yen and rubles,मैं पाँच डॉलर का येन और रूबल में मूल्य जानना चाहता हूँ,I would like to know the value of five dollars in yen and rubles,exchange_rate
+3732,i wanna know five dollars in yen and rubles,मैं पाँच डॉलर का येन और रूबल में मूल्य जानना चाहता हूँ,I want to know the value of five dollars in yen and rubles,exchange_rate
 3733,what is the current exchange rate of yen to lira,येन से लीरा की वर्तमान विनिमय दर क्या है,What is the current exchange rate of Yen to Lira,exchange_rate
 3734,tell me five dollars in yen and rubles,मुझे येन और रूबल में पाँच डॉलर बताओ,Tell me five dollars in yen and rubles,exchange_rate
 3735,what is the current going rate for exchanging dollars for pesos,डॉलर को पेसो में बदलने की वर्तमान दर क्या है,What is the current rate for converting dollars to pesos,exchange_rate
@@ -3882,7 +3882,7 @@
 3880,"how do i find my present location right now, please","मैं अभी अपना वर्तमान स्थान कैसे ढूंढूं, कृपया","How do I find my current location now, please",current_location
 3881,what are my longitude and latitude points,मेरे देशांतर और अक्षांश बिंदु क्या हैं,what are my longitude and latitude points,current_location
 3882,please show me where i am on a map,कृपया मुझे मानचित्र पर दिखाओ कि मैं कहां हूं,please show me on the map where I am,current_location
-3883,where am i right this moment,मैं इस समय कहाँ हूँ,where am i at this moment,current_location
+3883,where am i right this moment,मैं इस समय कहाँ हूँ,where am I at this moment,current_location
 3884,can you tell me how to figure out my current location,क्या आप मुझे बता सकते हैं कि मैं अपना वर्तमान स्थान कैसे पता करूँ,Can you tell me how to find my current location?,current_location
 3885,what is my current location that you see right now,मेरा वर्तमान स्थान क्या है जो आप अभी देख रहे हैं,what is my current location you are looking for now,current_location
 3886,my current location,मेरा वर्तमान स्थान,my current location,current_location
@@ -4020,7 +4020,7 @@
 4018,i would like to replace the pin number for my retirement account,मैं अपने सेवानिवृत्ति खाते के लिए पिन नंबर बदलना चाहता हूँ,I want to change the PIN number for my retirement account,pin_change
 4019,i need help changing my pin,मुझे अपना पिन बदलने में मदद चाहिए,I need help changing my PIN,pin_change
 4020,i really cannot remember what my pin is for my bank of america checking account,मुझे वास्तव में याद नहीं है कि मेरे बैंक ऑफ अमेरिका चेकिंग खाते का पिन क्या है,I don't actually remember what the PIN is for my Bank of America checking account,pin_change
-4021,i forgot the pin number for my college fund account,मैं अपने कॉलेज फंड खाते का पिन नंबर भूल गया हूँ,I forgot my college fund account PIN,pin_change
+4021,i forgot the pin number for my college fund account,मैं अपने कॉलेज फंड खाते का पिन नंबर भूल गया हूँ,I forgot my College Fund account PIN,pin_change
 4022,change the pin on my chase account to be 1234,मेरे चेस अकाउंट का पिन बदलकर 1234 कर दो,change my chase account pin to 1234,pin_change
 4023,tell me how to retrieve my pin number,मुझे बताओ कि मैं अपना पिन नंबर कैसे प्राप्त करूँ,Tell me how do I get my pin number,pin_change
 4024,is there a way to get my pin number,क्या मेरा पिन नंबर पाने का कोई तरीका है,Is there any way to get my pin number,pin_change
@@ -4028,7 +4028,7 @@
 4026,please change my retirement account pin number to 1234,कृपया मेरे रिटायरमेंट खाते का पिन नंबर बदलकर 1234 कर दें,Please change my retirement account PIN number to 1234,pin_change
 4027,change the pin on my bofa account to 3892,मेरे bofa खाते का पिन बदलकर 3892 करें,change my bofa account pin to 3892,pin_change
 4028,help me change my pin number,मेरा पिन नंबर बदलने में मेरी मदद करें,Help me change my PIN number,pin_change
-4029,i got to change my pin number for my account,मुझे अपने खाते का पिन नंबर बदलना है,I want to change my account PIN,pin_change
+4029,i got to change my pin number for my account,मुझे अपने खाते का पिन नंबर बदलना है,I want to change my account's PIN,pin_change
 4030,"i'd like to change the pin on my savings account, please","मैं अपने बचत खाते का पिन बदलना चाहता हूँ, कृपया","I want to change my savings account PIN, please",pin_change
 4031,change my amex account pin to 1234,मेरा एमेक्स खाता पिन 1234 में बदलें,change my amex account pin to 1234,pin_change
 4032,is there a way to change my pin number for my savings account,क्या मेरे बचत खाते का पिन नंबर बदलने का कोई तरीका है?,Is there any way to change my savings account PIN number?,pin_change
@@ -4055,7 +4055,7 @@
 4053,why is my account locked,मेरा खाता क्यों बंद है,Why is my account locked,account_blocked
 4054,"help, my account is blocked","मदद करें, मेरा खाता अवरुद्ध है","Help, my account is blocked",account_blocked
 4055,why am i locked out of my bank account,मेरा बैंक खाता क्यों बंद कर दिया गया है?,Why has my bank account been closed?,account_blocked
-4056,why don't i have access to my bank account,मुझे अपने बैंक खाते तक पहुंच क्यों नहीं है?,Why don’t I have access to my bank account?,account_blocked
+4056,why don't i have access to my bank account,मुझे अपने बैंक खाते तक पहुंच क्यों नहीं है?,Why don't I have access to my bank account?,account_blocked
 4057,why cannot i take any money out from my bank account,मैं अपने बैंक खाते से कोई पैसा क्यों नहीं निकाल सकता?,Why can't I withdraw any money from my bank account?,account_blocked
 4058,why did my bank account freeze,मेरा बैंक खाता क्यों फ्रीज हो गया?,Why was my bank account frozen?,account_blocked
 4059,can you explain why there is a hold on my savings account,क्या आप बता सकते हैं कि मेरे बचत खाते पर रोक क्यों है?,Can you tell me why my savings account is on hold?,account_blocked
@@ -4128,7 +4128,7 @@
 4126,what are some things that you enjoy,ऐसी कौन सी चीजें हैं जिनका आप आनंद लेते हैं,what are the things that you enjoy,what_are_your_hobbies
 4127,what you do at the free time,आप खाली समय में क्या करते हैं,what do you do in your free time,what_are_your_hobbies
 4128,what kinds of things are you into,आप किस तरह की चीजों में रुचि रखते हैं,what sort of things are you interested in,what_are_your_hobbies
-4129,do you have anything you enjoy to do,क्या आपके पास ऐसा कुछ है जिसे करने में आपको आनंद आता हो,do you have anything you enjoy doing,what_are_your_hobbies
+4129,do you have anything you enjoy to do,क्या आपके पास ऐसा कुछ है जिसे करने में आपको आनंद आता हो,do you have something you enjoy doing,what_are_your_hobbies
 4130,what things do you like to do,तुम्हें क्या करना पसंद है,what do you like to do,what_are_your_hobbies
 4131,might you have any hobbies,क्या आपके कोई शौक हैं,do you have any hobbies,what_are_your_hobbies
 4132,what hobbies do you like to partake in,आप कौन से शौक अपनाना पसंद करते हैं,what hobbies do you like to pursue,what_are_your_hobbies
@@ -4219,7 +4219,7 @@
 4217,set a reminder to feed the dogs,कुत्तों को खाना खिलाने के लिए रिमाइंडर सेट करें,Set reminders to feed the dogs,reminder_update
 4218,"new reminder, please",कृपया नया अनुस्मारक भेजें,Please send a new reminder,reminder_update
 4219,set up a reminder that i need to pay my car ins the 23rd,एक अनुस्मारक सेट करें कि मुझे 23 तारीख को अपनी कार का भुगतान करना होगा,Set a reminder that I have to make my car payment on the 23rd,reminder_update
-4220,i need to make a reminder please,मुझे एक अनुस्मारक बनाने की आवश्यकता है कृपया,I need to create a reminder please,reminder_update
+4220,i need to make a reminder please,मुझे एक अनुस्मारक बनाने की आवश्यकता है कृपया,I need a reminder please,reminder_update
 4221,remind me again please,कृपया मुझे फिर से याद दिलाएं,please remind me again,reminder_update
 4222,remind me to bring a jacket in tomorrow,मुझे कल जैकेट लाने की याद दिलाना,remind me to bring a jacket tomorrow,reminder_update
 4223,"the next time it rains, remind me to close the windows",अगली बार जब बारिश हो तो मुझे खिड़कियाँ बंद करने की याद दिलाना,Remind me to close the windows next time it rains,reminder_update
@@ -4317,7 +4317,7 @@
 4315,how many vacation days have i accrued,मुझे कितने अवकाश दिन मिले हैं,how many vacation days do i get,pto_balance
 4316,please tell me how many vacation days i currently have,कृपया मुझे बताएं कि वर्तमान में मेरे पास कितने अवकाश दिन हैं,Please tell me how many vacation days I currently have,pto_balance
 4317,i want to know how many vacation days i have,मैं जानना चाहता हूँ कि मेरे पास कितने दिन की छुट्टियाँ हैं,I want to know how many days of leave I have,pto_balance
-4318,how many of my vacation days do i have remaining,मेरी छुट्टियों के कितने दिन शेष हैं,How many days are left of my vacation,pto_balance
+4318,how many of my vacation days do i have remaining,मेरी छुट्टियों के कितने दिन शेष हैं,How many days are left of my vacation?,pto_balance
 4319,tell me how many vacation days i have left,मुझे बताओ कि मेरे पास कितने दिन की छुट्टियाँ बची हैं,Tell me how many days of vacation I have left,pto_balance
 4320,how many more vacation days do i have for the year,इस साल मुझे और कितने दिन की छुट्टियाँ मिलेंगी,How many more days of leave will I get this year?,pto_balance
 4321,provide me the number of vacation days i have,मुझे छुट्टियों के दिनों की संख्या बताइए,Tell me the number of vacation days,pto_balance
@@ -4421,7 +4421,7 @@
 4419,what is the name that you have for me,आपने मेरे लिए क्या नाम रखा है,what name have you given me,user_name
 4420,what's my name saved under,मेरा नाम किसके अंतर्गत सहेजा गया है,What is my name saved under,user_name
 4421,can you tell me my name,क्या आप मुझे मेरा नाम बता सकते हैं,can you tell me my name,user_name
-4422,"if you were smart, would you know my name",अगर तुम होशियार होते तो क्या तुम मेरा नाम जानते,"If you were smart, would you know my name?",user_name
+4422,"if you were smart, would you know my name",अगर तुम होशियार होते तो क्या तुम मेरा नाम जानते,"If you were smart, would you know my name",user_name
 4423,what is my name saved as,मेरा नाम किस नाम से सहेजा गया है,what name is my name saved as,user_name
 4424,is there a name that you call me,क्या कोई नाम है जिससे तुम मुझे बुलाते हो,is there a name you call me by,user_name
 4425,what is the name you have listed for my identity,आपने मेरी पहचान के लिए क्या नाम सूचीबद्ध किया है,What name have you listed for my identification,user_name
@@ -4466,7 +4466,7 @@
 4464,is the restaurant busy at lunchtime,क्या दोपहर के भोजन के समय रेस्तरां व्यस्त रहता है,is the restaurant busy at lunch time,how_busy
 4465,is there a wait time to get into tgifridays,क्या tgifridays में आने के लिए कोई प्रतीक्षा समय है,is there a waiting time to get into tgifridays,how_busy
 4466,find out what wait times are like right now at olive garden,जानें कि ऑलिव गार्डन में अभी प्रतीक्षा समय कैसा है,Find out what wait times are like at Olive Garden right now,how_busy
-4467,will i be able to get a seat at 5pm,क्या मुझे शाम 5 बजे सीट मिल पाएगी,Can I get a seat at 5pm,how_busy
+4467,will i be able to get a seat at 5pm,क्या मुझे शाम 5 बजे सीट मिल पाएगी,Can I get a seat at 5 p.m.?,how_busy
 4468,is kaya busy around 5 pm,क्या काया शाम 5 बजे के आसपास व्यस्त है?,Is Kaya busy around 5pm?,how_busy
 4469,would i have to wait long if i want to eat at chili's,अगर मैं चिलीज़ में खाना चाहूँ तो क्या मुझे लंबा इंतज़ार करना पड़ेगा,Do I have to wait long if I want to eat at Chili's,how_busy
 4470,what is the sitting time at this restaurant,इस रेस्तरां में बैठने का समय क्या है,What are the seating hours at this restaurant?,how_busy
@@ -4615,9 +4615,9 @@
 4613,i want to know your name,मैं आपका नाम जानना चाहता हूँ,I want to know your name,what_is_your_name
 4614,how should i refer to you,मैं आपको कैसे संदर्भित करूँ,How do I refer you,what_is_your_name
 4615,do you have a name that i can call you,क्या तुम्हारा कोई नाम है जिससे मैं तुम्हें पुकार सकूँ,do you have a name i can call you by,what_is_your_name
-4616,tell me your full name,मुझे अपना पूरा नाम बताओ,tell me your full name,what_is_your_name
+4616,tell me your full name,अपना पूरा नाम बताओ,tell me your full name,what_is_your_name
 4617,what should i refer to you as,मैं तुम्हें क्या कहूँ,what should i tell you,what_is_your_name
-4618,do people call you by a certain name what is it,क्या लोग आपको किसी खास नाम से बुलाते हैं वह क्या है,Do people call you by any special names? What is it?,what_is_your_name
+4618,do people call you by a certain name what is it,क्या लोग आपको किसी खास नाम से बुलाते हैं वह क्या है,Do people call you by any special names what is it,what_is_your_name
 4619,do you have a name,क्या आपका कोई नाम है,do you have a name,what_is_your_name
 4620,i'd like to know what to call you,मैं जानना चाहता हूँ कि तुम्हें क्या कहूँ,I want to know what to tell you,what_is_your_name
 4621,what name do you prefer,तुम्हें कौन सा नाम पसंद है,which name do you like,what_is_your_name
@@ -4640,7 +4640,7 @@
 4638,can you me what they call you,क्या आप मुझे बता सकते हैं कि वे आपको क्या कहते हैं?,Can you tell me what they call you?,what_is_your_name
 4639,"when referring to you, what name should i use",जब मैं आपका ज़िक्र करूँ तो मुझे कौन सा नाम इस्तेमाल करना चाहिए,What name should I use when I refer to you,what_is_your_name
 4640,whats your name,तुम्हारा नाम क्या है,What is your name,what_is_your_name
-4641,what name do you like to go by,आप किस नाम से जाना पसंद करते हैं,what name do you prefer to go by,what_is_your_name
+4641,what name do you like to go by,आप किस नाम से जाना पसंद करते हैं,what name do you prefer to be known by,what_is_your_name
 4642,what do you want me to call you,तुम चाहते हो कि मैं तुम्हें क्या कहूँ,what do you want me to tell you,what_is_your_name
 4643,do you have a preference regarding what i should call you,क्या आपको कोई पसंद है कि मैं आपको क्या कहूँ,Do you like what I tell you,what_is_your_name
 4644,is there a particular name i should call you,क्या कोई विशेष नाम है जिससे मैं तुम्हें पुकारूं,is there a special name i can call you,what_is_your_name
@@ -4846,7 +4846,7 @@
 4844,how can i schedule a vacation request,मैं छुट्टी का अनुरोध कैसे शेड्यूल कर सकता हूं,How do I schedule a leave request,pto_request
 4845,would you be able to tell me how to make a vacation request,क्या आप मुझे बता सकते हैं कि छुट्टी का अनुरोध कैसे किया जाए,Can you please tell me how to request leave,pto_request
 4846,may i take a pto on february 7 and 8,क्या मैं 7 और 8 फरवरी को पीटीओ ले सकता हूँ?,Can I take PTO on February 7th and 8th?,pto_request
-4847,how do i ask to have a vacation,मैं छुट्टी कैसे मांगूं,How do I ask for leave,pto_request
+4847,how do i ask to have a vacation,मैं छुट्टी कैसे मांगूं,How do I ask for a vacation,pto_request
 4848,can you put in a pto request for march 7th to the 9th,क्या आप 7 से 9 मार्च के लिए पीटीओ अनुरोध कर सकते हैं?,Can you request PTO for March 7-9?,pto_request
 4849,"can you submit a pto request for me from dates nov 2 to 10, please",क्या आप मेरे लिए 2 से 10 नवंबर तक पीटीओ अनुरोध प्रस्तुत कर सकते हैं?,Can you submit a PTO request for me from November 2nd-10th?,pto_request
 4850,"can you give me a burmese meal suggestion, please","क्या आप मुझे बर्मी भोजन का सुझाव दे सकते हैं, कृपया","Can you suggest me some Burmese food, please?",meal_suggestion
@@ -4891,7 +4891,7 @@
 4889,please suggest a meal from italy to me,कृपया मुझे इटली का कोई भोजन सुझाएँ,Please suggest me some Italian food,meal_suggestion
 4890,i need a suggestion for a dinner recipe,मुझे रात्रि भोजन की रेसिपी के लिए सुझाव चाहिए,I need suggestions for dinner recipes,meal_suggestion
 4891,what's a simple chinese recipe for dinner,रात के खाने के लिए सरल चीनी रेसिपी क्या है,what are simple chinese recipes for dinner,meal_suggestion
-4892,"can you give me a thai meal suggestion, please","क्या आप मुझे थाई भोजन का सुझाव दे सकते हैं, कृपया","Can you suggest me Thai food, please",meal_suggestion
+4892,"can you give me a thai meal suggestion, please","क्या आप मुझे थाई भोजन का सुझाव दे सकते हैं, कृपया","Can you suggest me Thai food, please?",meal_suggestion
 4893,how tasty is the pizza here,यहाँ का पिज़्ज़ा कितना स्वादिष्ट है,The pizza here is so delicious,meal_suggestion
 4894,get me italian cuisine dinner suggestions,मुझे इतालवी भोजन के सुझाव प्राप्त करें,Get me Italian food tips,meal_suggestion
 4895,what type of pizzas are available for dinner,रात्रि भोजन के लिए किस प्रकार के पिज़्ज़ा उपलब्ध हैं,What types of pizza are available for dinner,meal_suggestion
@@ -4913,7 +4913,7 @@
 4911,can you tell me something i don't know about banks,क्या आप मुझे बैंकों के बारे में कुछ बता सकते हैं जो मैं नहीं जानता,Can you tell me something about banks that I don't know,fun_fact
 4912,what's a fun fact about eggs,अंडे के बारे में मजेदार तथ्य क्या है,what are some fun facts about eggs,fun_fact
 4913,tell me a fact i may not know,मुझे एक तथ्य बताओ जो मैं नहीं जानता,Tell me a fact that I don’t know,fun_fact
-4914,what's an interesting fact about flamingos,फ्लेमिंगो के बारे में रोचक तथ्य क्या है,What are some interesting facts about flamingos,fun_fact
+4914,what's an interesting fact about flamingos,फ्लेमिंगो के बारे में रोचक तथ्य क्या है,What are some interesting facts about flamingos?,fun_fact
 4915,please tell me an interesting tidbit about the roman empire,कृपया मुझे रोमन साम्राज्य के बारे में कोई रोचक जानकारी बताइये,Please tell me some interesting facts about the Roman Empire,fun_fact
 4916,tell me some trivia about birds,मुझे पक्षियों के बारे में कुछ रोचक बातें बताओ,tell me some interesting facts about birds,fun_fact
 4917,repeat that fun fact about mt everest,माउंट एवरेस्ट के बारे में उस मजेदार तथ्य को दोहराएं,Repeat that fun fact about Mount Everest,fun_fact
@@ -4966,7 +4966,7 @@
 4964,"nutrition information for chicken nuggets, please","चिकन नगेट्स के लिए पोषण संबंधी जानकारी, कृपया","Nutritional information for chicken nuggets, please",nutrition_info
 4965,what's the nutritional information for steak,स्टेक के लिए पोषण संबंधी जानकारी क्या है,What is the nutritional information for steak?,nutrition_info
 4966,"i'd like to know the nutritional content of eggs, please","मैं अंडे की पौष्टिकता जानना चाहता हूँ, कृपया","I would like to know the nutritional value of eggs, please",nutrition_info
-4967,how healthy is stax chips,स्टेक्स चिप्स कितने स्वास्थ्यवर्धक हैं,How healthy are Stax chips?,nutrition_info
+4967,how healthy is stax chips,स्टेक्स चिप्स कितने स्वास्थ्यवर्धक हैं,How healthy are Stax Chips,nutrition_info
 4968,what's the nutrient info for a donut,डोनट के लिए पोषक तत्व की जानकारी क्या है,What is the nutrient information for a donut?,nutrition_info
 4969,what's the nutritional value for a pizza lunchable,एक पिज्जा लंच का पोषण मूल्य क्या है,What is the nutritional value of a pizza lunch,nutrition_info
 4970,what's the nutritional info for a loaf of bread,एक रोटी की पोषण संबंधी जानकारी क्या है,What is the nutritional information of a roti,nutrition_info
@@ -5072,7 +5072,7 @@
 5070,what foods do i buy to put into a korean dinner,कोरियाई डिनर में डालने के लिए मैं कौन से खाद्य पदार्थ खरीदूं?,What foods do I buy to put in a Korean dinner?,ingredients_list
 5071,do you have a list of ingredients that i'll need for blondies,क्या आपके पास उन सामग्रियों की सूची है जिनकी मुझे ब्लोंडीज़ के लिए आवश्यकता होगी,Do you have a list of ingredients I will need for blondies,ingredients_list
 5072,what would i need if i wanted to make chicken marsala,अगर मैं चिकन मर्सला बनाना चाहूँ तो मुझे क्या चाहिए होगा,What do I need if I want to make Chicken Marsala?,ingredients_list
-5073,chicken noodle casserole is made from what,चिकन नूडल पुलाव किस चीज़ से बनाया जाता है,What is Chicken Noodle Pulao made of,ingredients_list
+5073,chicken noodle casserole is made from what,चिकन नूडल पुलाव किस चीज़ से बनाया जाता है,What Chicken Noodle Pulao is made of,ingredients_list
 5074,what goes into a strawberry smoothie,स्ट्रॉबेरी स्मूदी में क्या-क्या डाला जाता है,What goes into a strawberry smoothie,ingredients_list
 5075,what is gumbo made of,गम्बो किस चीज़ से बनता है,what is gumbo made of,ingredients_list
 5076,what do you need to make general tsao's chicken,जनरल त्साओ चिकन बनाने के लिए आपको क्या चाहिए,What You Need to Make General Tsao Chicken,ingredients_list
@@ -5199,7 +5199,7 @@
 5197,i need a hotel in new orleans with awesome reviews,मुझे न्यू ऑरलियन्स में एक होटल चाहिए जिसकी समीक्षाएँ बहुत अच्छी हों,I want a hotel in New Orleans that has great reviews,book_hotel
 5198,are there any openings in new york city from april 2 through april 8,क्या 2 अप्रैल से 8 अप्रैल तक न्यूयॉर्क शहर में कोई रिक्तियां हैं?,Are there any vacancies in New York City from April 2 to April 8?,book_hotel
 5199,i need a well-rated hotel in vegas,मुझे वेगास में एक अच्छी रेटिंग वाला होटल चाहिए,I'm looking for a well-rated hotel in Vegas,book_hotel
-5200,tell me about any travel alerts issued for germany,जर्मनी के लिए जारी किसी यात्रा अलर्ट के बारे में मुझे बताएं,Tell me about a travel alert for Germany,travel_alert
+5200,tell me about any travel alerts issued for germany,जर्मनी के लिए जारी किसी यात्रा अलर्ट के बारे में मुझे बताएं,Tell me about any travel alerts for Germany,travel_alert
 5201,are there any travel alerts for syria,क्या सीरिया के लिए कोई यात्रा अलर्ट है,Is there a travel alert for Syria,travel_alert
 5202,is mexico a safe place,क्या मेक्सिको एक सुरक्षित जगह है,is mexico a safe place,travel_alert
 5203,what potential hazards are there for going to spain,स्पेन जाने में क्या संभावित खतरे हैं,What are the potential risks of traveling to Spain,travel_alert
@@ -5289,7 +5289,7 @@
 5287,"my card snapped, can you tell my bank to send a replacement","मेरा कार्ड टूट गया है, क्या आप मेरे बैंक से कह सकते हैं कि वह दूसरा कार्ड भेजे","My card is broken, can you ask my bank to send me a new card",damaged_card
 5288,report that the card has been wrecked,रिपोर्ट करें कि कार्ड नष्ट हो गया है,Report that the card has been destroyed,damaged_card
 5289,the plastic numbers on my card are falling off,मेरे कार्ड पर प्लास्टिक नंबर गिर रहे हैं,The plastic numbers on my card are falling off,damaged_card
-5290,i want to report a broken card,मैं टूटे हुए कार्ड की रिपोर्ट करना चाहता हूँ,I'd like to report a broken card,damaged_card
+5290,i want to report a broken card,मैं टूटे हुए कार्ड की रिपोर्ट करना चाहता हूँ,I want to report a broken card,damaged_card
 5291,call the card company and ask them to replace my card,कार्ड कंपनी को कॉल करें और उनसे अपना कार्ड बदलने के लिए कहें,Call the card company and ask them to replace your card,damaged_card
 5292,my card is unusable because it's damaged,मेरा कार्ड क्षतिग्रस्त होने के कारण अनुपयोगी है,My card is useless because it is damaged,damaged_card
 5293,i demagnetized my card and want to report it,मैंने अपना कार्ड डीमैग्नेटाइज़ कर दिया है और इसकी रिपोर्ट करना चाहता हूँ,I have demagnetized my card and want to report it,damaged_card
@@ -5924,7 +5924,7 @@
 5922,do a hard reset to factory settings,फ़ैक्टरी सेटिंग पर हार्ड रीसेट करें,Perform a hard reset to factory settings,reset_settings
 5923,reset to default settings,डिफ़ॉल्ट सेटिंग्स पर रीसेट करें,Reset to default settings,reset_settings
 5924,change settings to how they were originally,सेटिंग्स को मूल रूप में बदलें,Change the settings back to original,reset_settings
-5925,go ahead and go back to the original settings,आगे बढ़ें और मूल सेटिंग्स पर वापस जाएं,Go ahead and revert to the original settings,reset_settings
+5925,go ahead and go back to the original settings,आगे बढ़ें और मूल सेटिंग्स पर वापस जाएं,Go ahead and go back to the original settings,reset_settings
 5926,make the settings go back to the original,सेटिंग्स को मूल स्थिति पर वापस ले जाएं,Revert settings to original state,reset_settings
 5927,"revert back to your factory settings, please",कृपया अपनी फ़ैक्टरी सेटिंग्स पर वापस लौटें,Please return to your factory settings,reset_settings
 5928,restore your original settings now,अपनी मूल सेटिंग अभी पुनर्स्थापित करें,Restore your original settings now,reset_settings
@@ -5995,7 +5995,7 @@
 5993,what meetings do i have today between noon and one,आज दोपहर 12 बजे से एक बजे के बीच मेरी क्या मीटिंग हैं?,What meetings do I have today between 12pm and 1pm?,meeting_schedule
 5994,how many meetings do i have scheduled between 10 and 3,10 से 3 के बीच मेरी कितनी मीटिंग निर्धारित हैं?,How many meetings do I have scheduled between 10 and 3?,meeting_schedule
 5995,do i have any meetings with stan today,क्या आज मेरी स्टेन के साथ कोई मीटिंग है?,Do I have a meeting with Stan today?,meeting_schedule
-5996,any meetings on the schedule today,आज कोई मीटिंग शेड्यूल है या नहीं,Is there any meeting scheduled today or not,meeting_schedule
+5996,any meetings on the schedule today,आज कोई मीटिंग शेड्यूल है या नहीं,Is there any meeting scheduled today or not?,meeting_schedule
 5997,please list my meetings for today from 8:00 am to 2:00 pm,कृपया आज सुबह 8:00 बजे से दोपहर 2:00 बजे तक की मेरी बैठकों की सूची बनाएं,Please list my meetings today from 8:00 AM to 2:00 PM,meeting_schedule
 5998,did i schedule any meetings for today,क्या मैंने आज के लिए कोई मीटिंग निर्धारित की है,do I have a meeting scheduled for today,meeting_schedule
 5999,tell me how many meetings with pete i have for today,मुझे बताओ आज पीट के साथ मेरी कितनी मीटिंग हैं,Tell me how many meetings I have with Pete today,meeting_schedule
@@ -6046,7 +6046,7 @@
 6044,does the central timezone include austin,क्या सेंट्रल टाइमज़ोन में ऑस्टिन शामिल है,Does Central Timezone include Austin,timezone
 6045,what timezone is los angeles in,लॉस एंजिल्स किस समय क्षेत्र में है,what time zone is los angeles in,timezone
 6046,what timezone is new york in,न्यू यॉर्क किस समय क्षेत्र में है,what time zone is new york in,timezone
-6047,reno's timezone is what,रेनो का समयक्षेत्र क्या है,What is the timezone of Reno?,timezone
+6047,reno's timezone is what,रेनो का समयक्षेत्र क्या है,what is the timezone of reno,timezone
 6048,what timezone is china in,चीन किस समय क्षेत्र में है,what time zone is china in,timezone
 6049,what timezone is london is,लंदन किस समय क्षेत्र में है,what time zone is london in,timezone
 6050,is it possible to make an order for more checkbooks for my chase bank account,क्या मेरे चेस बैंक खाते के लिए अधिक चेकबुक का ऑर्डर देना संभव है,Is it possible to order more checkbooks for my Chase bank account,order_checks
@@ -6073,7 +6073,7 @@
 6071,i'd love to order some more checks for my checking account,मैं अपने चेकिंग खाते के लिए कुछ और चेक ऑर्डर करना चाहूँगा,I'd like to order some more checks for my checking account,order_checks
 6072,"i'd like to get some more checkbooks mailed to me, if i can","मैं चाहूँगा कि मुझे कुछ और चेकबुकें मेल से भेजी जाएँ, अगर ऐसा हो सके तो","I would like to have some more checkbooks sent to me by mail, if that is possible",order_checks
 6073,how can i order some more checks for my checking account,मैं अपने चेकिंग खाते के लिए कुछ और चेक कैसे मंगवा सकता हूँ?,How do I get some more checks for my checking account?,order_checks
-6074,order some new checks to replace the ones i ran out of,"जो चेक मेरे पास नहीं हैं, उनके स्थान पर कुछ नए चेक मंगवाए",I got some new cheques ordered in place of the cheques that I don't have,order_checks
+6074,order some new checks to replace the ones i ran out of,"जो चेक मेरे पास नहीं हैं, उनके स्थान पर कुछ नए चेक मंगवाए",I got some new cheques in place of the cheques that I don't have,order_checks
 6075,i must order some more checks for my checking account,मुझे अपने चेकिंग खाते के लिए कुछ और चेक मंगवाने होंगे,I need to order some more checks for my checking account,order_checks
 6076,is it possible to get more checkbooks for my wells fargo checkings,क्या मेरे वेल्स फ़ार्गो चेकिंग के लिए अधिक चेकबुक प्राप्त करना संभव है,Is it possible to get more checkbooks for my Wells Fargo checking,order_checks
 6077,i want to order some more checks for my savings account,मैं अपने बचत खाते के लिए कुछ और चेक मंगवाना चाहता हूँ,I'd like to order some more checks for my savings account,order_checks
@@ -6083,7 +6083,7 @@
 6081,please show me how to order more checks for my savings account,कृपया मुझे बताएं कि मैं अपने बचत खाते के लिए और अधिक चेक कैसे मंगवा सकता हूं,Please let me know how I can get more cheques for my savings account,order_checks
 6082,"i recently ran out of checks, so i wanna get some new ones","हाल ही में मेरे पास चेक ख़त्म हो गए हैं, इसलिए मैं कुछ नए चेक लेना चाहता हूँ",I recently ran out of cheques so I'd like to get some new ones,order_checks
 6083,how do i order new checks,मैं नये चेक कैसे ऑर्डर करूँ?,How do I order new checks?,order_checks
-6084,i do need to get some more checkbooks mailed to me,मुझे कुछ और चेकबुकें मेल से मंगवाने की ज़रूरत है,I need to get some more checkbooks in the mail,order_checks
+6084,i do need to get some more checkbooks mailed to me,मुझे कुछ और चेकबुकें मेल से मंगवाने की ज़रूरत है,I need to have some more checkbooks mailed to me,order_checks
 6085,how can i order more checks since i do not have any more,"मैं और अधिक चेक कैसे मंगवा सकता हूँ, क्योंकि मेरे पास और चेक नहीं हैं",How can I order more cheques as I don't have any more cheques,order_checks
 6086,i would like to order additional checkbooks to me mailed to my home address,मैं अपने घर के पते पर अतिरिक्त चेकबुक मंगवाना चाहता हूँ,I would like to have additional cheque books delivered to my home address,order_checks
 6087,can you explain to me how to get some more checkbooks mailed to me,क्या आप मुझे बता सकते हैं कि मैं कुछ और चेकबुक कैसे प्राप्त कर सकता हूँ?,Can you tell me how I can get some more chequebooks?,order_checks
@@ -6153,7 +6153,7 @@
 6151,turns out i made a fraudulent transaction,पता चला कि मैंने धोखाधड़ी वाला लेनदेन किया है,I found out I made a fraudulent transaction,report_fraud
 6152,someone misused my card and put fraudulent transactions on it,किसी ने मेरे कार्ड का दुरुपयोग किया और उस पर धोखाधड़ीपूर्ण लेनदेन किया,Someone misused my card and made fraudulent transactions on it,report_fraud
 6153,"i need to report fraudulent activity on my visa card, please","मुझे अपने वीज़ा कार्ड पर धोखाधड़ी गतिविधि की रिपोर्ट करने की आवश्यकता है, कृपया","I need to report fraudulent activity on my Visa card, please",report_fraud
-6154,looks like someone made an unauthorized charge to nike on my account,ऐसा लगता है कि किसी ने मेरे अकाउंट से नाइक को अनाधिकृत शुल्क लगाया है,It appears someone made an unauthorized charge to Nike from my account,report_fraud
+6154,looks like someone made an unauthorized charge to nike on my account,ऐसा लगता है कि किसी ने मेरे अकाउंट से नाइक को अनाधिकृत शुल्क लगाया है,It looks like someone made an unauthorized charge to Nike from my account,report_fraud
 6155,i think the charge for uber on my account is fraudulent,मुझे लगता है कि मेरे खाते पर उबर के लिए लगाया गया शुल्क धोखाधड़ी वाला है,I think a charge for Uber on my account is fraudulent,report_fraud
 6156,"""please contact my credit card company to report fraudulent activity on","""कृपया धोखाधड़ी गतिविधि की रिपोर्ट करने के लिए मेरी क्रेडिट कार्ड कंपनी से संपर्क करें","""Please contact my credit card company to report fraudulent activity",report_fraud
 6157,i think someone stole my card and used it,मुझे लगता है किसी ने मेरा कार्ड चुरा लिया और उसका इस्तेमाल किया,I think someone stole my card and used it,report_fraud
@@ -6272,7 +6272,7 @@
 6270,that is not correct,वह सही नहीं है,that is not correct,no
 6271,no thank you,नहीं धन्यवाद,no thank you,no
 6272,"i don't like that, no","मुझे यह पसंद नहीं, नहीं","I don't like it, no",no
-6273,that would be a no,यह एक 'नहीं' होगा,That would be a 'no',no
+6273,that would be a no,यह एक 'नहीं' होगा,It would be a 'no',no
 6274,i think it is false,मुझे लगता है यह झूठ है,I think it's a lie,no
 6275,i'll pass,मुझे रहने दो,let me be,no
 6276,that’s not correct,यह सही नहीं है,This is not correct,no
@@ -6305,7 +6305,7 @@
 6303,i want to know who made you,मैं जानना चाहता हूँ तुम्हें किसने बनाया,I want to know who made you,who_made_you
 6304,to which company is your design accredited to,आपका डिज़ाइन किस कंपनी से मान्यता प्राप्त है,Which company is your design recognized by?,who_made_you
 6305,what company coded you,किस कंपनी ने आपको कोड किया है,Which company coded you?,who_made_you
-6306,who fabricated you,तुम्हें किसने गढ़ा,who made you,who_made_you
+6306,who fabricated you,तुम्हें किसने गढ़ा,who made you up,who_made_you
 6307,what's your design company,आपकी डिजाइन कंपनी कौन सी है,what is your design company,who_made_you
 6308,the programmer who made you is who,"जिस प्रोग्रामर ने आपको बनाया है, वह कौन है",Who is the programmer who made you?,who_made_you
 6309,who made this ai,यह एआई किसने बनाया,Who created this AI?,who_made_you
@@ -6550,7 +6550,7 @@
 6548,what is my yearly salary,मेरा वार्षिक वेतन क्या है,what is my annual salary,income
 6549,i need to know my salary,मुझे अपना वेतन जानना है,I want to know my salary,income
 6550,what do i have on my list of reminders,मेरी अनुस्मारक सूची में क्या है,What's on my reminder list,reminder
-6551,what's on my reminder list today,आज मेरी अनुस्मारक सूची में क्या है,What's on my reminder list today,reminder
+6551,what's on my reminder list today,आज मेरी अनुस्मारक सूची में क्या है,what's on my reminder list today,reminder
 6552,my list of reminders is what,मेरी अनुस्मारक की सूची क्या है,What is my reminder list?,reminder
 6553,please tell me everything on my list of reminders,कृपया मुझे मेरी अनुस्मारक सूची में सब कुछ बताएं,Please tell me everything on my reminder list,reminder
 6554,what were the reminders that i made,मैंने क्या अनुस्मारक बनाए थे,What reminders did I create,reminder
@@ -6700,7 +6700,7 @@
 6698,do i have enough points to for a redemption,क्या मेरे पास मोचन के लिए पर्याप्त अंक हैं,Do I have enough points for redemption,redeem_rewards
 6699,what are ways to utilize my credit card points,मेरे क्रेडिट कार्ड पॉइंट्स का उपयोग करने के क्या तरीके हैं?,What are the ways to use my credit card points?,redeem_rewards
 6700,how do i change the language that your responses are delivered in,मैं आपकी प्रतिक्रियाओं की भाषा कैसे बदल सकता हूँ,How do I change the language of your responses,change_language
-6701,can i change your language,क्या मैं आपकी भाषा बदल सकता हूँ,can I change your language,change_language
+6701,can i change your language,क्या मैं आपकी भाषा बदल सकता हूँ,can i change your language,change_language
 6702,can you speak to me in chinese,क्या आप मुझसे चीनी भाषा में बात कर सकते हैं?,Can you talk to me in Chinese?,change_language
 6703,what languages can i switch to for your responses,मैं आपकी प्रतिक्रियाओं के लिए कौन सी भाषाएँ अपना सकता हूँ,What languages ​​can I use for your responses?,change_language
 6704,i want to hear from you in german,मैं आपसे जर्मन भाषा में सुनना चाहता हूँ,I would like to hear from you in German,change_language
@@ -6752,7 +6752,7 @@
 6750,pull up my grocery transactions,मेरे किराने के लेन-देन को खींचो,Pull up my grocery transactions,transactions
 6751,i want to see my entertainment transactions,मैं अपने मनोरंजन लेनदेन देखना चाहता हूँ,I want to see my entertainment transactions,transactions
 6752,what transactions did i make yesterday at the flea market,कल पिस्सू बाजार में मैंने क्या लेन-देन किया?,What did I trade at the flea market yesterday?,transactions
-6753,please give me my last ten debit card transactions in the month of december,कृपया मुझे दिसंबर महीने में मेरे पिछले दस डेबिट कार्ड लेनदेन बताएं,Please tell me my last ten debit card transactions in the month of December,transactions
+6753,please give me my last ten debit card transactions in the month of december,कृपया मुझे दिसंबर महीने में मेरे पिछले दस डेबिट कार्ड लेनदेन बताएं,Please tell me my last ten debit card transactions in December month,transactions
 6754,how expensive was my most recent transaction,मेरा सबसे हालिया लेन-देन कितना महंगा था,How much my most recent transaction cost,transactions
 6755,please tell me all of my recent transactions,कृपया मुझे मेरे सभी हाल के लेन-देन बताएं,Please tell me all my recent transactions,transactions
 6756,on my card what all are my latest transactions,मेरे कार्ड पर मेरे नवीनतम लेन-देन क्या हैं?,What are my latest transactions on my card?,transactions
@@ -6785,7 +6785,7 @@
 6783,i need to know something about my latest transaction,मुझे अपने नवीनतम लेनदेन के बारे में कुछ जानना है,I would like to know something about my latest transaction,transactions
 6784,show me the last five transactions,मुझे पिछले पांच लेन-देन दिखाओ,Show me the last five transactions,transactions
 6785,i need to see my shopping transactions,मुझे अपनी खरीदारी के लेन-देन देखने की ज़रूरत है,I need to see my purchase transactions,transactions
-6786,show me the transaction on the food,मुझे भोजन पर लेनदेन दिखाओ,Show me the transaction on food,transactions
+6786,show me the transaction on the food,मुझे भोजन पर लेनदेन दिखाओ,Show me the transactions on food,transactions
 6787,whats my recent transactions on my card,मेरे कार्ड पर हाल ही में हुए लेन-देन क्या हैं?,What are the recent transactions on my card?,transactions
 6788,i would like to take a look at my transaction history,मैं अपने लेन-देन इतिहास पर एक नज़र डालना चाहता हूँ,I'd like to take a look at my transaction history,transactions
 6789,pull up my recent transactions on my mastercard,मेरे मास्टरकार्ड पर मेरे हाल के लेनदेन को देखें,View my recent transactions on my Mastercard,transactions
@@ -6838,7 +6838,7 @@
 6836,y check engine light currently came on and i need assistance with it,y चेक इंजन लाइट वर्तमान में आया है और मुझे इसके लिए सहायता की आवश्यकता है,y the check engine light has come on now and i need help with it,schedule_maintenance
 6837,make an appointment to check my tires,मेरे टायरों की जांच के लिए अपॉइंटमेंट लें,Make an appointment to have my tires checked,schedule_maintenance
 6838,"i am in need of an oil change, set an appointment","मुझे तेल बदलवाने की जरूरत है, अपॉइंटमेंट ले लो","I need an oil change, make an appointment",schedule_maintenance
-6839,can someone look at my car cause the check engine light is on,क्या कोई मेरी कार देख सकता है क्योंकि चेक इंजन लाइट चालू है,Can anyone check my car because the check engine light is on,schedule_maintenance
+6839,can someone look at my car cause the check engine light is on,क्या कोई मेरी कार देख सकता है क्योंकि चेक इंजन लाइट चालू है,Can anyone look at my car because the check engine light is on,schedule_maintenance
 6840,how do i schedule car maintenance,मैं कार रखरखाव का शेड्यूल कैसे बनाऊं?,How do I schedule car maintenance?,schedule_maintenance
 6841,"who can look at my car, the engine light is on","मेरी कार को कौन देख सकता है, इंजन लाइट चालू है",Who can see my car engine light is on,schedule_maintenance
 6842,my car needs to be brought for maintenance,मेरी कार को रखरखाव के लिए लाया जाना चाहिए,my car needs to be brought in for maintenance,schedule_maintenance
@@ -6940,7 +6940,7 @@
 6938,how many days have i taken off this year,इस साल मैंने कितने दिन की छुट्टी ली है,How many days off did I take this year?,pto_used
 6939,how much paid time off have i taken,मैंने कितनी छुट्टी ली है,How much leave have I taken,pto_used
 6940,how much pto has been used on my behalf,मेरी ओर से कितना pto उपयोग किया गया है,How much pto is used by me,pto_used
-6941,how much pto have i depleted,मैंने कितना pto समाप्त कर दिया है,how much pto i have used,pto_used
+6941,how much pto have i depleted,मैंने कितना pto समाप्त कर दिया है,how much pto i have used up,pto_used
 6942,please find out how many days off i have used by this point,कृपया पता करें कि मैंने इस समय तक कितने दिन की छुट्टी ली है,Please find out how many days of leave I have taken till now,pto_used
 6943,look up my total number of days off so far,अब तक की मेरी कुल छुट्टी के दिनों की संख्या देखें,View my total number of leave days so far,pto_used
 6944,i need to know the number of days off i have taken at this point,मुझे यह जानना है कि मैंने इस समय कितने दिन की छुट्टी ली है,I would like to know how many days off I have currently,pto_used
@@ -7093,7 +7093,7 @@
 7091,when should the flight land,विमान कब उतरेगा,when will the plane land,flight_status
 7092,give me the status of flight dl123,मुझे उड़ान dl123 की स्थिति बताओ,tell me the status of flight dl123,flight_status
 7093,i need to know the status of my alaska air flight,मुझे अपनी अलास्का एयर फ्लाइट की स्थिति जाननी है,I need to know the status of my Alaska Air flight,flight_status
-7094,can you tell me the status of my delta flight,क्या आप मुझे मेरी डेल्टा उड़ान की स्थिति बता सकते हैं,can you tell me the status of my delta flight,flight_status
+7094,can you tell me the status of my delta flight,क्या आप मुझे मेरी डेल्टा उड़ान की स्थिति बता सकते हैं,Can you tell me the status of my Delta flight,flight_status
 7095,i need to know the status of flight dl123,मुझे फ्लाइट डीएल123 की स्थिति जाननी है,I want to know the status of flight DL123,flight_status
 7096,please tell me when my flight will land,कृपया मुझे बताएं कि मेरी फ्लाइट कब लैंड करेगी,Please tell me when my flight will land,flight_status
 7097,please inform me when my flight scheduled to board,कृपया मुझे सूचित करें कि मेरी उड़ान कब निर्धारित है,Please inform me when my flight is scheduled,flight_status
@@ -7173,7 +7173,7 @@
 7171,i have no clue,मेरे पास कोई सुराग नहीं है,I have no clue,maybe
 7172,i'm unsure,मैं अनिश्चित हूं,I am unsure,maybe
 7173,cant say,कह नहीं सकता,can't say,maybe
-7174,i haven't the foggiest,मुझे ज़रा भी संदेह नहीं है,I have no doubt at all,maybe
+7174,i haven't the foggiest,मुझे कोई धुंध नहीं है,I have no fog,maybe
 7175,i don't know the answer to that,मुझे इसका उत्तर नहीं मालूम,I don't know the answer to this,maybe
 7176,im not sure,मुझे यकीन नहीं है,I'm not sure,maybe
 7177,im not certain,मैं सुनिश्चित नहीं हूं,I'm not certain,maybe
@@ -7217,7 +7217,7 @@
 7215,can i turn on the alarm now,क्या मैं अब अलार्म चालू कर सकता हूँ,can I turn on the alarm now,alarm
 7216,i want an alarm at 5pm,मुझे शाम 5 बजे का अलार्म चाहिए,I need an alarm for 5pm,alarm
 7217,i need an alarm at 8 pm,मुझे रात 8 बजे का अलार्म चाहिए,I want my alarm to be set to 8pm,alarm
-7218,i need an alarm for 6am,मुझे सुबह 6 बजे का अलार्म चाहिए,I want my alarm to be at 6am,alarm
+7218,i need an alarm for 6am,मुझे सुबह 6 बजे का अलार्म चाहिए,I want an alarm for 6 AM,alarm
 7219,please create a new alarm for me,कृपया मेरे लिए एक नया अलार्म बनाएं,Please create a new alarm for me,alarm
 7220,set an alarm to start work and another to stop,काम शुरू करने के लिए एक अलार्म सेट करें और रोकने के लिए दूसरा,Set one alarm to start work and another to stop,alarm
 7221,i want an alarm to go off at 9 am,मैं चाहता हूँ कि सुबह 9 बजे अलार्म बजे,I want my alarm to go off at 9am,alarm
@@ -7235,7 +7235,7 @@
 7233,i need you to schedule an alarm,मुझे अलार्म शेड्यूल करने की आवश्यकता है,I need to schedule an alarm,alarm
 7234,please create an alarm for 5:45 am and an alarm for 6:15 am,कृपया सुबह 5:45 बजे के लिए अलार्म और 6:15 बजे के लिए अलार्म बनाएं,Please create an alarm for 5:45 AM and an alarm for 6:15 AM,alarm
 7235,please set an alarm for mid day,कृपया दोपहर के लिए अलार्म सेट करें,Please set your alarm for noon,alarm
-7236,tomorrow i would like an alarm for 9 tomorrow,कल मुझे 9 बजे का अलार्म चाहिए,I need an alarm for 9am tomorrow.,alarm
+7236,tomorrow i would like an alarm for 9 tomorrow,कल मुझे 9 बजे का अलार्म चाहिए,I need my alarm to go off at 9am tomorrow.,alarm
 7237,i need alarms set for 6am and 615am,मुझे सुबह 6 बजे और 615 बजे के लिए अलार्म सेट करने की आवश्यकता है,I need to set alarm for 6am and 615pm,alarm
 7238,set an alarm for lunch and another for dinner,दोपहर के भोजन के लिए एक अलार्म और रात के खाने के लिए दूसरा अलार्म सेट करें,Set one alarm for lunch and another for dinner,alarm
 7239,set up two alarms one for 10am and another for 2pm,"दो अलार्म सेट करें, एक सुबह 10 बजे के लिए और दूसरा दोपहर 2 बजे के लिए","Set two alarms, one for 10 AM and the other for 2 PM",alarm
@@ -7408,7 +7408,7 @@
 7406,can you please order me more plastic bags,क्या आप कृपया मुझे और प्लास्टिक बैग मंगवा सकते हैं?,Can you please get me more plastic bags?,order
 7407,i want all the things on the shopping list,मुझे खरीदारी सूची की सभी चीज़ें चाहिए,I need everything on my shopping list,order
 7408,buy all the things on the shopping list,खरीदारी सूची की सभी चीज़ें खरीदें,Buy everything on your shopping list,order
-7409,i'm out of shampoo so will you order me some more,मेरे पास शैम्पू ख़त्म हो गया है तो क्या आप मुझे और ऑर्डर कर देंगे?,I'm out of shampoo so can you order me more?,order
+7409,i'm out of shampoo so will you order me some more,मेरे पास शैम्पू ख़त्म हो गया है तो क्या आप मुझे और ऑर्डर कर देंगे?,"I'm out of shampoo, can you order me more?",order
 7410,i am needing you to buy me some shoes,मुझे कुछ जूते खरीदने के लिए तुम्हारी ज़रूरत है,I need you to buy me some shoes,order
 7411,i want you to order everything on my shopping list,मैं चाहता हूँ कि आप मेरी खरीदारी सूची की हर चीज़ ऑर्डर करें,I want you to order everything on my shopping list,order
 7412,"order some cat for me, i ran out","मेरे लिए कुछ बिल्ली का ऑर्डर करो, मैं भाग गया","Order me some pussy, I ran away",order
@@ -7453,7 +7453,7 @@
 7451,what's the possibility of getting a credit limit increase on my visa,मेरे वीज़ा पर क्रेडिट सीमा बढ़ाने की क्या संभावना है,What are the chances of increasing the credit limit on my Visa,credit_limit_change
 7452,is there a way to increase the limit on my visa card,क्या मेरे वीज़ा कार्ड की सीमा बढ़ाने का कोई तरीका है?,Is there any way to increase my Visa card limit?,credit_limit_change
 7453,can i raise the limit to 500 dollars,क्या मैं सीमा बढ़ाकर 500 डॉलर कर सकता हूँ?,Can I increase the limit to $500?,credit_limit_change
-7454,will you allow more spending on my visa,क्या आप मेरे वीज़ा पर अधिक खर्च की अनुमति देंगे,will you allow more spending on my visa,credit_limit_change
+7454,will you allow more spending on my visa,क्या आप मेरे वीज़ा पर अधिक खर्च की अनुमति देंगे,will you allow more expenses on my visa,credit_limit_change
 7455,will i be able to increase my credit limit to $1000,क्या मैं अपनी क्रेडिट सीमा $1000 तक बढ़ा पाऊंगा?,Will I be able to increase my credit limit by $1000?,credit_limit_change
 7456,may i have a higher limit on my mastercard,क्या मैं अपने मास्टरकार्ड पर उच्च सीमा रख सकता हूँ?,Can I have a higher limit on my Mastercard?,credit_limit_change
 7457,can you increase how much i can spend on my visa,क्या आप मेरे वीज़ा पर खर्च की जाने वाली राशि बढ़ा सकते हैं?,Can you increase the amount I can spend on my visa?,credit_limit_change
@@ -7490,7 +7490,7 @@
 7488,is it possible to increase my credit limit to $1000,क्या मेरी क्रेडिट सीमा को $1000 तक बढ़ाना संभव है?,Is it possible to increase my credit limit to $1000?,credit_limit_change
 7489,"i want to increase my credit limit to $1000, if possible",यदि संभव हो तो मैं अपनी क्रेडिट सीमा को $1000 तक बढ़ाना चाहता हूँ,I would like to increase my credit limit to $1000 if possible,credit_limit_change
 7490,can i increase my credit limit to 1100 dollars,क्या मैं अपनी क्रेडिट सीमा 1100 डॉलर तक बढ़ा सकता हूँ?,Can I increase my credit limit to $1100?,credit_limit_change
-7491,i need a credit raise by 1000 dollars,मुझे 1000 डॉलर का क्रेडिट बढ़ाने की जरूरत है,I need a $1000 credit increase,credit_limit_change
+7491,i need a credit raise by 1000 dollars,मुझे 1000 डॉलर का क्रेडिट बढ़ाने की जरूरत है,I need a $1000 credit limit,credit_limit_change
 7492,is it possible to increase the credit limit for my discover card,क्या मेरे डिस्कवर कार्ड की क्रेडिट सीमा बढ़ाना संभव है,Is it possible to increase my Discover card credit limit,credit_limit_change
 7493,what do i do to change my credit limit,मैं अपनी क्रेडिट सीमा बदलने के लिए क्या करूँ?,What do I do to change my credit limit?,credit_limit_change
 7494,how would i raise my credit spending by 2500 dollars,मैं अपना क्रेडिट खर्च 2500 डॉलर कैसे बढ़ाऊँ?,How do I increase my credit score by $2500?,credit_limit_change
@@ -7720,7 +7720,7 @@
 7718,find me cat trivia now please,कृपया अब मुझे बिल्ली से संबंधित सामान्य ज्ञान बताएं,please tell me now cat related trivia,fun_fact
 7719,read me cat trivia,मुझे बिल्ली सामान्य ज्ञान पढ़ें,Read Me Cat Trivia,fun_fact
 7720,i need new language,मुझे नई भाषा की जरूरत है,I need a new language,change_language
-7721,switch language for me,मेरे लिए भाषा बदलें,Change the language for me,change_language
+7721,switch language for me,मेरे लिए भाषा बदलें,Change language for me,change_language
 7722,please change your language setting to russian,कृपया अपनी भाषा सेटिंग को रूसी में बदलें,Please change your language setting to Russian,change_language
 7723,you must change your language setting to russian,आपको अपनी भाषा सेटिंग को रूसी में बदलना होगा,You need to change your language setting to Russian,change_language
 7724,you need to change your language setting to russian please,कृपया आपको अपनी भाषा सेटिंग को रूसी में बदलने की आवश्यकता है,Please change your language setting to Russian,change_language
@@ -7803,7 +7803,7 @@
 7801,what is the current status of my credit card application,मेरे क्रेडिट कार्ड आवेदन की वर्तमान स्थिति क्या है,What is the current status of my credit card application,application_status
 7802,in what status is my credit card application currently in,मेरा क्रेडिट कार्ड आवेदन वर्तमान में किस स्थिति में है,What is the current status of my credit card application,application_status
 7803,how far along is my credit card application,मेरा क्रेडिट कार्ड आवेदन कहाँ तक पहुँचा है,Where has my credit card application reached,application_status
-7804,what is the status of my credit card application looking like,मेरे क्रेडिट कार्ड आवेदन की स्थिति क्या है,what is the status of my credit card application,application_status
+7804,what is the status of my credit card application looking like,मेरे क्रेडिट कार्ड आवेदन की स्थिति क्या है,What is the status of my credit card application,application_status
 7805,pull up my credit card application's current status,मेरे क्रेडिट कार्ड आवेदन की वर्तमान स्थिति देखें,Check the current status of my credit card application,application_status
 7806,has my credit card application processed yet,क्या मेरा क्रेडिट कार्ड आवेदन अभी तक संसाधित हुआ है,Is my credit card application processed yet?,application_status
 7807,check the status of my credit card application please,कृपया मेरे क्रेडिट कार्ड आवेदन की स्थिति की जाँच करें,Please check the status of my credit card application,application_status
@@ -7880,7 +7880,7 @@
 7878,you could say my name is nick,आप कह सकते हैं मेरा नाम निक है,you can say my name is nick,change_user_name
 7879,i am camile,मैं कैमिली हूं,I am Camille,change_user_name
 7880,what place were you born at,आप किस स्थान पर पैदा हुए थे,what place were you born,where_are_you_from
-7881,where were you born as a kid,आप बचपन में कहां पैदा हुए थे,where were you born in childhood,where_are_you_from
+7881,where were you born as a kid,आप बचपन में कहां पैदा हुए थे,where were you born in your childhood,where_are_you_from
 7882,tell me where you were created,मुझे बताओ तुम कहाँ पैदा हुए,tell me where you were born,where_are_you_from
 7883,what place were you made at,आप किस जगह बने थे,where were you made,where_are_you_from
 7884,what place were you actually born at,आप वास्तव में किस स्थान पर पैदा हुए थे,where exactly were you born,where_are_you_from
@@ -8086,10 +8086,10 @@
 8084,who were you created by,आप किसके द्वारा बनाए गए थे,Who were you created by,who_made_you
 8085,what is the company that made you,वह कौन सी कंपनी है जिसने आपको बनाया है,What is the company that made you?,who_made_you
 8086,who are you manufactured by,आप किसके द्वारा निर्मित हैं,Who are you made of,who_made_you
-8087,who is your manufacturer,आपका निर्माता कौन है,Who is your manufacturer,who_made_you
+8087,who is your manufacturer,आपका निर्माता कौन है,Who is your producer,who_made_you
 8088,who makes you,तुम्हें कौन बनाता है,who makes you,who_made_you
 8089,what organization manufactures you,कौन सा संगठन आपको बनाता है,What organization makes you who you are,who_made_you
-8090,who's your creator,आपका निर्माता कौन है,Who is your manufacturer,who_made_you
+8090,who's your creator,आपका निर्माता कौन है,Who is your producer,who_made_you
 8091,what manufactures you,आपको क्या बनाता है,what make you,who_made_you
 8092,who is the person responsible for creating you,आपको बनाने के लिए कौन जिम्मेदार व्यक्ति है,Who is the person responsible for making you,who_made_you
 8093,who brought you into existence,जिसने तुम्हें अस्तित्व में लाया,who brought you into existence,who_made_you
@@ -8176,7 +8176,7 @@
 8174,needing you to play the next song,अगला गाना बजाने के लिए आपकी ज़रूरत है,I need you to play the next song,next_song
 8175,next song please,कृपया अगला गाना,next song please,next_song
 8176,change this song it sucks so bad,इस गाने को बदलो यह बहुत खराब है,change this song it's so bad,next_song
-8177,can i hear the song after this one,क्या मैं इसके बाद का गाना सुन सकता हूँ,can i listen to the next song,next_song
+8177,can i hear the song after this one,क्या मैं इसके बाद का गाना सुन सकता हूँ,can i hear the next song,next_song
 8178,can you skip this song and go to the next one,क्या आप इस गाने को छोड़ कर अगले गाने पर जा सकते हैं,can you skip this song and go to the next song,next_song
 8179,what is the next song on this playlist,इस प्लेलिस्ट में अगला गाना कौन सा है,what is the next song on this playlist,next_song
 8180,show all purchases of video games,वीडियो गेम की सभी ख़रीदारी दिखाएँ,Show all video game purchases,transactions
@@ -8223,7 +8223,7 @@
 8221,for my visa what's my reward balance,मेरे वीज़ा के लिए मेरा रिवॉर्ड बैलेंस क्या है?,What is my rewards balance for my Visa?,rewards_balance
 8222,i need know know the reward balance for my visa,मुझे अपने वीज़ा के लिए रिवॉर्ड बैलेंस जानना है,I want to know my Visa rewards balance,rewards_balance
 8223,can you tell me my visa's reward balance,क्या आप मुझे मेरे वीज़ा का रिवॉर्ड बैलेंस बता सकते हैं?,Can you tell me my Visa Rewards balance?,rewards_balance
-8224,what's my visa cards balance for rewards,रिवॉर्ड के लिए मेरे वीज़ा कार्ड का बैलेंस क्या है,What is my Visa Card balance for Rewards,rewards_balance
+8224,what's my visa cards balance for rewards,रिवॉर्ड के लिए मेरे वीज़ा कार्ड का बैलेंस क्या है,What is my Visa card balance for rewards,rewards_balance
 8225,how many points do i have with my american express,मेरे अमेरिकन एक्सप्रेस में कितने पॉइंट हैं?,How many points do I have on my American Express?,rewards_balance
 8226,tell me the points on my delta rewards card,मुझे मेरे डेल्टा रिवार्ड्स कार्ड पर अंक बताओ,Tell me the points on my Delta Rewards card,rewards_balance
 8227,how many points on my chase unlimited card,मेरे चेस अनलिमिटेड कार्ड पर कितने पॉइंट हैं?,How many points are on my Chase Unlimited card?,rewards_balance
@@ -8389,7 +8389,7 @@
 8387,what is the gas mileage on a 2012 ford fusion,2012 फोर्ड फ्यूजन पर गैस माइलेज क्या है,What is the gas mileage on a 2012 Ford Fusion,mpg
 8388,how many mpg does an equinox get,इक्विनॉक्स को कितने mpg मिलते हैं,how many mpg does the equinox get,mpg
 8389,what is the gas mileage on a ford falcon,फोर्ड फाल्कन पर गैस माइलेज क्या है,What is the gas mileage on a Ford Falcon,mpg
-8390,how many miles does this car get per gallon,यह कार प्रति गैलन कितने मील चलती है,how many miles per gallon does this car get,mpg
+8390,how many miles does this car get per gallon,यह कार प्रति गैलन कितने मील चलती है,how many miles per gallon does this car go,mpg
 8391,what is the mpg for this car,इस कार का माइलेज कितना है,what is the mileage of this car,mpg
 8392,i need to know this car's mpg,मुझे इस कार का माइलेज जानना है,I want to know the mileage of this car,mpg
 8393,how many miles will i get for one gallon on this car,इस कार पर एक गैलन के लिए मुझे कितने मील मिलेंगे,How many miles per gallon do I get on this car,mpg
@@ -8480,7 +8480,7 @@
 8478,what are my health benefits like,मेरे स्वास्थ्य लाभ क्या हैं?,What are my health benefits?,insurance
 8479,could you list my health benefits,क्या आप मेरे स्वास्थ्य लाभ सूचीबद्ध कर सकते हैं,can you list my health benefits,insurance
 8480,can you cancel my todo list please,क्या आप कृपया मेरी टूडू सूची रद्द कर सकते हैं?,Can you please cancel my todo list?,todo_list_update
-8481,wipe my todo list please,कृपया मेरी टूडू सूची मिटा दें,Please delete my todo list,todo_list_update
+8481,wipe my todo list please,कृपया मेरी टूडू सूची मिटा दें,please delete my todo list,todo_list_update
 8482,can you delete my todo list please,क्या आप कृपया मेरी टूडू सूची हटा सकते हैं?,Can you please delete my todo list?,todo_list_update
 8483,remove my todo list,मेरी टूडू सूची हटाएँ,Delete my todo list,todo_list_update
 8484,please delete my todo list,कृपया मेरी टूडू सूची हटा दें,Please delete my todo list,todo_list_update
@@ -8522,7 +8522,7 @@
 8520,can you speak more slowly,क्या आप धीरे बोल सकते हैं,can you speak slowly,change_speed
 8521,please talk a bit faster,कृपया थोड़ा तेज बोलें,please speak a little louder,change_speed
 8522,can you slow down your rate of speech,क्या आप अपनी बोलने की गति धीमी कर सकते हैं,can you slow down your speaking speed,change_speed
-8523,please talk slower for me if you can,अगर हो सके तो कृपया मुझसे धीरे बात करें,please speak to me softly if possible,change_speed
+8523,please talk slower for me if you can,अगर हो सके तो कृपया मुझसे धीरे बात करें,please talk to me softly if you can,change_speed
 8524,please speak to me quicker from now on,कृपया अब से मुझसे जल्दी बात करें,please talk to me soon from now on,change_speed
 8525,can you slow down the rate at which you talk,क्या आप अपनी बात करने की गति धीमी कर सकते हैं,can you slow down your talking,change_speed
 8526,talk to me in a speedier manner from here on out,अब से मुझसे जल्दी बात करो,Talk to me soon from now on,change_speed
@@ -8564,7 +8564,7 @@
 8562,"no, that is fake","नहीं, यह नकली है",no it's fake,no
 8563,hell nah,बिलकुल नहीं,No way,no
 8564,"no, that is invalid","नहीं, यह अवैध है","No, it is illegal",no
-8565,i would prefer not,मैं नहीं चाहूँगा,I wouldn't want to,no
+8565,i would prefer not,मैं नहीं चाहूँगा,i wouldn't want to,no
 8566,thats a negative,यह नकारात्मक है,it is negative,no
 8567,i meant no,मेरा मतलब नहीं था,I didn't mean,no
 8568,i am saying no,मैं कह रहा हूं नहीं,I am saying no,no
@@ -8585,7 +8585,7 @@
 8583,let me know my card's apr,मुझे मेरे कार्ड का apr बताओ,tell me the apr of my card,apr
 8584,can you tell me the status of my card's apr,क्या आप मुझे मेरे कार्ड की apr की स्थिति बता सकते हैं,can you tell me the status of my card apr,apr
 8585,what is the apr on my citibank card,मेरे सिटीबैंक कार्ड पर apr क्या है?,What is the APR on my Citibank card?,apr
-8586,how good is my card's apr,मेरे कार्ड का apr कितना अच्छा है,how good is the apr of my card,apr
+8586,how good is my card's apr,मेरे कार्ड का apr कितना अच्छा है,How good is the APR of my card,apr
 8587,what is the apr on my first bank card account,मेरे पहले बैंक कार्ड खाते पर apr क्या है?,What is the APR on my first bank card account?,apr
 8588,what is the apr on my chase card,मेरे चेस कार्ड पर apr क्या है?,What is the apr on my chase card?,apr
 8589,what is my card's apr,मेरे कार्ड का apr क्या है,what is the apr of my card,apr
@@ -8646,7 +8646,7 @@
 8644,can you find me an uber and have it here at 7pm,क्या आप मेरे लिए उबर ढूंढ सकते हैं और इसे शाम 7 बजे यहां ला सकते हैं?,Can you find an Uber for me and bring it here at 7 PM?,uber
 8645,"call me an uber please, and make it for four people to go downtown","कृपया मुझे उबर बुलाएं, और चार लोगों को शहर जाने के लिए कहें","Please call me an Uber, and ask four people to go downtown",uber
 8646,i need an uber to come to my work at 5pm for three people going to the cineplex downtown,"मुझे शाम 5 बजे अपने काम पर आने के लिए एक उबर की जरूरत है, ताकि तीन लोग शहर के सिनेप्लेक्स जा सकें।",I need an Uber to get to work at 5pm so three people can go to the cineplex downtown.,uber
-8647,are there any ubers available in my area right now,क्या मेरे क्षेत्र में अभी कोई उबर उपलब्ध है,Is there an Uber available in my area right now?,uber
+8647,are there any ubers available in my area right now,क्या मेरे क्षेत्र में अभी कोई उबर उपलब्ध है,Is there any Uber available in my area right now?,uber
 8648,schedule an uber to pick me up at home in an hour,एक घंटे में मुझे घर से लेने के लिए उबर का समय निर्धारित करें,Schedule an Uber to pick me up from home in an hour,uber
 8649,call an uber and have it pick me up at my present location,उबर को बुलाओ और उसे मेरे वर्तमान स्थान से मुझे लेने के लिए कहो,Call Uber and ask it to pick me up from my current location,uber
 8650,connect me with an uber,मुझे उबर से जोड़ो,connect me with uber,uber
@@ -8718,7 +8718,7 @@
 8716,tell me carry-on info for united,मुझे यूनाइटेड के लिए कैरी-ऑन जानकारी बताओ,Tell me carry-on information for United,carry_on
 8717,i would like to know carry-on information for delta,मैं डेल्टा के लिए कैरी-ऑन जानकारी जानना चाहूंगा,I would like to know the carry-on information for Delta,carry_on
 8718,can you give me the carry-on rules for american airlines,क्या आप मुझे अमेरिकन एयरलाइंस के लिए कैरी-ऑन नियम बता सकते हैं?,Can you tell me the carry-on rules for American Airlines?,carry_on
-8719,"how many carry ons can i take with spirit, going to tampa",मैं टाम्पा जाते समय स्पिरिट के साथ कितने सामान ले जा सकता हूँ?,How much carry-on luggage can I carry on with Spirit when flying to Tampa?,carry_on
+8719,"how many carry ons can i take with spirit, going to tampa","मैं स्पिरिट के साथ कितने सामान ले जा सकता हूँ, टैम्पा जा रहा हूँ","How much luggage can I carry on with Spirit, going to Tampa",carry_on
 8720,how many days off have i used,मैंने कितने दिन की छुट्टी ली है,How many days off did I take,pto_used
 8721,what is the total day off have i taken,मैंने कुल कितने दिन की छुट्टी ली है,How many days of leave have I taken in total,pto_used
 8722,what is the amount of pto have i use,मुझे कितनी मात्रा में पीटीओ का उपयोग करना है,How much PTO do I have to use,pto_used
@@ -8761,8 +8761,8 @@
 8759,find me someone who can deal with my car's illuminated check engine light,मुझे कोई ऐसा व्यक्ति ढूंढो जो मेरी कार की जलती हुई चेक इंजन लाइट को ठीक कर सके,Find me someone who can fix my car's burning check engine light,schedule_maintenance
 8760,"i'm going to be in canada from october 23rd to november 2nd, so can i let my bank know","मैं 23 अक्टूबर से 2 नवंबर तक कनाडा में रहूंगा, तो क्या मैं अपने बैंक को बता सकता हूं?","I will be in Canada from October 23 to November 2, can I tell my bank?",travel_notification
 8761,let my bank know i'm going to be in russia for a month,अपने बैंक को बता दें कि मैं एक महीने के लिए रूस में रहने जा रहा हूँ,Tell my bank I'm going to be in Russia for a month,travel_notification
-8762,get a message to my bank that starting the 14th i'll be in canada,मेरे बैंक को संदेश मिला कि 14 तारीख से मैं कनाडा में रहूंगा,My bank received a message that I will be in Canada from the 14th,travel_notification
-8763,tell my bank that i'm travelling to france in 2 days,अपने बैंक को बताएं कि मैं 2 दिनों में फ्रांस जा रहा हूं,Tell my bank I am going to France in 2 days,travel_notification
+8762,get a message to my bank that starting the 14th i'll be in canada,मेरे बैंक को संदेश मिला कि 14 तारीख से मैं कनाडा में रहूंगा,My bank received a message that I will be in Canada from 14th,travel_notification
+8763,tell my bank that i'm travelling to france in 2 days,अपने बैंक को बताएं कि मैं 2 दिनों में फ्रांस जा रहा हूं,Tell your bank I am going to France in 2 days,travel_notification
 8764,tell my bank i'll be in cuba beginning the 2nd,मेरे बैंक को बता दो कि मैं 2 तारीख से क्यूबा में रहूंगा,Tell my bank I will be in Cuba from the 2nd,travel_notification
 8765,alert my financial institution that i will be traveling to bangkok on april 2 and returning on april 7,अपने वित्तीय संस्थान को सूचित करें कि मैं 2 अप्रैल को बैंकॉक जा रहा हूँ और 7 अप्रैल को वापस आऊंगा,Inform my financial institution that I am going to Bangkok on April 2nd and will return on April 7th,travel_notification
 8766,"on tuesday i will be leaving for tennessee and will not be returning until the twenty ninth, alert my bank of this","मंगलवार को मैं टेनेसी के लिए रवाना हो जाऊंगा और 29 तारीख तक वापस नहीं आऊंगा, इस बारे में अपने बैंक को सूचित कर दें","I will be leaving for Tennessee on Tuesday and will not be back until the 29th, please inform your bank about this",travel_notification
@@ -8897,7 +8897,7 @@
 8895,don't let me forget to check the steak,मुझे स्टेक की जांच करना मत भूलना,Don't forget to check my steak,reminder_update
 8896,set a reminder to check the steak,स्टेक की जांच करने के लिए रिमाइंडर सेट करें,Set a reminder to check your steak,reminder_update
 8897,can you set a reminder for the current time tommorow,क्या आप कल के लिए वर्तमान समय का रिमाइंडर सेट कर सकते हैं,Can you set a reminder for tomorrow at the current time,reminder_update
-8898,set a reminder for me to request time off,मुझे छुट्टी का अनुरोध करने के लिए एक अनुस्मारक सेट करें,Set me a reminder to request leave,reminder_update
+8898,set a reminder for me to request time off,मुझे छुट्टी का अनुरोध करने के लिए एक अनुस्मारक सेट करें,Set a reminder for me to request leave,reminder_update
 8899,can i have a reminder set up,क्या मैं रिमाइंडर सेट कर सकता हूँ,Can I set a reminder,reminder_update
 8900,i want to report a stolen card,मैं चोरी हुए कार्ड की रिपोर्ट करना चाहता हूँ,I want to report a stolen card,report_lost_card
 8901,"my card is lost, i would like to report it","मेरा कार्ड खो गया है, मैं इसकी रिपोर्ट करना चाहता हूँ","I lost my card, I want to report it",report_lost_card
@@ -9055,7 +9055,7 @@
 9053,tell me when my mastercard bill should be paid,मुझे बताओ कि मेरा मास्टरकार्ड बिल कब भुगतान किया जाएगा,Tell me when my MasterCard bill will be paid,bill_due
 9054,when should i pay my pg&e bill,मुझे अपना पीजी एंड ई बिल कब चुकाना चाहिए?,When should I pay my PG&E bill?,bill_due
 9055,when is my kaiser bill due,मेरा कैसर बिल कब देय है,when is my kaiser bill due,bill_due
-9056,how long do i have to pay that bill,मुझे उस बिल का भुगतान कब तक करना होगा,When do I have to pay that bill?,bill_due
+9056,how long do i have to pay that bill,मुझे उस बिल का भुगतान कब तक करना होगा,When do I have to pay that bill,bill_due
 9057,is there a due date on the bill,क्या बिल पर कोई नियत तारीख़ लिखी है,Is there a due date mentioned on the bill?,bill_due
 9058,is the bill due this week,क्या बिल इसी सप्ताह देना है,Do I have to pay the bill this week?,bill_due
 9059,i need to know what day i need to pay my water bill,मुझे यह जानना है कि मुझे अपना पानी का बिल किस दिन चुकाना है,I want to know on which day I have to pay my water bill,bill_due
@@ -9224,7 +9224,7 @@
 9222,can you tell me when i ought to switch out my tires,क्या आप मुझे बता सकते हैं कि मुझे अपने टायर कब बदलने चाहिए,Can you tell me when I should replace my tires?,tire_change
 9223,when will my car next be due to get its tires changed,मेरी कार के टायर अगली बार कब बदलवाए जाएंगे,When will my car tyres be replaced next?,tire_change
 9224,at what point will i need to change my tires,मुझे किस समय अपने टायर बदलने की आवश्यकता होगी,When do I need to replace my tyres?,tire_change
-9225,when would it be wise for me to swap out my tires,मेरे लिए कब अपने टायर बदलना बुद्धिमानी होगी,When is it wise for me to replace my tires,tire_change
+9225,when would it be wise for me to swap out my tires,मेरे लिए कब अपने टायर बदलना बुद्धिमानी होगी,When is it wise for me to change my tires,tire_change
 9226,do you know when the best time for me to change my tires next would be,क्या आप जानते हैं कि अगली बार मेरे लिए टायर बदलने का सबसे अच्छा समय कब होगा,Do you know when is the best time for me to change the tyre next time,tire_change
 9227,how long before i need to replace my tires,मुझे अपने टायर कब तक बदलने होंगे,When do I need to replace my tyres,tire_change
 9228,how soon until my tires will need to be changed,मुझे कब तक अपने टायर बदलने की ज़रूरत पड़ेगी,When will I need to replace my tyres?,tire_change
@@ -9351,7 +9351,7 @@
 9349,how long is the wait at chipotle right now,चिपोटल में अभी कितना इंतज़ार करना होगा,How long do you have to wait at Chipotle now?,how_busy
 9350,how long is the wait at applebee's tonight,आज रात एप्पलबीज़ में कितनी देर तक इंतज़ार करना होगा,How long is the wait at Applebee's tonight,how_busy
 9351,how long is the wait at applebee's,एप्पलबीज़ में इंतज़ार कितना लंबा है,How long is the wait at Applebees,how_busy
-9352,i need to know about how much time i'd have to wait to get a table at dibruno's,मुझे यह जानना है कि डिब्रुनो में टेबल पाने के लिए मुझे कितना समय इंतजार करना होगा,I want to know how long I have to wait to get a table at Dibruno's,how_busy
+9352,i need to know about how much time i'd have to wait to get a table at dibruno's,मुझे यह जानना है कि डिब्रुनो में टेबल पाने के लिए मुझे कितना समय इंतजार करना होगा,I want to know how long I have to wait to get a table at Dibruno,how_busy
 9353,can you tell me how long approximate wait times are at cheesecake factory,क्या आप मुझे बता सकते हैं कि चीज़केक फैक्ट्री में प्रतीक्षा समय लगभग कितना लंबा है,Can you tell me approximately how long the wait time is at the Cheesecake Factory,how_busy
 9354,what is the average wait time to be seated for dinner at rouge,रूज में डिनर के लिए बैठने में औसतन कितना समय लगता है?,How long does it take on average to sit down for dinner at Rouge?,how_busy
 9355,what's the wait like at chima brazilian steakhouse at this time,इस समय चिमा ब्राज़ीलियन स्टीकहाउस में कैसा इंतज़ार है?,What's the wait like at Chima Brazilian Steakhouse right now?,how_busy
@@ -9395,7 +9395,7 @@
 9393,when will the clothes i ordered online arrive,ऑनलाइन ऑर्डर किए गए कपड़े कब आएंगे,When will the clothes I ordered online arrive?,order_status
 9394,i ordered new sheets online when will they arrive,"मैंने ऑनलाइन नई चादरें मंगवाई हैं, वे कब आएंगी?","I ordered new sheets online, when will they arrive?",order_status
 9395,"i ordered some new speakers, so when will they get here","मैंने कुछ नए स्पीकर ऑर्डर किए हैं, तो वे कब तक आएंगे","I have ordered some new speakers, when will they arrive",order_status
-9396,is my order at the delivery address,क्या मेरा ऑर्डर डिलीवरी पते पर है,Is my order at the delivery address,order_status
+9396,is my order at the delivery address,क्या मेरा ऑर्डर डिलीवरी पते पर है,Is my order at the delivery address?,order_status
 9397,when is my order coming,मेरा ऑर्डर कब आएगा,when will my order arrive,order_status
 9398,is my order here,क्या मेरा ऑर्डर यहाँ है,is my order here,order_status
 9399,when will my order arrive,मेरा ऑर्डर कब पहुंचेगा,When will my order arrive,order_status
@@ -9414,7 +9414,7 @@
 9412,i want a new pin on my card of private client account,मैं अपने निजी ग्राहक खाते के कार्ड पर एक नया पिन चाहता हूँ,I want a new PIN on my personal customer account card,pin_change
 9413,i want the pin on my wells fargo account to be changed,मैं चाहता हूं कि मेरे वेल्स फार्गो खाते का पिन बदल दिया जाए,I want my Wells Fargo account PIN changed,pin_change
 9414,i need a new pin on my chase account,मुझे अपने चेस खाते पर एक नया पिन चाहिए,I need a new PIN on my Chase account,pin_change
-9415,so tell me the pin number,तो पिन नंबर बताओ,please tell me your pin number,pin_change
+9415,so tell me the pin number,तो पिन नंबर बताओ,then tell me your pin number,pin_change
 9416,i need to know the pin number to my card,मुझे अपने कार्ड का पिन नंबर जानना है,I want to know my card's PIN number,pin_change
 9417,tell me the pin number to my card,मुझे मेरे कार्ड का पिन नंबर बताओ,Tell me my card's PIN number,pin_change
 9418,i need to know the pin number,मुझे पिन नंबर जानना है,I want to know the pin number,pin_change
@@ -9638,7 +9638,7 @@
 9636,can you make a reservation in tampa from may 2 to may 4,क्या आप 2 मई से 4 मई तक टैम्पा में आरक्षण करा सकते हैं?,Can you make reservations in Tampa from May 2nd to May 4th?,book_hotel
 9637,i want to book a hotel in tampa from may 2 to may 4,मैं 2 मई से 4 मई तक टैम्पा में एक होटल बुक करना चाहता हूँ,I would like to book a hotel in Tampa from May 2nd to May 4th,book_hotel
 9638,make me a reservation in tampa from may 2 to may 4,2 मई से 4 मई तक टैम्पा में मेरे लिए आरक्षण करवाएं,Make a reservation for me in Tampa from May 2nd to May 4th,book_hotel
-9639,book a motel in uptown from march 3 to march 4,3 मार्च से 4 मार्च तक अपटाउन में मोटल बुक करें,Book a motel in Uptown from March 3 to March 4,book_hotel
+9639,book a motel in uptown from march 3 to march 4,3 मार्च से 4 मार्च तक अपटाउन में मोटल बुक करें,Book a motel in Uptown from March 3rd to March 4th,book_hotel
 9640,talk to me about where im at right now,मुझसे बात करो कि मैं अभी कहाँ हूँ,Talk to me about where I am right now,current_location
 9641,can you tell me where i am,क्या आप मुझे बता सकते हैं कि मैं कहां हूं?,Can you tell me where I am?,current_location
 9642,you need all five answers,आपको सभी पांच उत्तरों की आवश्यकता है,You need all five answers,current_location
@@ -9870,7 +9870,7 @@
 9868,hi what's up,नमस्ते क्या हुआ,Hi whats up,greeting
 9869,hey what's up,क्या चल रहा है,What's going on,greeting
 9870,hey how's it going,हेलो यह कैसा चल रहा है,Hey how's it going,greeting
-9871,"hi, ai","हाय, ऐ","hi, aye",greeting
+9871,"hi, ai","हाय, ऐ","Hi, aye",greeting
 9872,"good morning, ai","सुप्रभात, ऐ","Good morning, aye",greeting
 9873,how've you been,तुम कैसे हो,How are you,greeting
 9874,wassup,क्या हुआ,What happened,greeting
@@ -9896,7 +9896,7 @@
 9894,please revert to the original settings,कृपया मूल सेटिंग पर वापस लौटें,Please revert to original settings,reset_settings
 9895,now restore the original settings,अब मूल सेटिंग्स को पुनर्स्थापित करें,Now restore the original settings.,reset_settings
 9896,configure this to factory settings,इसे फ़ैक्टरी सेटिंग्स पर कॉन्फ़िगर करें,Configure it to factory settings,reset_settings
-9897,make my settings go back to their factory settings,मेरी सेटिंग्स को उनकी फ़ैक्टरी सेटिंग्स पर वापस ले जाएं,Take my settings back to their factory settings,reset_settings
+9897,make my settings go back to their factory settings,मेरी सेटिंग्स को उनकी फ़ैक्टरी सेटिंग्स पर वापस ले जाएं,Return my settings to their factory settings,reset_settings
 9898,set this to my factory settings,इसे मेरी फ़ैक्टरी सेटिंग्स पर सेट करें,set it to my factory settings,reset_settings
 9899,change to factory settings,फ़ैक्टरी सेटिंग में बदलें,Change to factory settings,reset_settings
 9900,what may i call you,मैं तुम्हें क्या कहूँ?,What should I tell you?,what_is_your_name
@@ -9930,7 +9930,7 @@
 9928,does my td ameritrade checking account take direct deposit,क्या मेरा टीडी अमेरिट्रेड चेकिंग खाता प्रत्यक्ष जमा स्वीकार करता है,Does my TD Ameritrade checking account accept direct deposit,direct_deposit
 9929,"if i want to direct deposit my paycheck, what info do i need","अगर मैं अपना वेतन सीधे जमा करना चाहता हूं, तो मुझे क्या जानकारी चाहिए?","If I want my paycheck to be deposited directly, what information do I need?",direct_deposit
 9930,direct deposit my paycheck to my capital one account,मेरे वेतन का चेक सीधे मेरे कैपिटल वन खाते में जमा करें,Get my paycheck deposited directly into my Capital One account,direct_deposit
-9931,i'd like direct deposit to my chase bank account,मैं अपने चेस बैंक खाते में सीधे जमा करना चाहता हूँ,I want direct deposit into my Chase bank account,direct_deposit
+9931,i'd like direct deposit to my chase bank account,मैं अपने चेस बैंक खाते में सीधे जमा करना चाहता हूँ,I want direct deposit to my Chase bank account,direct_deposit
 9932,i want to set up direct deposit to my charles schwab account,मैं अपने चार्ल्स श्वाब खाते में सीधे जमा की व्यवस्था करना चाहता हूँ,I'd like to set up direct deposit into my Charles Schwab account,direct_deposit
 9933,how do i go about setting up paycheck direct deposit,मैं पेचेक डायरेक्ट डिपॉज़िट कैसे सेट करूँ?,How do I set up paycheck direct deposit?,direct_deposit
 9934,link up my paycheck for direct deposit to my account at chase,चेस में मेरे खाते में सीधे जमा करने के लिए मेरे पेचेक को लिंक करें,Link my paycheck to direct deposit into my account at Chase,direct_deposit
@@ -9953,7 +9953,7 @@
 9951,how can i find the current interest rate for my account ending in 9012,मैं 9012 पर समाप्त होने वाले अपने खाते के लिए वर्तमान ब्याज दर कैसे पता कर सकता हूँ?,How can I find out the current interest rate for my account ending in 9012?,interest_rate
 9952,what interest rate is us bank giving me on my acount,अमेरिकी बैंक मुझे मेरे खाते पर क्या ब्याज दर दे रहा है,What interest rate is US Bank offering me on my account,interest_rate
 9953,where do i find the interest rate for my platinum account,मैं अपने प्लैटिनम खाते के लिए ब्याज दर कहां पा सकता हूं?,Where can I find the interest rate for my platinum account?,interest_rate
-9954,where can i locate the pnc account's interest rate,मैं पीएनसी खाते की ब्याज दर कहां पा सकता हूं?,Where can I find the PNC account interest rate?,interest_rate
+9954,where can i locate the pnc account's interest rate,मैं पीएनसी खाते की ब्याज दर कहां पा सकता हूं?,Where can I find PNC account interest rates?,interest_rate
 9955,what is the interest rate on my auto loan,मेरे ऑटो लोन पर ब्याज दर क्या है,What is the interest rate on my auto loan,interest_rate
 9956,how much is the interest rate on my home equity loan,मेरे होम इक्विटी ऋण पर ब्याज दर कितनी है,What is the interest rate on my home equity loan,interest_rate
 9957,tell me what the interest rate is on my personal loan through chase,मुझे बताएं कि चेस के माध्यम से मेरे व्यक्तिगत ऋण पर ब्याज दर क्या है,Tell me what the interest rate is on my personal loan through Chase,interest_rate
@@ -9981,7 +9981,7 @@
 9979,can you help me increase my credit limit,क्या आप मेरी क्रेडिट सीमा बढ़ाने में मेरी मदद कर सकते हैं,Can you help me increase my credit limit?,credit_limit_change
 9980,do you have hobbies,क्या आपके शौक हैं,do you have hobbies,what_are_your_hobbies
 9981,tell me about your hobbies,अपनी शौक के बारे में मुझे बताओ,tell me about your hobbies,what_are_your_hobbies
-9982,are you involved in hobbies,क्या आप शौक में शामिल हैं,Do you indulge in hobbies,what_are_your_hobbies
+9982,are you involved in hobbies,क्या आप शौक में शामिल हैं,Do you indulge in hobbies?,what_are_your_hobbies
 9983,what recreational activities do you enjoy,आप कौन सी मनोरंजक गतिविधियों का आनंद लेते हैं,what recreational activities do you enjoy,what_are_your_hobbies
 9984,what do you do as a hobby,आप शौक के तौर पर क्या करते हैं,what do you do as a hobby,what_are_your_hobbies
 9985,what do you like to do in your free time,आप अपने खाली समय में क्या करना पसंद करते हैं,What do you like to do in your spare time,what_are_your_hobbies
@@ -10067,7 +10067,7 @@
 10065,how much do i have left to pay on my server and domain,मुझे अपने सर्वर और डोमेन पर कितना भुगतान करना बाकी है?,How much do I still have to pay on my server and domain?,bill_balance
 10066,what's the amount due on my vet and vehicle registration bills,मेरे पशु चिकित्सक और वाहन पंजीकरण बिल पर कितनी राशि बकाया है,How much do I owe on my vet and vehicle registration bills,bill_balance
 10067,what do my bills look like for amazon and netflix,अमेज़ॅन और नेटफ्लिक्स के लिए मेरे बिल क्या दिखते हैं?,What do my bills look like for Amazon and Netflix?,bill_balance
-10068,how much do i have to pay on taxes and cable,मुझे करों और केबल पर कितना भुगतान करना होगा,How much will I have to pay in taxes and cable,bill_balance
+10068,how much do i have to pay on taxes and cable,मुझे करों और केबल पर कितना भुगतान करना होगा,How much do I have to pay on taxes and cable,bill_balance
 10069,how much do i owe on all of my bills,मेरे सभी बिलों पर कितना बकाया है,How much do I owe on all my bills,bill_balance
 10070,how much do i have to pay for my shell gas card bill,मुझे अपने शेल गैस कार्ड बिल के लिए कितना भुगतान करना होगा?,How much do I have to pay for my Shell Gas Card bill?,bill_balance
 10071,what is the total of all my bills combined,मेरे सभी बिलों का कुल योग क्या है,What is the total of all my bills,bill_balance
@@ -10128,7 +10128,7 @@
 10126,"play the song that goes like i like to move it, move it","वह गाना बजाओ जो इस तरह से हो जैसे कि मुझे इसे हिलाना पसंद है, इसे हिलाओ","Play that song that goes like this I like to shake it, shake it",play_music
 10127,"can you play the song amazing grace and it goes like this, amazing grace how sweet the sound","क्या आप अद्भुत अनुग्रह गाना बजा सकते हैं और यह इस प्रकार है, अद्भुत अनुग्रह ध्वनि कितनी मधुर है","can you play the song amazing grace and it's like this, how sweet does amazing grace sound",play_music
 10128,please play the song that goes like america the beautiful,कृपया वह गाना बजाएं जो अमेरिका द ब्यूटीफुल जैसा हो,Please play a song that's like America the Beautiful,play_music
-10129,please play the song that goes like this: jingle bells jingle bells jingle all the way,कृपया यह गाना बजाएं: जिंगल बेल्स जिंगल बेल्स जिंगल ऑल द वे,Please play this song: Jingle Bells Jingle Bells Jingle All the Way,play_music
+10129,please play the song that goes like this: jingle bells jingle bells jingle all the way,कृपया यह गाना बजाएं: जिंगल बेल्स जिंगल बेल्स जिंगल ऑल द वे,Please play this song: Jingle Bells Jingle Bells Jingle All The Way,play_music
 10130,can you play music by the beatles,क्या आप बीटल्स का संगीत बजा सकते हैं,can you play beatles music,play_music
 10131,can you play the beatles,क्या आप बीटल्स बजा सकते हैं,can you play the beatles,play_music
 10132,are you able to play beatles songs,क्या आप बीटल्स के गाने बजा सकते हैं,can you play beatles songs,play_music
@@ -10247,7 +10247,7 @@
 10245,forget reservation at oyster bar for tonight,आज रात के लिए ऑयस्टर बार में आरक्षण भूल जाओ,Forget the reservation at the Oyster Bar for tonight,cancel_reservation
 10246,cancel my reservation at osteria for our party,हमारी पार्टी के लिए ओस्टेरिया में मेरा आरक्षण रद्द करें,Cancel my reservation at Osteria for our party,cancel_reservation
 10247,scrap reservation at 4 for red robin,रेड रॉबिन के लिए 4 बजे आरक्षण रद्द करें,Cancel reservations for Red Robin at 4 p.m.,cancel_reservation
-10248,cancel reservation at eight for the group,समूह के लिए आठ बजे आरक्षण रद्द करें,Cancel group reservation at 8:00,cancel_reservation
+10248,cancel reservation at eight for the group,समूह के लिए आठ बजे आरक्षण रद्द करें,Cancel reservation for group at 8 o'clock,cancel_reservation
 10249,i'd like to cancel my reservation for 5 at hoss's steak house,मैं होस स्टेक हाउस में 5 के लिए अपना आरक्षण रद्द करना चाहता हूं,I'd like to cancel my reservation for 5 at Hoss Steak House,cancel_reservation
 10250,please cancel my reservation at red lobster for 6,कृपया रेड लॉबस्टर में मेरा 6 के लिए आरक्षण रद्द करें,Please cancel my reservation for 6 at Red Lobster,cancel_reservation
 10251,i need to cancel my reservation for 2 at franklin's grille,मुझे फ्रैंकलिन ग्रिल में 2 के लिए अपना आरक्षण रद्द करने की आवश्यकता है,I need to cancel my reservation for 2 at Franklin Grill,cancel_reservation
@@ -10256,7 +10256,7 @@
 10254,undo my reservation for 5 at the loft,मचान पर 5 के लिए मेरे आरक्षण को पूर्ववत करें,undo my reservation for 5 at loft,cancel_reservation
 10255,i no longer want my reservation for 5 at the loft cancel it please,"मैं अब 5 लोगों के लिए अपना आरक्षण नहीं चाहता, कृपया इसे रद्द कर दें","I no longer want my reservation for 5 people, please cancel it",cancel_reservation
 10256,"hey siri, please cancel my reservation at the loft for 5","हे सर, कृपया 5 के लिए लॉफ्ट में मेरा आरक्षण रद्द करें",hey sir please cancel my reservation at the loft for 5,cancel_reservation
-10257,i don't need my reservation for 5 at the loft please cancel it,मुझे 5 लोगों के लिए लॉफ्ट में आरक्षण की आवश्यकता नहीं है कृपया इसे रद्द कर दें,I do not need a reservation in the loft for 5 people please cancel it,cancel_reservation
+10257,i don't need my reservation for 5 at the loft please cancel it,मुझे 5 बजे के लिए अपना आरक्षण रद्द करने की आवश्यकता नहीं है कृपया इसे रद्द करें,I need to cancel my reservation for 5 pm please cancel it,cancel_reservation
 10258,cancel my reservation for 5 at the loft,5 बजे के लिए मेरा आरक्षण रद्द करें,Cancel my reservation for 5 pm,cancel_reservation
 10259,carla doesn't want her olive garden reservation anymore,कार्ला को अब ऑलिव गार्डन में आरक्षण नहीं चाहिए,Carla no longer wants a reservation at Olive Garden,cancel_reservation
 10260,what's the funniest thing you've got,आपके पास सबसे मजेदार चीज़ क्या है,what is the funniest thing you own,tell_joke
@@ -10423,7 +10423,7 @@
 10421,"i ran out of bread, order more","मेरी रोटी ख़त्म हो गई है, और ऑर्डर करो","I'm out of bread, order more",order
 10422,"since i ran out , order more bread","चूंकि मेरी रोटी खत्म हो गई है, इसलिए और रोटी मंगवा लो","Since I have run out of bread, order more bread",order
 10423,place an order for bread,रोटी का ऑर्डर दें,Order the bread,order
-10424,make an order of bread because i am out,रोटी का ऑर्डर कर दो क्योंकि मैं बाहर हूँ,order some roti as I am out,order
+10424,make an order of bread because i am out,रोटी का ऑर्डर कर दो क्योंकि मैं बाहर हूँ,order some roti as I'm out,order
 10425,order an amazon gift card from amazon in the amount of twenty dollars,बीस डॉलर की राशि में अमेज़न से अमेज़न उपहार कार्ड ऑर्डर करें,Order an Amazon gift card from Amazon in the amount of twenty dollars,order
 10426,order a case of coke from amazon,अमेज़न से कोक का एक केस ऑर्डर करें,Order a case of Coke from Amazon,order
 10427,order dog food from walmart,वॉलमार्ट से कुत्ते का खाना ऑर्डर करें,Order dog food from Walmart,order

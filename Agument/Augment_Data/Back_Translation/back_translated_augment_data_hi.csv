@@ -56,7 +56,7 @@
 54,What is the carry limit,carry_on
 55,What should I know about the carry on policy for US citizens?,carry_on
 56,"If I fly internationally, does British Airways have carry-on limits?",carry_on
-57,What are the carry-on baggage rules for Delta?,carry_on
+57,What are the carry on baggage rules for Delta?,carry_on
 58,Can I take 3 carry ons with Delta at JFK?,carry_on
 59,How much carry-on baggage is allowed on Wau to Iceland flight?,carry_on
 60,What are the requirements for carry on on flights with United Airlines,carry_on
@@ -102,7 +102,7 @@
 100,whisper volume,whisper_mode
 101,I want whisper mode to be turned off,whisper_mode
 102,Let's get out of whisper mode,whisper_mode
-103,I want your settings to be adjusted to a whisper now,whisper_mode
+103,I want your setting to be adjusted to a whisper now,whisper_mode
 104,now please go into whisper mode,whisper_mode
 105,turn up your volume,whisper_mode
 106,Exit Whisper Mode,whisper_mode
@@ -131,7 +131,7 @@
 129,please speak softly here,whisper_mode
 130,Switch to whisper mode,whisper_mode
 131,Turn on your whisper mode,whisper_mode
-132,Please turn off whisper mode for now,whisper_mode
+132,Please turn off Whisper Mode for now,whisper_mode
 133,can you turn down the volume please,whisper_mode
 134,Please switch to whisper mode,whisper_mode
 135,I want out of whisper mode,whisper_mode
@@ -162,7 +162,7 @@
 160,Please send Natalie a text message for me,text
 161,I'd like to send a text,text
 162,Text Matt and tell him I'll be in late tonight,text
-163,Please send a message to my boss and tell him that I will be arriving a little late,text
+163,Send a message to my boss and tell him that I will be a little late,text
 164,Send Chris a text message saying stop for milk on your way home,text
 165,I want to send a message,text
 166,Send a message to my dad for me and tell him I love you,text
@@ -193,7 +193,7 @@
 191,Text my mom for me and tell her I'll be home soon,text
 192,Text Tony and invite him to my party next Saturday,text
 193,Text Chris and ask what time he'll be home,text
-194,Text Christie and ask her what she wants for dinner,text
+194,Message Christy and ask her what she wants for dinner,text
 195,I'd like to send a text,text
 196,Text Nick and tell him the car is ready,text
 197,I'd like to send a text,text
@@ -443,7 +443,7 @@
 441,Book a reservation for 3 people named Steve at Red Lobster,restaurant_reservation
 442,Can you get me a table for 8 at Johnny's?,restaurant_reservation
 443,Make me a reservation at Happy's for Four for tomorrow,restaurant_reservation
-444,Book a reservation at Red Robin with the name Kevin for 8 p.m.,restaurant_reservation
+444,Book a reservation at Red Robin with the name Kevin for 8pm,restaurant_reservation
 445,"Call and make a reservation for Jason Rogers at 5:45 p.m., table for four",restaurant_reservation
 446,can you make a restaurant reservation for me,restaurant_reservation
 447,I need you to reserve a table for a party of four at Devons at 6:00 p.m.,restaurant_reservation
@@ -582,7 +582,7 @@
 580,increase the volume to 4,change_volume
 581,please increase the volume,change_volume
 582,please speak louder,change_volume
-583,Lower your volume,change_volume
+583,lower your volume,change_volume
 584,I want to raise your voice,change_volume
 585,please turn the volume up to 4,change_volume
 586,Now increase the volume level to 4,change_volume
@@ -650,7 +650,7 @@
 648,What is my savings account routing number,routing
 649,Routing numbers for American River,routing
 650,do you know the fuel economy of this car,mpg
-651,how much is the miles per gallon on this car,mpg
+651,what is the miles per gallon on this car,mpg
 652,How is the mileage of this car on the highway?,mpg
 653,How much gas is used in the city,mpg
 654,how many miles per gallon do you get in the city,mpg
@@ -662,7 +662,7 @@
 660,How many miles per gallon does this car get in the city,mpg
 661,What is my average mileage in this car?,mpg
 662,what kind of gas mileage do I get,mpg
-663,Is the fuel economy of this car good or bad,mpg
+663,Is the fuel economy of this car good or bad?,mpg
 664,how many miles per gallon does my car go,mpg
 665,tell me what is the highway mpg of this car,mpg
 666,How much mileage does this car get in the city,mpg
@@ -741,12 +741,12 @@
 739,How much do I need to pay for my cable bill,bill_balance
 740,Add all my bills for this month and tell me the total amount,bill_balance
 741,Please tell me how much I owe Sprint and how much I owe HSN?,bill_balance
-742,What do I need to pay on the bill,bill_balance
+742,What do I have to pay as per the bill,bill_balance
 743,How much is my grocery and gas bill,bill_balance
 744,how much is my electricity bill,bill_balance
 745,how much is my dte bill,bill_balance
 746,I need to know my bill total for my Verizon payment due this month,bill_balance
-747,How much total money do I have to pay in bills this month?,bill_balance
+747,How much do I have in total to pay in bills this month?,bill_balance
 748,how much is my internet bill,bill_balance
 749,What is the cost of water and electricity this month,bill_balance
 750,Tell me about all the creatures you have,do_you_have_pets
@@ -758,9 +758,9 @@
 756,do you have pets,do_you_have_pets
 757,tell me are you a cat person or a dog person,do_you_have_pets
 758,what colour is your pet,do_you_have_pets
-759,would you rather live with a cat or a dog,do_you_have_pets
+759,would you prefer to live with a cat or a dog,do_you_have_pets
 760,"What kind of person are you, a cat or a dog person",do_you_have_pets
-761,Share some information about your pet with me,do_you_have_pets
+761,Share some information about your pet with me.,do_you_have_pets
 762,What animal species does your pet belong to?,do_you_have_pets
 763,I'd like to know more about your pets,do_you_have_pets
 764,what pets do you keep,do_you_have_pets
@@ -809,7 +809,7 @@
 807,How long will it take me to make a baked chicken,cook_time
 808,When should I take out the apple pie,cook_time
 809,Tell me how long should I spend preparing fajitas,cook_time
-810,How long does it take to cook roast beef,cook_time
+810,how long does it take to cook roast beef,cook_time
 811,How long should this dish be kept in the oven?,cook_time
 812,How long should you cook a 10 pound turkey,cook_time
 813,How many minutes should baked ziti cook,cook_time
@@ -847,7 +847,7 @@
 845,I need the cooking length for a turkey,cook_time
 846,how long does it take to cook the noodles,cook_time
 847,How long should cookies be kept in the oven,cook_time
-848,How long do I need to cook the brownies,cook_time
+848,How long do I need to bake the brownies,cook_time
 849,How long will it take me to make lasagna,cook_time
 850,what song is playing right now,what_song
 851,which song is this,what_song
@@ -881,7 +881,7 @@
 879,can you tell me the name of this song,what_song
 880,what song am i listening to,what_song
 881,what song are we listening to right now,what_song
-882,do you know which song is this,what_song
+882,do you know which song this is,what_song
 883,What am I listening to on the speaker now?,what_song
 884,I want to know the name of this song,what_song
 885,can you tell me this song,what_song
@@ -955,7 +955,7 @@
 953,Take watering the plants off my to-do list,todo_list_update
 954,Add cleaning the bathroom to my to do list,todo_list_update
 955,Delete everything from the task list,todo_list_update
-956,Clear my todo list,todo_list_update
+956,clear my todo list,todo_list_update
 957,Help remind me to add laundry to my chore list,todo_list_update
 958,Add mopping the bathroom to my to do list,todo_list_update
 959,Can you add laundry to my to-do list?,todo_list_update
@@ -981,7 +981,7 @@
 979,Would you please add remembering to drop off at the dry cleaner's to my current to do list?,todo_list_update
 980,Add cleaning to my to do list,todo_list_update
 981,Folding clothes has been taken off my to-do list,todo_list_update
-982,Please add painting the kitchen to my chore list,todo_list_update
+982,Please add painting the kitchen to my household to do list,todo_list_update
 983,Add to my to do list Have carpet cleaned,todo_list_update
 984,Can you please add recycling to my to do list?,todo_list_update
 985,Add laundry to my to do list,todo_list_update
@@ -1082,7 +1082,7 @@
 1080,Skip and play the next song,next_song
 1081,I would like to hear the next song on this particular playlist,next_song
 1082,Please play the next song on this playlist,next_song
-1083,play the next song please,next_song
+1083,please play the next song,next_song
 1084,Skip to the next song in the playlist,next_song
 1085,play next hit,next_song
 1086,Proceed to next song,next_song
@@ -1112,7 +1112,7 @@
 1110,do you know where you were born,where_are_you_from
 1111,where are you from,where_are_you_from
 1112,can you tell me where you come from,where_are_you_from
-1113,Did you grow up here?,where_are_you_from
+1113,did you grow up here,where_are_you_from
 1114,which region do you come from,where_are_you_from
 1115,would you like to tell me where you were born,where_are_you_from
 1116,where is your native place,where_are_you_from
@@ -1178,7 +1178,7 @@
 1176,When should I replace my tires?,tire_change
 1177,How many miles do I have to drive before I need new tires I replaced them four years ago,tire_change
 1178,"I replaced my tires yesterday, when should I get new ones?",tire_change
-1179,Is there a way to tell if I need new tires or not,tire_change
+1179,Is there a way to tell if I need new tires or not?,tire_change
 1180,When should I next change my tires?,tire_change
 1181,How many miles before I need to replace my tires,tire_change
 1182,When do I need to change tires,tire_change
@@ -1347,7 +1347,7 @@
 1345,Will I pay more than $500 in federal taxes,taxes
 1346,Tell me how much tax will be levied on this,taxes
 1347,How much tax do I have to pay back,taxes
-1348,How much do I pay in taxes in total?,taxes
+1348,How much do I pay in taxes in total,taxes
 1349,What's the loss on my federal tax return,taxes
 1350,What if my luggage is lost?,lost_luggage
 1351,My item hasn't arrived and I need help finding it,lost_luggage
@@ -1370,7 +1370,7 @@
 1368,I think my luggage is misplaced or lost,lost_luggage
 1369,Who do I contact if I lose my luggage?,lost_luggage
 1370,I'm loose and my bags are gone,lost_luggage
-1371,I lost my luggage while flying from New York City on American Flight AB123,lost_luggage
+1371,I lost my luggage while flying from New York City on American flight AB123,lost_luggage
 1372,I can't find any of my stuff!,lost_luggage
 1373,I think I lost my luggage,lost_luggage
 1374,"My luggage is missing, I think",lost_luggage
@@ -1485,7 +1485,7 @@
 1483,I wonder what my to-do list for today looks like,todo_list
 1484,Read my to-do list to me,todo_list
 1485,Preparing for a chemistry test is on my to-do list,todo_list
-1486,read my to-do list to me,todo_list
+1486,Read my to-do list to me,todo_list
 1487,Please let me know what tasks I need to complete on my to-do list?,todo_list
 1488,Fixing mom's kitchen curtains is on my to-do list,todo_list
 1489,Please tell me everything on my to do list,todo_list
@@ -1585,7 +1585,7 @@
 1583,Please call Lizzie,make_call
 1584,Dial Lisa's cell phone number,make_call
 1585,I'll have to call Roderick.,make_call
-1586,Phone Sara,make_call
+1586,Phone Sarah,make_call
 1587,Please call Christopher,make_call
 1588,Phone Lobby,make_call
 1589,call someone for me,make_call
@@ -1624,7 +1624,7 @@
 1622,Please tell me how much petrol do I need to fill in this car,gas_type
 1623,what type of fuel does my car use,gas_type
 1624,what type of fuel does my car use,gas_type
-1625,what type of fuel do I need,gas_type
+1625,What type of fuel do I need,gas_type
 1626,what type of fuel goes into my engine,gas_type
 1627,tell me how much petrol do i need to fill in this car,gas_type
 1628,Tell me what type of fuel my vehicle runs on,gas_type
@@ -1696,10 +1696,10 @@
 1694,Please cancel my reservation,cancel_reservation
 1695,Can you cancel my reservation for Chris at Smith and Wollensky tonight?,cancel_reservation
 1696,Please cancel a table for two at Burger King,cancel_reservation
-1697,Can you cancel my reservation for dinner tomorrow night?,cancel_reservation
+1697,Can you cancel my reservation for dinner tomorrow?,cancel_reservation
 1698,Please cancel reservations at Zephyr's for Joe and me right now,cancel_reservation
 1699,can I cancel my reservation,cancel_reservation
-1700,Can you schedule a meeting with John Smith for 10 am tomorrow?,schedule_meeting
+1700,Can you schedule a meeting with John Smith tomorrow at 10 am?,schedule_meeting
 1701,I'd like to know how to schedule a meeting,schedule_meeting
 1702,can you schedule a meeting with james at the office,schedule_meeting
 1703,Can you schedule a meeting with Steve at 5?,schedule_meeting
@@ -1757,7 +1757,7 @@
 1755,can you call my cell phone,find_phone
 1756,How can I find my phone?,find_phone
 1757,is my phone at home,find_phone
-1758,what is my phone's location,find_phone
+1758,what is my phone location,find_phone
 1759,do you know where i left my phone,find_phone
 1760,help me find my phone,find_phone
 1761,please help me find my phone,find_phone
@@ -1821,7 +1821,7 @@
 1819,How do I make my insurance policy different?,insurance_change
 1820,How do I switch my current insurance to a new plan with a lower co-pay?,insurance_change
 1821,I need a new life insurance plan,insurance_change
-1822,I am looking to change insurance plans,insurance_change
+1822,I am looking to change my insurance plan,insurance_change
 1823,I need new health insurance,insurance_change
 1824,"How can I get a new insurance, please tell me?",insurance_change
 1825,I want to change my insurance plan,insurance_change
@@ -1867,7 +1867,7 @@
 1865,I want to improve my credit score,improve_credit_score
 1866,Do you know if bouncing a check from your checking account affects your credit score?,improve_credit_score
 1867,What steps can I take to ensure my credit score doesn’t go down?,improve_credit_score
-1868,What lowers a credit score,improve_credit_score
+1868,what lowers a credit score,improve_credit_score
 1869,Give me tips on maintaining good credit,improve_credit_score
 1870,I want to find ways to improve my credit score,improve_credit_score
 1871,How can I see an improvement in my credit score?,improve_credit_score
@@ -2027,7 +2027,7 @@
 2025,what did you just say,repeat
 2026,hey what was the question,repeat
 2027,aye please repeat,repeat
-2028,"I forgot the last one, please repeat",repeat
+2028,"I forgot the last one, please repeat it",repeat
 2029,please repeat what you said,repeat
 2030,"Sorry, I didn't hear you, can you say that?",repeat
 2031,"I did not understand, please repeat",repeat
@@ -2069,7 +2069,7 @@
 2067,Play the song Blood Brothers,play_music
 2068,Turn on the rap playlist,play_music
 2069,"That ""Baby Shark, doo doo,"" song, I want to hear it",play_music
-2070,Play the song Colony of Birchmen,play_music
+2070,Play the song Colony of Birchman,play_music
 2071,can you play your guitar now,play_music
 2072,Play Hey Jude,play_music
 2073,put on my workout playlist,play_music
@@ -2093,7 +2093,7 @@
 2091,Is it okay to listen to Elvis music?,play_music
 2092,play some rock,play_music
 2093,"I want to hear that song that goes, ""Baby Shark, doo doo",play_music
-2094,can you play the rolling stones music,play_music
+2094,can you play rolling stones music,play_music
 2095,can you play right above it,play_music
 2096,play a song for me,play_music
 2097,"I need to play that song that goes like this, hey Jude don't make it bad",play_music
@@ -2202,10 +2202,10 @@
 2200,Is there anything on my calendar for May 3rd?,calendar
 2201,is my daughter's birthday on my calendar,calendar
 2202,Can you tell me what March 23rd will be like for me?,calendar
-2203,"What's on my calendar for Monday, March 1?",calendar
-2204,I want my schedule for 2nd march,calendar
+2203,"What's on my calendar for Monday, March 1st?",calendar
+2204,I want my schedule for March 2nd,calendar
 2205,What's on my calendar for February 8th?,calendar
-2206,tell me my calendar for march 2,calendar
+2206,show me my calendar for march 2,calendar
 2207,Remind me of the date of the event called 'Anniversary Dinner',calendar
 2208,"21st, what's on my calendar?",calendar
 2209,Tell me what shows up on my calendar on March 17th,calendar
@@ -2317,7 +2317,7 @@
 2315,Do I need a visa to travel to Jamaica,international_visa
 2316,Do I need a visa to visit Moldova,international_visa
 2317,"I am moving to Canada soon, do I need a visa?",international_visa
-2318,Do I need a travel visa for Spain?,international_visa
+2318,Do I need a travel visa for Spain,international_visa
 2319,I want to see Paris. Do I need an international visa?,international_visa
 2320,do I need to apply for a visa to visit Dnipro,international_visa
 2321,"To travel to Argentina, do I need to get a travel visa",international_visa
@@ -2471,7 +2471,7 @@
 2469,how long does oil last in a car,oil_change_when
 2470,How often is an oil change typically done,oil_change_when
 2471,When do I need to get my oil changed,oil_change_when
-2472,when should I change my car's oil,oil_change_when
+2472,when to change my car oil,oil_change_when
 2473,When do I need to change the oil,oil_change_when
 2474,When should I next change my oil?,oil_change_when
 2475,Is it time to change the oil,oil_change_when
@@ -2570,7 +2570,7 @@
 2568,what kind of things do you know,what_can_i_ask_you
 2569,What kind of questions can I ask you?,what_can_i_ask_you
 2570,I would like to know what kind of topics you are familiar with,what_can_i_ask_you
-2571,What subjects are you proficient in?,what_can_i_ask_you
+2571,What subjects are you proficient in,what_can_i_ask_you
 2572,Tell me about the subject areas you are familiar with,what_can_i_ask_you
 2573,What may be asked of you,what_can_i_ask_you
 2574,Tell me what kind of things I can ask you,what_can_i_ask_you
@@ -2649,7 +2649,7 @@
 2647,Do I need a plug converter if I go to Cairo?,plug_type
 2648,What plugs are used in Spain,plug_type
 2649,How do I know what type of outlet I have?,plug_type
-2650,Are vaccines necessary for travel to the UK?,vaccines
+2650,Are vaccines required for travel to the UK?,vaccines
 2651,What vaccinations are needed to visit Vietnam,vaccines
 2652,Is it necessary to get vaccinated before travelling to South Africa?,vaccines
 2653,Are vaccinations required to go there?,vaccines
@@ -2834,7 +2834,7 @@
 2832,I want to know when the next holiday is,next_holiday
 2833,When will I no longer have to work,next_holiday
 2834,please check next holiday for me,next_holiday
-2835,what time is it till our next vacation,next_holiday
+2835,what time is it until our next vacation,next_holiday
 2836,When will I get a holiday next time?,next_holiday
 2837,what is the next holiday,next_holiday
 2838,How many days till my next paid leave,next_holiday
@@ -2973,7 +2973,7 @@
 2971,Make sure April 1st is clear on my calendar,calendar_update
 2972,Please add final exams to my calendar for May 2nd,calendar_update
 2973,Add my birthday to my calendar on the 5th of next month,calendar_update
-2974,Please put Annie's baby shower on my calendar for March 30th,calendar_update
+2974,Please put Annie's baby shower on March 30th on my calendar,calendar_update
 2975,Delete everything on my calendar for March 2,calendar_update
 2976,I'll take fishing off my calendar for football,calendar_update
 2977,Remove the event from the calendar,calendar_update
@@ -3081,7 +3081,7 @@
 3079,does the bus go to the washington monument,directions
 3080,How do I get to the park on foot?,directions
 3081,is there a starbucks near home,directions
-3082,I want to know how to get to Target by bus,directions
+3082,I would like to know how to get to Target by bus,directions
 3083,How do I get to City Hall by bus?,directions
 3084,I want to know where the nearest petrol pump is,directions
 3085,where is the nearest starbucks,directions
@@ -3205,14 +3205,14 @@
 3203,Update on Leave Request,pto_request_status
 3204,I have requested some leave; has it been approved,pto_request_status
 3205,Tell me the status of my leave request,pto_request_status
-3206,Has my leave request been approved yet?,pto_request_status
+3206,Has my request for leave been approved yet,pto_request_status
 3207,What is the latest information on my leave request,pto_request_status
 3208,Please check the status of my leave request,pto_request_status
 3209,What is happening with my leave request,pto_request_status
 3210,Any news regarding my leave request?,pto_request_status
 3211,What my leave request looks like,pto_request_status
 3212,Has my leave request been approved,pto_request_status
-3213,Do you know whether my leave has been approved or not,pto_request_status
+3213,Do you know whether my leave has been approved or not?,pto_request_status
 3214,Can you tell me what is the status of my leave request,pto_request_status
 3215,Has the leave request filed with my manager at Intel been approved yet?,pto_request_status
 3216,Has my leave request been approved yet,pto_request_status
@@ -3291,7 +3291,7 @@
 3289,Confirm my Taco House reservation for Gene,confirm_reservation
 3290,I would like to try to confirm that I have a reservation at La Palapa for bouldering,confirm_reservation
 3291,I'd like to confirm my reservation for 2/20 at 8pm,confirm_reservation
-3292,I would like you to confirm my reservation for Red Robin at 5 p.m.,confirm_reservation
+3292,I want you to confirm my reservation for Red Robin at 5 p.m.,confirm_reservation
 3293,Please confirm I have a reservation for February 21st at 2pm,confirm_reservation
 3294,I would like to try to confirm that I have a reservation for Mike at Houlihan's,confirm_reservation
 3295,Can you check if there is a reservation for Mark on Sidetracks,confirm_reservation
@@ -3335,7 +3335,7 @@
 3333,Please tell me in which month my card is expiring,expiration_date
 3334,How much time do I have before my credit card expires?,expiration_date
 3335,How many days are left until my Amex card expires?,expiration_date
-3336,When does my Visa card expire,expiration_date
+3336,When does my Visa card expire?,expiration_date
 3337,Can you check my Amex card expiration date?,expiration_date
 3338,Can you tell me the expiration date of my MasterCard?,expiration_date
 3339,How long will it take for my card to expire,expiration_date
@@ -3382,7 +3382,7 @@
 3380,How many calories are in oatmeal,calories
 3381,how many calories are in a cookie,calories
 3382,How many calories are in waffles,calories
-3383,How many calories are in cookies,calories
+3383,how many calories are in cookies,calories
 3384,how many calories are in a big mac,calories
 3385,What calories are in onions?,calories
 3386,How many calories are in a large bowl of ice cream,calories
@@ -3391,7 +3391,7 @@
 3389,how many calories are in cheetos,calories
 3390,How high in calories is pork,calories
 3391,How many calories are in one scoop of chocolate ice cream,calories
-3392,If you eat roast beef then how many calories are in it,calories
+3392,"If you eat roasted meat, how many calories are in it",calories
 3393,How many calories are in a muffin,calories
 3394,how many calories are in a can of coke,calories
 3395,How many calories are in a scoop of chocolate ice cream,calories
@@ -3407,13 +3407,13 @@
 3405,I need to make an appointment with you,timer
 3406,"I'm cooking an egg, the timer is set to 3 minutes",timer
 3407,Please run a timer for me,timer
-3408,Would you set a timer,timer
+3408,Would you like to set a timer,timer
 3409,Set a timer to go off in 5 minutes,timer
 3410,Timer 10 minutes,timer
 3411,Set a timer for ten seconds,timer
 3412,please set a timer for me,timer
 3413,I need a 5 minute timer,timer
-3414,Let's set a timer for 5 minutes,timer
+3414,let's set a timer for 5 minutes,timer
 3415,Set a timer for seven minutes,timer
 3416,I need a 10 minute timer,timer
 3417,Please set a timer for 40 minutes,timer
@@ -3547,7 +3547,7 @@
 3545,Please book a flight from Santa Fe to Jacksonville on New Year's Eve and return on the fourth day.,book_flight
 3546,"Book a flight from Jacksonville, Florida to Atlanta, Georgia on February 14, 2019 and return on March 1, 2019",book_flight
 3547,"Book a flight for me from New York to Los Angeles on March 1, return on March 5",book_flight
-3548,Please book a flight from Fiji to San Diego on November 1st returning on December 1st.,book_flight
+3548,Please book a flight from Fiji to San Diego on November 1st and return on December 1st.,book_flight
 3549,I want to fly from JFK to Dallas with United for under $500,book_flight
 3550,please change ai name for me,change_ai_name
 3551,Change your system name,change_ai_name
@@ -3606,7 +3606,7 @@
 3604,What is the annual interest on my credit card?,apr
 3605,What is the APR on my Bank of America Visa?,apr
 3606,I want to know the annual interest rate on my VISA card,apr
-3607,What is my April,apr
+3607,what is my april,apr
 3608,Can you check if my card has a good annual percentage or not,apr
 3609,please check the apr on my disney visa,apr
 3610,can you give me a price estimate for my card,apr
@@ -3614,7 +3614,7 @@
 3612,I need to know the APR of my VISA card,apr
 3613,Tell me my MasterCard annual percentage,apr
 3614,What will be the APR on my transferred balance after the first year on my Bank of America credit card?,apr
-3615,what is the apr of credit card if you can tell me,apr
+3615,what is the apr of the credit card if you can tell me,apr
 3616,What is the apr on my Amex card?,apr
 3617,Tell me the annual interest rate for my American Express card,apr
 3618,What is the current APR on my Wells Fargo Mastercard?,apr
@@ -3665,7 +3665,7 @@
 3663,Does Gramercy Tavern in New York accept reservations,accept_reservations
 3664,What to expect except Moose Reservation in LA,accept_reservations
 3665,Can I make a reservation at Applebee's?,accept_reservations
-3666,Do you know if Ruth's Chris takes reservations?,accept_reservations
+3666,Do you know if Ruth's Chris takes reservations,accept_reservations
 3667,Does Minis take reservations?,accept_reservations
 3668,do they take reservations at applebees,accept_reservations
 3669,Which Applebee's locations take reservations,accept_reservations
@@ -3731,7 +3731,7 @@
 3729,What is the exchange rate between the dollar and the peso,exchange_rate
 3730,What is the USD to Euro exchange right now?,exchange_rate
 3731,Exchange rate between Mexico and America,exchange_rate
-3732,I would like to know the value of five dollars in yen and rubles,exchange_rate
+3732,I want to know the value of five dollars in yen and rubles,exchange_rate
 3733,What is the current exchange rate of Yen to Lira,exchange_rate
 3734,Tell me five dollars in yen and rubles,exchange_rate
 3735,What is the current rate for converting dollars to pesos,exchange_rate
@@ -3882,7 +3882,7 @@
 3880,"How do I find my current location now, please",current_location
 3881,what are my longitude and latitude points,current_location
 3882,please show me on the map where I am,current_location
-3883,where am i at this moment,current_location
+3883,where am I at this moment,current_location
 3884,Can you tell me how to find my current location?,current_location
 3885,what is my current location you are looking for now,current_location
 3886,my current location,current_location
@@ -4020,7 +4020,7 @@
 4018,I want to change the PIN number for my retirement account,pin_change
 4019,I need help changing my PIN,pin_change
 4020,I don't actually remember what the PIN is for my Bank of America checking account,pin_change
-4021,I forgot my college fund account PIN,pin_change
+4021,I forgot my College Fund account PIN,pin_change
 4022,change my chase account pin to 1234,pin_change
 4023,Tell me how do I get my pin number,pin_change
 4024,Is there any way to get my pin number,pin_change
@@ -4028,7 +4028,7 @@
 4026,Please change my retirement account PIN number to 1234,pin_change
 4027,change my bofa account pin to 3892,pin_change
 4028,Help me change my PIN number,pin_change
-4029,I want to change my account PIN,pin_change
+4029,I want to change my account's PIN,pin_change
 4030,"I want to change my savings account PIN, please",pin_change
 4031,change my amex account pin to 1234,pin_change
 4032,Is there any way to change my savings account PIN number?,pin_change
@@ -4055,7 +4055,7 @@
 4053,Why is my account locked,account_blocked
 4054,"Help, my account is blocked",account_blocked
 4055,Why has my bank account been closed?,account_blocked
-4056,Why don’t I have access to my bank account?,account_blocked
+4056,Why don't I have access to my bank account?,account_blocked
 4057,Why can't I withdraw any money from my bank account?,account_blocked
 4058,Why was my bank account frozen?,account_blocked
 4059,Can you tell me why my savings account is on hold?,account_blocked
@@ -4128,7 +4128,7 @@
 4126,what are the things that you enjoy,what_are_your_hobbies
 4127,what do you do in your free time,what_are_your_hobbies
 4128,what sort of things are you interested in,what_are_your_hobbies
-4129,do you have anything you enjoy doing,what_are_your_hobbies
+4129,do you have something you enjoy doing,what_are_your_hobbies
 4130,what do you like to do,what_are_your_hobbies
 4131,do you have any hobbies,what_are_your_hobbies
 4132,what hobbies do you like to pursue,what_are_your_hobbies
@@ -4219,7 +4219,7 @@
 4217,Set reminders to feed the dogs,reminder_update
 4218,Please send a new reminder,reminder_update
 4219,Set a reminder that I have to make my car payment on the 23rd,reminder_update
-4220,I need to create a reminder please,reminder_update
+4220,I need a reminder please,reminder_update
 4221,please remind me again,reminder_update
 4222,remind me to bring a jacket tomorrow,reminder_update
 4223,Remind me to close the windows next time it rains,reminder_update
@@ -4317,7 +4317,7 @@
 4315,how many vacation days do i get,pto_balance
 4316,Please tell me how many vacation days I currently have,pto_balance
 4317,I want to know how many days of leave I have,pto_balance
-4318,How many days are left of my vacation,pto_balance
+4318,How many days are left of my vacation?,pto_balance
 4319,Tell me how many days of vacation I have left,pto_balance
 4320,How many more days of leave will I get this year?,pto_balance
 4321,Tell me the number of vacation days,pto_balance
@@ -4421,7 +4421,7 @@
 4419,what name have you given me,user_name
 4420,What is my name saved under,user_name
 4421,can you tell me my name,user_name
-4422,"If you were smart, would you know my name?",user_name
+4422,"If you were smart, would you know my name",user_name
 4423,what name is my name saved as,user_name
 4424,is there a name you call me by,user_name
 4425,What name have you listed for my identification,user_name
@@ -4466,7 +4466,7 @@
 4464,is the restaurant busy at lunch time,how_busy
 4465,is there a waiting time to get into tgifridays,how_busy
 4466,Find out what wait times are like at Olive Garden right now,how_busy
-4467,Can I get a seat at 5pm,how_busy
+4467,Can I get a seat at 5 p.m.?,how_busy
 4468,Is Kaya busy around 5pm?,how_busy
 4469,Do I have to wait long if I want to eat at Chili's,how_busy
 4470,What are the seating hours at this restaurant?,how_busy
@@ -4617,7 +4617,7 @@
 4615,do you have a name i can call you by,what_is_your_name
 4616,tell me your full name,what_is_your_name
 4617,what should i tell you,what_is_your_name
-4618,Do people call you by any special names? What is it?,what_is_your_name
+4618,Do people call you by any special names what is it,what_is_your_name
 4619,do you have a name,what_is_your_name
 4620,I want to know what to tell you,what_is_your_name
 4621,which name do you like,what_is_your_name
@@ -4640,7 +4640,7 @@
 4638,Can you tell me what they call you?,what_is_your_name
 4639,What name should I use when I refer to you,what_is_your_name
 4640,What is your name,what_is_your_name
-4641,what name do you prefer to go by,what_is_your_name
+4641,what name do you prefer to be known by,what_is_your_name
 4642,what do you want me to tell you,what_is_your_name
 4643,Do you like what I tell you,what_is_your_name
 4644,is there a special name i can call you,what_is_your_name
@@ -4846,7 +4846,7 @@
 4844,How do I schedule a leave request,pto_request
 4845,Can you please tell me how to request leave,pto_request
 4846,Can I take PTO on February 7th and 8th?,pto_request
-4847,How do I ask for leave,pto_request
+4847,How do I ask for a vacation,pto_request
 4848,Can you request PTO for March 7-9?,pto_request
 4849,Can you submit a PTO request for me from November 2nd-10th?,pto_request
 4850,"Can you suggest me some Burmese food, please?",meal_suggestion
@@ -4891,7 +4891,7 @@
 4889,Please suggest me some Italian food,meal_suggestion
 4890,I need suggestions for dinner recipes,meal_suggestion
 4891,what are simple chinese recipes for dinner,meal_suggestion
-4892,"Can you suggest me Thai food, please",meal_suggestion
+4892,"Can you suggest me Thai food, please?",meal_suggestion
 4893,The pizza here is so delicious,meal_suggestion
 4894,Get me Italian food tips,meal_suggestion
 4895,What types of pizza are available for dinner,meal_suggestion
@@ -4913,7 +4913,7 @@
 4911,Can you tell me something about banks that I don't know,fun_fact
 4912,what are some fun facts about eggs,fun_fact
 4913,Tell me a fact that I don’t know,fun_fact
-4914,What are some interesting facts about flamingos,fun_fact
+4914,What are some interesting facts about flamingos?,fun_fact
 4915,Please tell me some interesting facts about the Roman Empire,fun_fact
 4916,tell me some interesting facts about birds,fun_fact
 4917,Repeat that fun fact about Mount Everest,fun_fact
@@ -4966,7 +4966,7 @@
 4964,"Nutritional information for chicken nuggets, please",nutrition_info
 4965,What is the nutritional information for steak?,nutrition_info
 4966,"I would like to know the nutritional value of eggs, please",nutrition_info
-4967,How healthy are Stax chips?,nutrition_info
+4967,How healthy are Stax Chips,nutrition_info
 4968,What is the nutrient information for a donut?,nutrition_info
 4969,What is the nutritional value of a pizza lunch,nutrition_info
 4970,What is the nutritional information of a roti,nutrition_info
@@ -5072,7 +5072,7 @@
 5070,What foods do I buy to put in a Korean dinner?,ingredients_list
 5071,Do you have a list of ingredients I will need for blondies,ingredients_list
 5072,What do I need if I want to make Chicken Marsala?,ingredients_list
-5073,What is Chicken Noodle Pulao made of,ingredients_list
+5073,What Chicken Noodle Pulao is made of,ingredients_list
 5074,What goes into a strawberry smoothie,ingredients_list
 5075,what is gumbo made of,ingredients_list
 5076,What You Need to Make General Tsao Chicken,ingredients_list
@@ -5199,7 +5199,7 @@
 5197,I want a hotel in New Orleans that has great reviews,book_hotel
 5198,Are there any vacancies in New York City from April 2 to April 8?,book_hotel
 5199,I'm looking for a well-rated hotel in Vegas,book_hotel
-5200,Tell me about a travel alert for Germany,travel_alert
+5200,Tell me about any travel alerts for Germany,travel_alert
 5201,Is there a travel alert for Syria,travel_alert
 5202,is mexico a safe place,travel_alert
 5203,What are the potential risks of traveling to Spain,travel_alert
@@ -5289,7 +5289,7 @@
 5287,"My card is broken, can you ask my bank to send me a new card",damaged_card
 5288,Report that the card has been destroyed,damaged_card
 5289,The plastic numbers on my card are falling off,damaged_card
-5290,I'd like to report a broken card,damaged_card
+5290,I want to report a broken card,damaged_card
 5291,Call the card company and ask them to replace your card,damaged_card
 5292,My card is useless because it is damaged,damaged_card
 5293,I have demagnetized my card and want to report it,damaged_card
@@ -5924,7 +5924,7 @@
 5922,Perform a hard reset to factory settings,reset_settings
 5923,Reset to default settings,reset_settings
 5924,Change the settings back to original,reset_settings
-5925,Go ahead and revert to the original settings,reset_settings
+5925,Go ahead and go back to the original settings,reset_settings
 5926,Revert settings to original state,reset_settings
 5927,Please return to your factory settings,reset_settings
 5928,Restore your original settings now,reset_settings
@@ -5995,7 +5995,7 @@
 5993,What meetings do I have today between 12pm and 1pm?,meeting_schedule
 5994,How many meetings do I have scheduled between 10 and 3?,meeting_schedule
 5995,Do I have a meeting with Stan today?,meeting_schedule
-5996,Is there any meeting scheduled today or not,meeting_schedule
+5996,Is there any meeting scheduled today or not?,meeting_schedule
 5997,Please list my meetings today from 8:00 AM to 2:00 PM,meeting_schedule
 5998,do I have a meeting scheduled for today,meeting_schedule
 5999,Tell me how many meetings I have with Pete today,meeting_schedule
@@ -6046,7 +6046,7 @@
 6044,Does Central Timezone include Austin,timezone
 6045,what time zone is los angeles in,timezone
 6046,what time zone is new york in,timezone
-6047,What is the timezone of Reno?,timezone
+6047,what is the timezone of reno,timezone
 6048,what time zone is china in,timezone
 6049,what time zone is london in,timezone
 6050,Is it possible to order more checkbooks for my Chase bank account,order_checks
@@ -6073,7 +6073,7 @@
 6071,I'd like to order some more checks for my checking account,order_checks
 6072,"I would like to have some more checkbooks sent to me by mail, if that is possible",order_checks
 6073,How do I get some more checks for my checking account?,order_checks
-6074,I got some new cheques ordered in place of the cheques that I don't have,order_checks
+6074,I got some new cheques in place of the cheques that I don't have,order_checks
 6075,I need to order some more checks for my checking account,order_checks
 6076,Is it possible to get more checkbooks for my Wells Fargo checking,order_checks
 6077,I'd like to order some more checks for my savings account,order_checks
@@ -6083,7 +6083,7 @@
 6081,Please let me know how I can get more cheques for my savings account,order_checks
 6082,I recently ran out of cheques so I'd like to get some new ones,order_checks
 6083,How do I order new checks?,order_checks
-6084,I need to get some more checkbooks in the mail,order_checks
+6084,I need to have some more checkbooks mailed to me,order_checks
 6085,How can I order more cheques as I don't have any more cheques,order_checks
 6086,I would like to have additional cheque books delivered to my home address,order_checks
 6087,Can you tell me how I can get some more chequebooks?,order_checks
@@ -6153,7 +6153,7 @@
 6151,I found out I made a fraudulent transaction,report_fraud
 6152,Someone misused my card and made fraudulent transactions on it,report_fraud
 6153,"I need to report fraudulent activity on my Visa card, please",report_fraud
-6154,It appears someone made an unauthorized charge to Nike from my account,report_fraud
+6154,It looks like someone made an unauthorized charge to Nike from my account,report_fraud
 6155,I think a charge for Uber on my account is fraudulent,report_fraud
 6156,"""Please contact my credit card company to report fraudulent activity",report_fraud
 6157,I think someone stole my card and used it,report_fraud
@@ -6272,7 +6272,7 @@
 6270,that is not correct,no
 6271,no thank you,no
 6272,"I don't like it, no",no
-6273,That would be a 'no',no
+6273,It would be a 'no',no
 6274,I think it's a lie,no
 6275,let me be,no
 6276,This is not correct,no
@@ -6305,7 +6305,7 @@
 6303,I want to know who made you,who_made_you
 6304,Which company is your design recognized by?,who_made_you
 6305,Which company coded you?,who_made_you
-6306,who made you,who_made_you
+6306,who made you up,who_made_you
 6307,what is your design company,who_made_you
 6308,Who is the programmer who made you?,who_made_you
 6309,Who created this AI?,who_made_you
@@ -6550,7 +6550,7 @@
 6548,what is my annual salary,income
 6549,I want to know my salary,income
 6550,What's on my reminder list,reminder
-6551,What's on my reminder list today,reminder
+6551,what's on my reminder list today,reminder
 6552,What is my reminder list?,reminder
 6553,Please tell me everything on my reminder list,reminder
 6554,What reminders did I create,reminder
@@ -6700,7 +6700,7 @@
 6698,Do I have enough points for redemption,redeem_rewards
 6699,What are the ways to use my credit card points?,redeem_rewards
 6700,How do I change the language of your responses,change_language
-6701,can I change your language,change_language
+6701,can i change your language,change_language
 6702,Can you talk to me in Chinese?,change_language
 6703,What languages ​​can I use for your responses?,change_language
 6704,I would like to hear from you in German,change_language
@@ -6752,7 +6752,7 @@
 6750,Pull up my grocery transactions,transactions
 6751,I want to see my entertainment transactions,transactions
 6752,What did I trade at the flea market yesterday?,transactions
-6753,Please tell me my last ten debit card transactions in the month of December,transactions
+6753,Please tell me my last ten debit card transactions in December month,transactions
 6754,How much my most recent transaction cost,transactions
 6755,Please tell me all my recent transactions,transactions
 6756,What are my latest transactions on my card?,transactions
@@ -6785,7 +6785,7 @@
 6783,I would like to know something about my latest transaction,transactions
 6784,Show me the last five transactions,transactions
 6785,I need to see my purchase transactions,transactions
-6786,Show me the transaction on food,transactions
+6786,Show me the transactions on food,transactions
 6787,What are the recent transactions on my card?,transactions
 6788,I'd like to take a look at my transaction history,transactions
 6789,View my recent transactions on my Mastercard,transactions
@@ -6838,7 +6838,7 @@
 6836,y the check engine light has come on now and i need help with it,schedule_maintenance
 6837,Make an appointment to have my tires checked,schedule_maintenance
 6838,"I need an oil change, make an appointment",schedule_maintenance
-6839,Can anyone check my car because the check engine light is on,schedule_maintenance
+6839,Can anyone look at my car because the check engine light is on,schedule_maintenance
 6840,How do I schedule car maintenance?,schedule_maintenance
 6841,Who can see my car engine light is on,schedule_maintenance
 6842,my car needs to be brought in for maintenance,schedule_maintenance
@@ -6940,7 +6940,7 @@
 6938,How many days off did I take this year?,pto_used
 6939,How much leave have I taken,pto_used
 6940,How much pto is used by me,pto_used
-6941,how much pto i have used,pto_used
+6941,how much pto i have used up,pto_used
 6942,Please find out how many days of leave I have taken till now,pto_used
 6943,View my total number of leave days so far,pto_used
 6944,I would like to know how many days off I have currently,pto_used
@@ -7093,7 +7093,7 @@
 7091,when will the plane land,flight_status
 7092,tell me the status of flight dl123,flight_status
 7093,I need to know the status of my Alaska Air flight,flight_status
-7094,can you tell me the status of my delta flight,flight_status
+7094,Can you tell me the status of my Delta flight,flight_status
 7095,I want to know the status of flight DL123,flight_status
 7096,Please tell me when my flight will land,flight_status
 7097,Please inform me when my flight is scheduled,flight_status
@@ -7173,7 +7173,7 @@
 7171,I have no clue,maybe
 7172,I am unsure,maybe
 7173,can't say,maybe
-7174,I have no doubt at all,maybe
+7174,I have no fog,maybe
 7175,I don't know the answer to this,maybe
 7176,I'm not sure,maybe
 7177,I'm not certain,maybe
@@ -7217,7 +7217,7 @@
 7215,can I turn on the alarm now,alarm
 7216,I need an alarm for 5pm,alarm
 7217,I want my alarm to be set to 8pm,alarm
-7218,I want my alarm to be at 6am,alarm
+7218,I want an alarm for 6 AM,alarm
 7219,Please create a new alarm for me,alarm
 7220,Set one alarm to start work and another to stop,alarm
 7221,I want my alarm to go off at 9am,alarm
@@ -7235,7 +7235,7 @@
 7233,I need to schedule an alarm,alarm
 7234,Please create an alarm for 5:45 AM and an alarm for 6:15 AM,alarm
 7235,Please set your alarm for noon,alarm
-7236,I need an alarm for 9am tomorrow.,alarm
+7236,I need my alarm to go off at 9am tomorrow.,alarm
 7237,I need to set alarm for 6am and 615pm,alarm
 7238,Set one alarm for lunch and another for dinner,alarm
 7239,"Set two alarms, one for 10 AM and the other for 2 PM",alarm
@@ -7408,7 +7408,7 @@
 7406,Can you please get me more plastic bags?,order
 7407,I need everything on my shopping list,order
 7408,Buy everything on your shopping list,order
-7409,I'm out of shampoo so can you order me more?,order
+7409,"I'm out of shampoo, can you order me more?",order
 7410,I need you to buy me some shoes,order
 7411,I want you to order everything on my shopping list,order
 7412,"Order me some pussy, I ran away",order
@@ -7453,7 +7453,7 @@
 7451,What are the chances of increasing the credit limit on my Visa,credit_limit_change
 7452,Is there any way to increase my Visa card limit?,credit_limit_change
 7453,Can I increase the limit to $500?,credit_limit_change
-7454,will you allow more spending on my visa,credit_limit_change
+7454,will you allow more expenses on my visa,credit_limit_change
 7455,Will I be able to increase my credit limit by $1000?,credit_limit_change
 7456,Can I have a higher limit on my Mastercard?,credit_limit_change
 7457,Can you increase the amount I can spend on my visa?,credit_limit_change
@@ -7490,7 +7490,7 @@
 7488,Is it possible to increase my credit limit to $1000?,credit_limit_change
 7489,I would like to increase my credit limit to $1000 if possible,credit_limit_change
 7490,Can I increase my credit limit to $1100?,credit_limit_change
-7491,I need a $1000 credit increase,credit_limit_change
+7491,I need a $1000 credit limit,credit_limit_change
 7492,Is it possible to increase my Discover card credit limit,credit_limit_change
 7493,What do I do to change my credit limit?,credit_limit_change
 7494,How do I increase my credit score by $2500?,credit_limit_change
@@ -7720,7 +7720,7 @@
 7718,please tell me now cat related trivia,fun_fact
 7719,Read Me Cat Trivia,fun_fact
 7720,I need a new language,change_language
-7721,Change the language for me,change_language
+7721,Change language for me,change_language
 7722,Please change your language setting to Russian,change_language
 7723,You need to change your language setting to Russian,change_language
 7724,Please change your language setting to Russian,change_language
@@ -7803,7 +7803,7 @@
 7801,What is the current status of my credit card application,application_status
 7802,What is the current status of my credit card application,application_status
 7803,Where has my credit card application reached,application_status
-7804,what is the status of my credit card application,application_status
+7804,What is the status of my credit card application,application_status
 7805,Check the current status of my credit card application,application_status
 7806,Is my credit card application processed yet?,application_status
 7807,Please check the status of my credit card application,application_status
@@ -7880,7 +7880,7 @@
 7878,you can say my name is nick,change_user_name
 7879,I am Camille,change_user_name
 7880,what place were you born,where_are_you_from
-7881,where were you born in childhood,where_are_you_from
+7881,where were you born in your childhood,where_are_you_from
 7882,tell me where you were born,where_are_you_from
 7883,where were you made,where_are_you_from
 7884,where exactly were you born,where_are_you_from
@@ -8086,10 +8086,10 @@
 8084,Who were you created by,who_made_you
 8085,What is the company that made you?,who_made_you
 8086,Who are you made of,who_made_you
-8087,Who is your manufacturer,who_made_you
+8087,Who is your producer,who_made_you
 8088,who makes you,who_made_you
 8089,What organization makes you who you are,who_made_you
-8090,Who is your manufacturer,who_made_you
+8090,Who is your producer,who_made_you
 8091,what make you,who_made_you
 8092,Who is the person responsible for making you,who_made_you
 8093,who brought you into existence,who_made_you
@@ -8176,7 +8176,7 @@
 8174,I need you to play the next song,next_song
 8175,next song please,next_song
 8176,change this song it's so bad,next_song
-8177,can i listen to the next song,next_song
+8177,can i hear the next song,next_song
 8178,can you skip this song and go to the next song,next_song
 8179,what is the next song on this playlist,next_song
 8180,Show all video game purchases,transactions
@@ -8223,7 +8223,7 @@
 8221,What is my rewards balance for my Visa?,rewards_balance
 8222,I want to know my Visa rewards balance,rewards_balance
 8223,Can you tell me my Visa Rewards balance?,rewards_balance
-8224,What is my Visa Card balance for Rewards,rewards_balance
+8224,What is my Visa card balance for rewards,rewards_balance
 8225,How many points do I have on my American Express?,rewards_balance
 8226,Tell me the points on my Delta Rewards card,rewards_balance
 8227,How many points are on my Chase Unlimited card?,rewards_balance
@@ -8389,7 +8389,7 @@
 8387,What is the gas mileage on a 2012 Ford Fusion,mpg
 8388,how many mpg does the equinox get,mpg
 8389,What is the gas mileage on a Ford Falcon,mpg
-8390,how many miles per gallon does this car get,mpg
+8390,how many miles per gallon does this car go,mpg
 8391,what is the mileage of this car,mpg
 8392,I want to know the mileage of this car,mpg
 8393,How many miles per gallon do I get on this car,mpg
@@ -8480,7 +8480,7 @@
 8478,What are my health benefits?,insurance
 8479,can you list my health benefits,insurance
 8480,Can you please cancel my todo list?,todo_list_update
-8481,Please delete my todo list,todo_list_update
+8481,please delete my todo list,todo_list_update
 8482,Can you please delete my todo list?,todo_list_update
 8483,Delete my todo list,todo_list_update
 8484,Please delete my todo list,todo_list_update
@@ -8522,7 +8522,7 @@
 8520,can you speak slowly,change_speed
 8521,please speak a little louder,change_speed
 8522,can you slow down your speaking speed,change_speed
-8523,please speak to me softly if possible,change_speed
+8523,please talk to me softly if you can,change_speed
 8524,please talk to me soon from now on,change_speed
 8525,can you slow down your talking,change_speed
 8526,Talk to me soon from now on,change_speed
@@ -8564,7 +8564,7 @@
 8562,no it's fake,no
 8563,No way,no
 8564,"No, it is illegal",no
-8565,I wouldn't want to,no
+8565,i wouldn't want to,no
 8566,it is negative,no
 8567,I didn't mean,no
 8568,I am saying no,no
@@ -8585,7 +8585,7 @@
 8583,tell me the apr of my card,apr
 8584,can you tell me the status of my card apr,apr
 8585,What is the APR on my Citibank card?,apr
-8586,how good is the apr of my card,apr
+8586,How good is the APR of my card,apr
 8587,What is the APR on my first bank card account?,apr
 8588,What is the apr on my chase card?,apr
 8589,what is the apr of my card,apr
@@ -8646,7 +8646,7 @@
 8644,Can you find an Uber for me and bring it here at 7 PM?,uber
 8645,"Please call me an Uber, and ask four people to go downtown",uber
 8646,I need an Uber to get to work at 5pm so three people can go to the cineplex downtown.,uber
-8647,Is there an Uber available in my area right now?,uber
+8647,Is there any Uber available in my area right now?,uber
 8648,Schedule an Uber to pick me up from home in an hour,uber
 8649,Call Uber and ask it to pick me up from my current location,uber
 8650,connect me with uber,uber
@@ -8718,7 +8718,7 @@
 8716,Tell me carry-on information for United,carry_on
 8717,I would like to know the carry-on information for Delta,carry_on
 8718,Can you tell me the carry-on rules for American Airlines?,carry_on
-8719,How much carry-on luggage can I carry on with Spirit when flying to Tampa?,carry_on
+8719,"How much luggage can I carry on with Spirit, going to Tampa",carry_on
 8720,How many days off did I take,pto_used
 8721,How many days of leave have I taken in total,pto_used
 8722,How much PTO do I have to use,pto_used
@@ -8761,8 +8761,8 @@
 8759,Find me someone who can fix my car's burning check engine light,schedule_maintenance
 8760,"I will be in Canada from October 23 to November 2, can I tell my bank?",travel_notification
 8761,Tell my bank I'm going to be in Russia for a month,travel_notification
-8762,My bank received a message that I will be in Canada from the 14th,travel_notification
-8763,Tell my bank I am going to France in 2 days,travel_notification
+8762,My bank received a message that I will be in Canada from 14th,travel_notification
+8763,Tell your bank I am going to France in 2 days,travel_notification
 8764,Tell my bank I will be in Cuba from the 2nd,travel_notification
 8765,Inform my financial institution that I am going to Bangkok on April 2nd and will return on April 7th,travel_notification
 8766,"I will be leaving for Tennessee on Tuesday and will not be back until the 29th, please inform your bank about this",travel_notification
@@ -8897,7 +8897,7 @@
 8895,Don't forget to check my steak,reminder_update
 8896,Set a reminder to check your steak,reminder_update
 8897,Can you set a reminder for tomorrow at the current time,reminder_update
-8898,Set me a reminder to request leave,reminder_update
+8898,Set a reminder for me to request leave,reminder_update
 8899,Can I set a reminder,reminder_update
 8900,I want to report a stolen card,report_lost_card
 8901,"I lost my card, I want to report it",report_lost_card
@@ -9055,7 +9055,7 @@
 9053,Tell me when my MasterCard bill will be paid,bill_due
 9054,When should I pay my PG&E bill?,bill_due
 9055,when is my kaiser bill due,bill_due
-9056,When do I have to pay that bill?,bill_due
+9056,When do I have to pay that bill,bill_due
 9057,Is there a due date mentioned on the bill?,bill_due
 9058,Do I have to pay the bill this week?,bill_due
 9059,I want to know on which day I have to pay my water bill,bill_due
@@ -9224,7 +9224,7 @@
 9222,Can you tell me when I should replace my tires?,tire_change
 9223,When will my car tyres be replaced next?,tire_change
 9224,When do I need to replace my tyres?,tire_change
-9225,When is it wise for me to replace my tires,tire_change
+9225,When is it wise for me to change my tires,tire_change
 9226,Do you know when is the best time for me to change the tyre next time,tire_change
 9227,When do I need to replace my tyres,tire_change
 9228,When will I need to replace my tyres?,tire_change
@@ -9351,7 +9351,7 @@
 9349,How long do you have to wait at Chipotle now?,how_busy
 9350,How long is the wait at Applebee's tonight,how_busy
 9351,How long is the wait at Applebees,how_busy
-9352,I want to know how long I have to wait to get a table at Dibruno's,how_busy
+9352,I want to know how long I have to wait to get a table at Dibruno,how_busy
 9353,Can you tell me approximately how long the wait time is at the Cheesecake Factory,how_busy
 9354,How long does it take on average to sit down for dinner at Rouge?,how_busy
 9355,What's the wait like at Chima Brazilian Steakhouse right now?,how_busy
@@ -9395,7 +9395,7 @@
 9393,When will the clothes I ordered online arrive?,order_status
 9394,"I ordered new sheets online, when will they arrive?",order_status
 9395,"I have ordered some new speakers, when will they arrive",order_status
-9396,Is my order at the delivery address,order_status
+9396,Is my order at the delivery address?,order_status
 9397,when will my order arrive,order_status
 9398,is my order here,order_status
 9399,When will my order arrive,order_status
@@ -9414,7 +9414,7 @@
 9412,I want a new PIN on my personal customer account card,pin_change
 9413,I want my Wells Fargo account PIN changed,pin_change
 9414,I need a new PIN on my Chase account,pin_change
-9415,please tell me your pin number,pin_change
+9415,then tell me your pin number,pin_change
 9416,I want to know my card's PIN number,pin_change
 9417,Tell me my card's PIN number,pin_change
 9418,I want to know the pin number,pin_change
@@ -9638,7 +9638,7 @@
 9636,Can you make reservations in Tampa from May 2nd to May 4th?,book_hotel
 9637,I would like to book a hotel in Tampa from May 2nd to May 4th,book_hotel
 9638,Make a reservation for me in Tampa from May 2nd to May 4th,book_hotel
-9639,Book a motel in Uptown from March 3 to March 4,book_hotel
+9639,Book a motel in Uptown from March 3rd to March 4th,book_hotel
 9640,Talk to me about where I am right now,current_location
 9641,Can you tell me where I am?,current_location
 9642,You need all five answers,current_location
@@ -9870,7 +9870,7 @@
 9868,Hi whats up,greeting
 9869,What's going on,greeting
 9870,Hey how's it going,greeting
-9871,"hi, aye",greeting
+9871,"Hi, aye",greeting
 9872,"Good morning, aye",greeting
 9873,How are you,greeting
 9874,What happened,greeting
@@ -9896,7 +9896,7 @@
 9894,Please revert to original settings,reset_settings
 9895,Now restore the original settings.,reset_settings
 9896,Configure it to factory settings,reset_settings
-9897,Take my settings back to their factory settings,reset_settings
+9897,Return my settings to their factory settings,reset_settings
 9898,set it to my factory settings,reset_settings
 9899,Change to factory settings,reset_settings
 9900,What should I tell you?,what_is_your_name
@@ -9930,7 +9930,7 @@
 9928,Does my TD Ameritrade checking account accept direct deposit,direct_deposit
 9929,"If I want my paycheck to be deposited directly, what information do I need?",direct_deposit
 9930,Get my paycheck deposited directly into my Capital One account,direct_deposit
-9931,I want direct deposit into my Chase bank account,direct_deposit
+9931,I want direct deposit to my Chase bank account,direct_deposit
 9932,I'd like to set up direct deposit into my Charles Schwab account,direct_deposit
 9933,How do I set up paycheck direct deposit?,direct_deposit
 9934,Link my paycheck to direct deposit into my account at Chase,direct_deposit
@@ -9953,7 +9953,7 @@
 9951,How can I find out the current interest rate for my account ending in 9012?,interest_rate
 9952,What interest rate is US Bank offering me on my account,interest_rate
 9953,Where can I find the interest rate for my platinum account?,interest_rate
-9954,Where can I find the PNC account interest rate?,interest_rate
+9954,Where can I find PNC account interest rates?,interest_rate
 9955,What is the interest rate on my auto loan,interest_rate
 9956,What is the interest rate on my home equity loan,interest_rate
 9957,Tell me what the interest rate is on my personal loan through Chase,interest_rate
@@ -9981,7 +9981,7 @@
 9979,Can you help me increase my credit limit?,credit_limit_change
 9980,do you have hobbies,what_are_your_hobbies
 9981,tell me about your hobbies,what_are_your_hobbies
-9982,Do you indulge in hobbies,what_are_your_hobbies
+9982,Do you indulge in hobbies?,what_are_your_hobbies
 9983,what recreational activities do you enjoy,what_are_your_hobbies
 9984,what do you do as a hobby,what_are_your_hobbies
 9985,What do you like to do in your spare time,what_are_your_hobbies
@@ -10067,7 +10067,7 @@
 10065,How much do I still have to pay on my server and domain?,bill_balance
 10066,How much do I owe on my vet and vehicle registration bills,bill_balance
 10067,What do my bills look like for Amazon and Netflix?,bill_balance
-10068,How much will I have to pay in taxes and cable,bill_balance
+10068,How much do I have to pay on taxes and cable,bill_balance
 10069,How much do I owe on all my bills,bill_balance
 10070,How much do I have to pay for my Shell Gas Card bill?,bill_balance
 10071,What is the total of all my bills,bill_balance
@@ -10128,7 +10128,7 @@
 10126,"Play that song that goes like this I like to shake it, shake it",play_music
 10127,"can you play the song amazing grace and it's like this, how sweet does amazing grace sound",play_music
 10128,Please play a song that's like America the Beautiful,play_music
-10129,Please play this song: Jingle Bells Jingle Bells Jingle All the Way,play_music
+10129,Please play this song: Jingle Bells Jingle Bells Jingle All The Way,play_music
 10130,can you play beatles music,play_music
 10131,can you play the beatles,play_music
 10132,can you play beatles songs,play_music
@@ -10247,7 +10247,7 @@
 10245,Forget the reservation at the Oyster Bar for tonight,cancel_reservation
 10246,Cancel my reservation at Osteria for our party,cancel_reservation
 10247,Cancel reservations for Red Robin at 4 p.m.,cancel_reservation
-10248,Cancel group reservation at 8:00,cancel_reservation
+10248,Cancel reservation for group at 8 o'clock,cancel_reservation
 10249,I'd like to cancel my reservation for 5 at Hoss Steak House,cancel_reservation
 10250,Please cancel my reservation for 6 at Red Lobster,cancel_reservation
 10251,I need to cancel my reservation for 2 at Franklin Grill,cancel_reservation
@@ -10256,7 +10256,7 @@
 10254,undo my reservation for 5 at loft,cancel_reservation
 10255,"I no longer want my reservation for 5 people, please cancel it",cancel_reservation
 10256,hey sir please cancel my reservation at the loft for 5,cancel_reservation
-10257,I do not need a reservation in the loft for 5 people please cancel it,cancel_reservation
+10257,I need to cancel my reservation for 5 pm please cancel it,cancel_reservation
 10258,Cancel my reservation for 5 pm,cancel_reservation
 10259,Carla no longer wants a reservation at Olive Garden,cancel_reservation
 10260,what is the funniest thing you own,tell_joke
@@ -10423,7 +10423,7 @@
 10421,"I'm out of bread, order more",order
 10422,"Since I have run out of bread, order more bread",order
 10423,Order the bread,order
-10424,order some roti as I am out,order
+10424,order some roti as I'm out,order
 10425,Order an Amazon gift card from Amazon in the amount of twenty dollars,order
 10426,Order a case of Coke from Amazon,order
 10427,Order dog food from Walmart,order

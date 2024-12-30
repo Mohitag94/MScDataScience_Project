@@ -77,7 +77,7 @@
 75,does jet blue have any carry-on restrictions,Gibt es bei Jet Blue Einschränkungen für Handgepäck?,Does Jet Blue have restrictions on carry-on luggage?,carry_on
 76,i need to know the carry-on restrictions for united airlines,ich muss die Handgepäckbeschränkungen bei United Airlines kennen,I need to know the carry-on baggage restrictions on United Airlines,carry_on
 77,how many carry ons will american let me take for a flight to los vegas,wie viel Handgepäck darf ich bei American für einen Flug nach Los Vegas mitnehmen,How much hand luggage can I take with American on a flight to Los Vegas,carry_on
-78,does delta have carry-on restrictions,Gibt es bei Delta Beschränkungen für Handgepäck?,Does Delta have restrictions on carry-on luggage?,carry_on
+78,does delta have carry-on restrictions,Gibt es bei Delta Beschränkungen für Handgepäck?,Does Delta have carry-on baggage restrictions?,carry_on
 79,how many carry ons can i take on a flight with jet blue to washington dc,wie viel Handgepäck darf ich auf einem Flug mit Jet Blue nach Washington D.C. mitnehmen,How much hand luggage can I take on a flight with Jet Blue to Washington D.C.,carry_on
 80,what are the carry-on restrictions for singapore airlines,welche Handgepäckbeschränkungen gelten bei Singapore Airlines,which hand luggage restrictions apply with Singapore Airlines,carry_on
 81,tell me the carry on rules,erzähl mir die Regeln für Handgepäck,tell me the rules for hand luggage,carry_on
@@ -228,7 +228,7 @@
 226,can you get me a recipe for mashed potatoes,kannst du mir ein Rezept für Kartoffelbrei geben,can you give me a recipe for mashed potatoes,recipe
 227,i need a recipe for chicken pot pie,ich brauche ein Rezept für Chicken Pot Pie,I need a recipe for Chicken Pot Pie,recipe
 228,what is needed you to cook apple pie,"was braucht man, um Apfelkuchen zu kochen",what do you need to cook apple pie,recipe
-229,can you find me a recipe for honey ham,kannst du mir ein Rezept für Honigschinken finden,can you find me a recipe for honey ham,recipe
+229,can you find me a recipe for honey ham,kannst du mir ein Rezept für Honigschinken geben,can you give me a recipe for honey ham,recipe
 230,where can i look to learn to make sushi,"wo kann ich lernen, Sushi zu machen",where can I learn to make sushi,recipe
 231,i am looking for a vegan friendly italian pasta recipe,ich suche ein veganes italienisches Pastarezept,I'm looking for a vegan Italian pasta recipe,recipe
 232,what do you need to do to make sushi,was muss man tun um Sushi zu machen,what do you have to do to make sushi,recipe
@@ -411,7 +411,7 @@
 409,"i think we should reserve dad's regular table friday for 6 people, use his name, make that close to 4:00 pm at the club","ich denke, wir sollten Papas Stammtisch am Freitag für 6 Personen reservieren, seinen Namen verwenden, und zwar gegen 16:00 Uhr im Club","I think we should reserve Papa's regular table on Friday for 6 people, using his name, at around 4:00 pm in the club",restaurant_reservation
 410,make a reservation at 5 pm today for 2 at olive garden,Reservieren Sie heute um 17 Uhr für 2 Personen im Olive Garden,Make a reservation for 2 people at Olive Garden today at 5pm,restaurant_reservation
 411,you have to reserve a table for 4 at red robin under the name kevin at 7,Sie müssen einen Tisch für 4 Personen im Red Robin unter dem Namen Kevin um 7 Uhr reservieren.,You must reserve a table for 4 at Red Robin under the name Kevin at 7am.,restaurant_reservation
-412,book a reservation for 4 at outback steakhouse under the name dave,reservieren sie eine reservierung für 4 personen im outback steakhouse unter dem namen dave,make a reservation for 4 people at the outback steakhouse under the name dave,restaurant_reservation
+412,book a reservation for 4 at outback steakhouse under the name dave,reservieren sie eine reservierung für 4 im outback steakhouse unter dem namen dave,make a reservation for 4 at the outback steakhouse under the name dave,restaurant_reservation
 413,can you get me a table for 6 at johnnys,kannst du mir einen Tisch für 6 bei Johnnys besorgen,can you get me a table for 6 at Johnnys,restaurant_reservation
 414,make a reservation for three at prime rib at 6:30 pm,Reservieren Sie für drei Personen im Prime Rib um 18:30 Uhr,Make a reservation for three people at Prime Rib at 6:30 pm,restaurant_reservation
 415,i gotta make a reservation for 8 pm at red robin for 3,ich muss für 20 Uhr im Red Robin für 3 reservieren,I have to make a reservation for 3 at Red Robin at 8pm,restaurant_reservation
@@ -440,7 +440,7 @@
 438,i want to make a reservation for 8 pm at red robin for 3,ich möchte für 20 Uhr im Red Robin für 3 Personen reservieren,I would like to make a reservation for 8 pm at Red Robin for 3 people,restaurant_reservation
 439,can i reserve a table for 2 at the olive garden at 8,Kann ich um 8 Uhr einen Tisch für 2 im Olive Garden reservieren?,Can I reserve a table for 2 at Olive Garden at 8am?,restaurant_reservation
 440,reserve a table for 5 at lawry's under the name steve at 8:00pm,Reservieren Sie um 20:00 Uhr einen Tisch für 5 Personen bei Lawry's unter dem Namen Steve,Reserve a table for 5 at Lawry's at 8:00 pm under the name Steve,restaurant_reservation
-441,book a reservation for 3 at red lobster under the name steve,reservieren sie eine reservierung für 3 bei red lobster unter dem namen steve,reserve a reservation for 3 at red lobster under the name steve,restaurant_reservation
+441,book a reservation for 3 at red lobster under the name steve,buchen Sie eine Reservierung für 3 bei Red Lobster unter dem Namen Steve,book a reservation for 3 at Red Lobster under the name Steve,restaurant_reservation
 442,can you get me a table for 8 at johnnys,kannst du mir einen Tisch für 8 bei Johnnys besorgen,can you get me a table for 8 at Johnnys,restaurant_reservation
 443,make me a reservation for tomorrow at happys for four,mach mir eine Reservierung für morgen im Happys for Four,make me a reservation for tomorrow at Happys for Four,restaurant_reservation
 444,book a reservation for 8 pm at red robin under the name kevin,reservieren sie für 20 uhr im red robin unter dem namen kevin,make a reservation for 8 pm at the red robin under the name kevin,restaurant_reservation
@@ -1370,7 +1370,7 @@
 1368,i think my luggage was misplaced or has been lost,"Ich glaube, mein Gepäck wurde verlegt oder ist verloren gegangen",I think my luggage has been misplaced or lost,lost_luggage
 1369,who can i turn to if i lost my luggage,"an wen kann ich mich wenden, wenn ich mein Gepäck verloren habe",Who can I contact if I have lost my luggage,lost_luggage
 1370,im at lax and my bags aren't,ich bin bei lax und mein Gepäck ist nicht,I am at lax and my luggage is not,lost_luggage
-1371,i lost my luggage coming from new york city on american flight ab123,ich habe mein Gepäck auf dem American-Airlines-Flug AB123 aus New York City verloren,I lost my luggage on American Airlines flight AB123 from New York City,lost_luggage
+1371,i lost my luggage coming from new york city on american flight ab123,ich habe mein Gepäck auf dem American-Airlines-Flug ab123 aus New York City verloren,I lost my luggage on American Airlines flight ab123 from New York City,lost_luggage
 1372,i can't find any of my luggage!,ich kann mein Gepäck nicht finden!,I can't find my luggage!,lost_luggage
 1373,i believe that my luggage was lost,"Ich glaube, mein Gepäck ist verloren gegangen",I think my luggage is lost,lost_luggage
 1374,"my luggage is missing, i think","mein Gepäck fehlt, glaube ich","my luggage is missing, I think",lost_luggage
@@ -1883,7 +1883,7 @@
 1881,"i heard that opening a new account will decrease my credit score, is it true","ich habe gehört, dass sich meine Kreditwürdigkeit durch die Eröffnung eines neuen Kontos verschlechtert. Stimmt das?",I heard that opening a new account will hurt my credit score. Is that true?,improve_credit_score
 1882,how can i make my credit score better,Wie kann ich meine Kreditwürdigkeit verbessern?,How can I improve my credit score?,improve_credit_score
 1883,what are some ways to keep my credit score up,Wie kann ich meine Kreditwürdigkeit hoch halten?,How can I keep my credit score high?,improve_credit_score
-1884,would being late hurt my credit,Würde eine Verspätung meiner Kreditwürdigkeit schaden?,Would a delay hurt my credit rating?,improve_credit_score
+1884,would being late hurt my credit,Würde eine Verspätung meiner Kreditwürdigkeit schaden?,Would a delay hurt my credit score?,improve_credit_score
 1885,how do i keep good credit,Wie behalte ich eine gute Kreditwürdigkeit?,How do I maintain good credit?,improve_credit_score
 1886,how to keep credit score high,So halten Sie Ihren Kredit-Score hoch,How to keep your credit score high,improve_credit_score
 1887,tell me if opening a new account will decrease my credit score,"Sagen Sie mir, ob sich mein Kredit-Score durch die Eröffnung eines neuen Kontos verschlechtert",Tell me if opening a new account will hurt my credit score,improve_credit_score
@@ -1901,7 +1901,7 @@
 1899,can i protect my credit score,Kann ich meine Kreditwürdigkeit schützen?,Can I protect my credit?,improve_credit_score
 1900,what kind of entertainment is available in chicago,welche Art von Unterhaltung gibt es in Chicago,what kind of entertainment is there in Chicago,travel_suggestion
 1901,what are the main attractions in gatlinburg,Was sind die Hauptattraktionen in Gatlinburg?,What are the main attractions in Gatlinburg?,travel_suggestion
-1902,what are some fun things i can partake in in atlanta,"was sind einige lustige Dinge, an denen ich in Atlanta teilnehmen kann",what are some fun things I can participate in in Atlanta,travel_suggestion
+1902,what are some fun things i can partake in in atlanta,"was sind ein paar lustige Dinge, an denen ich in Atlanta teilnehmen kann",what are some fun things I can participate in in Atlanta,travel_suggestion
 1903,help me find things to do in nashville,"hilf mir, Dinge zu finden, die man in Nashville unternehmen kann",help me find things to do in Nashville,travel_suggestion
 1904,please suggest some fun tourist activities in tokyo,Bitte schlagen Sie einige unterhaltsame Touristenaktivitäten in Tokio vor,Please suggest some fun tourist activities in Tokyo,travel_suggestion
 1905,"are there any interesting things to do in atlanta, georgia","Gibt es in Atlanta, Georgia interessante Dinge zu tun?","Are there interesting things to do in Atlanta, Georgia?",travel_suggestion
@@ -1947,7 +1947,7 @@
 1945,are there any interesting activities to do in austin,Gibt es in Austin interessante Aktivitäten?,Are there any interesting activities in Austin?,travel_suggestion
 1946,what sites are there to see when in evans,welche Sehenswürdigkeiten gibt es in Evans zu sehen,what sights are there to see in Evans,travel_suggestion
 1947,where should i spend my time off,Wo soll ich meine Freizeit verbringen?,Where should I spend my free time?,travel_suggestion
-1948,could you tell me what fun tourist things i could do in tokyo,"kannst du mir sagen, was ich als Tourist in Tokio unternehmen könnte",can you tell me what I could do as a tourist in Tokyo,travel_suggestion
+1948,could you tell me what fun tourist things i could do in tokyo,"können Sie mir sagen, welche unterhaltsamen touristischen Dinge ich in Tokio unternehmen könnte",can you tell me what fun tourist things I could do in Tokyo,travel_suggestion
 1949,what's the best place to travel to this time of year,"Was ist der beste Ort, um zu dieser Jahreszeit zu reisen",What is the best place to travel at this time of year,travel_suggestion
 1950,help me roll a dice,"hilf mir, einen Würfel zu werfen",help me roll a dice,roll_dice
 1951,i'd like a 7 sided dice roll please,"ich hätte gerne einen 7-seitigen Würfelwurf, bitte","I would like a 7-sided dice roll, please",roll_dice
@@ -2136,7 +2136,7 @@
 2134,do you consider yourself a bot,betrachtest du dich selbst als Bot,you consider yourself a bot,are_you_a_bot
 2135,i think you are a bot,ich glaube du bist ein Bot,I think you are a bot,are_you_a_bot
 2136,i want to know if you are a real person or an ai,"ich möchte wissen, ob du eine echte Person oder eine KI bist",I want to know if you are a real person or an AI,are_you_a_bot
-2137,do you know whether you are a human or whether you're a computer,"wissen Sie, ob Sie ein Mensch oder ein Computer sind",do you know whether you are a human or a computer,are_you_a_bot
+2137,do you know whether you are a human or whether you're a computer,"wissen Sie, ob Sie ein Mensch oder ein Computer sind",do you know if you are a human or a computer,are_you_a_bot
 2138,prove that you're a person,"beweisen, dass Sie eine Person sind",prove that you are a person,are_you_a_bot
 2139,i need to know if you are a real person or an ai,"ich muss wissen, ob du eine echte Person oder eine KI bist",I need to know if you are a real person or an AI,are_you_a_bot
 2140,are you alive,bist du am Leben,are you alive,are_you_a_bot
@@ -2231,7 +2231,7 @@
 2229,what is on my schedule for the day of march 5th,was steht auf meinem Plan für den 5. März,what's on my plan for March 5th,calendar
 2230,what do i have on my calendar for march 2,was steht in meinem Kalender für den 2. März,what is in my calendar for March 2nd,calendar
 2231,what items do i have on my calendar for easter,welche Dinge stehen in meinem Kalender für Ostern?,What things are on my calendar for Easter?,calendar
-2232,what do i have on my calendar for march 11,was steht in meinem Kalender für den 11. März,what's in my calendar for March 11th,calendar
+2232,what do i have on my calendar for march 11,was steht in meinem Kalender für den 11. März,what is in my calendar for March 11th,calendar
 2233,do i have anything on my calendar next sunday,habe ich nächsten Sonntag etwas in meinem Kalender,I have something in my calendar next Sunday,calendar
 2234,what do i have to do on march 2 that's on my calendar,"was muss ich am 2. März tun, das steht in meinem Kalender","what do I have to do on March 2nd, that's in my calendar",calendar
 2235,what's happening on may 3rd,Was passiert am 3. Mai,What happens on May 3rd,calendar
@@ -2646,7 +2646,7 @@
 2644,do i need a power adapter in mexico,brauche ich in Mexiko einen Netzadapter,Do I need a power adapter in Mexico,plug_type
 2645,"i'm going out of country, what type of outlet plug do i need",ich verlasse das Land. Welche Art von Steckdosenstecker brauche ich?,I'm leaving the country. What type of plug do I need?,plug_type
 2646,will my plugs work in barcelona,Funktionieren meine Stecker in Barcelona?,Will my plugs work in Barcelona?,plug_type
-2647,if i visit cairo will i need a plug converter,"Brauche ich einen Steckeradapter, wenn ich Kairo besuche?",Do I need a plug adapter when I visit Cairo?,plug_type
+2647,if i visit cairo will i need a plug converter,"Wenn ich Kairo besuche, brauche ich einen Steckeradapter?","If I visit Cairo, do I need a plug adapter?",plug_type
 2648,what plugs are used in spain,welche Stecker werden in Spanien verwendet,which plugs are used in Spain,plug_type
 2649,how do i know what the outlets are like,"wie erfahre ich, wie die Verkaufsstellen sind",how do I find out what the sales outlets are like,plug_type
 2650,are shots needed for uk travel,sind Impfungen für Reisen ins Vereinigte Königreich erforderlich,vaccinations are required for travel to the United Kingdom,vaccines
@@ -2670,7 +2670,7 @@
 2668,is it recommended to get any specific shots before i travel to argentina,"Ist es empfehlenswert, vor einer Reise nach Argentinien bestimmte Impfungen durchführen zu lassen?",Is it advisable to get certain vaccinations before traveling to Argentina?,vaccines
 2669,is it recommended to get any specific shots before i travel to norway,"Ist es empfehlenswert, vor einer Reise nach Norwegen bestimmte Impfungen durchführen zu lassen?",Is it advisable to get certain vaccinations before traveling to Norway?,vaccines
 2670,do i need certain shots before flying to eithiopia,brauche ich bestimmte Impfungen bevor ich nach Äthiopien fliege,Do I need certain vaccinations before I fly to Ethiopia,vaccines
-2671,do i need to get shots before i go to kenya,"muss ich mich impfen lassen, bevor ich nach Kenia reise",do I have to get vaccinated before traveling to Kenya,vaccines
+2671,do i need to get shots before i go to kenya,"muss ich mich impfen lassen, bevor ich nach Kenia reise",do I need to get vaccinated before traveling to Kenya,vaccines
 2672,can you tell me if there are any shots that i am required to have before traveling to south africa,"Können Sie mir sagen, ob es irgendwelche Impfungen gibt, die ich vor der Reise nach Südafrika machen lassen muss?",Can you tell me if there are any vaccinations I need to get before traveling to South Africa?,vaccines
 2673,i'm going to india do i need some shots,ich gehe nach Indien. Brauche ich ein paar Impfungen?,I'm going to India. Do I need some vaccinations?,vaccines
 2674,do i need to get vaccinated to go to thailand,"muss ich mich impfen lassen, um nach Thailand zu reisen",do I have to get vaccinated to travel to Thailand,vaccines
@@ -2727,7 +2727,7 @@
 2725,when will i get paid next,wann werde ich das nächste Mal bezahlt,when will I be paid next,payday
 2726,did i receive my paycheck this week,habe ich diese Woche meinen Gehaltsscheck bekommen,I got my paycheck this week,payday
 2727,i need to know when to expect my next paycheck,"ich muss wissen, wann ich mit meinem nächsten Gehaltsscheck rechnen kann",I need to know when I can expect my next paycheck,payday
-2728,what is the date of my last paycheck,Wann ist das Datum meines letzten Gehaltsschecks?,When is the date of my last paycheck?,payday
+2728,what is the date of my last paycheck,Was ist das Datum meines letzten Gehaltsschecks?,What is the date of my last paycheck?,payday
 2729,please give me the expected arrival date for my next paycheck,Bitte teilen Sie mir das voraussichtliche Zahlungsdatum meines nächsten Gehaltsschecks mit.,Please let me know the expected payment date of my next paycheck.,payday
 2730,how long is it until payday,wie lange ist es bis zum Zahltag,how long is it until payday,payday
 2731,when's my next payday,wann ist mein nächster Zahltag,when is my next payday,payday
@@ -2944,13 +2944,13 @@
 2942,is it ok to use brown sugar instead of powdered sugar,"ist es ok, braunen Zucker anstelle von Puderzucker zu verwenden",is it ok to use brown sugar instead of powdered sugar,ingredient_substitution
 2943,can i use almond milk instead of rice milk,Kann ich Mandelmilch statt Reismilch verwenden?,Can I use almond milk instead of rice milk?,ingredient_substitution
 2944,can i substitute eggs for milk in a recipe,Kann ich in einem Rezept Milch durch Eier ersetzen?,Can I replace milk with eggs in a recipe?,ingredient_substitution
-2945,would it be possible to replace the salt with baking soda,"wäre es möglich, das Salz durch Backpulver zu ersetzen",would it be possible to replace the salt with baking powder,ingredient_substitution
+2945,would it be possible to replace the salt with baking soda,"wäre es möglich, das Salz durch Backpulver zu ersetzen",it would be possible to replace the salt with baking powder,ingredient_substitution
 2946,can i substitute ginger for garlic,Kann ich Knoblauch durch Ingwer ersetzen?,Can I replace garlic with ginger?,ingredient_substitution
 2947,will it be okay if i use water instead of milk,"Ist es okay, wenn ich Wasser statt Milch verwende?",Is it okay if I use water instead of milk?,ingredient_substitution
 2948,can i swap yogurt for sour cream,Kann ich Joghurt durch saure Sahne ersetzen?,Can I replace yogurt with sour cream?,ingredient_substitution
 2949,i wanna sub sugar for salt,ich möchte Salz durch Zucker ersetzen,I want to replace salt with sugar,ingredient_substitution
 2950,i need a clear calendar for april 15,ich brauche einen freien Kalender für den 15. April,I need a free calendar for April 15th,calendar_update
-2951,i wanna remove fishing from my calendar for soccer,ich möchte Angeln aus meinem Kalender streichen und stattdessen Fußball spielen,I want to delete fishing from my calendar and play football instead,calendar_update
+2951,i wanna remove fishing from my calendar for soccer,ich möchte Angeln aus meinem Kalender streichen und stattdessen Fußball spielen,I want to remove fishing from my calendar and play football instead,calendar_update
 2952,add farm trip to my calendar for friday,füge meinem Kalender für Freitag einen Farmausflug hinzu,add a farm trip to my calendar for Friday,calendar_update
 2953,take lunch with steven off of my calendar,streiche das Mittagessen mit Steven aus meinem Kalender,cross lunch with Steven off my calendar,calendar_update
 2954,make sure to add to my calendar the staff meeting for march 1 at 10 am,trage unbedingt die Mitarbeiterbesprechung für den 1. März um 10 Uhr in meinen Kalender ein,Be sure to add the staff meeting for March 1st at 10am to my calendar,calendar_update
@@ -3181,7 +3181,7 @@
 3179,look up whether my 401k may be rolled over,"nachschauen, ob mein 401k übertragen werden kann",check if my 401k can be transferred,rollover_401k
 3180,i just changed jobs and need help with my 401k rollover,ich habe gerade den Job gewechselt und brauche Hilfe bei der Übertragung meiner 401k,I just changed jobs and need help transferring my 401k,rollover_401k
 3181,i nee to know how to transfer my 401k,"ich muss wissen, wie ich meine 401k übertrage",I need to know how to transfer my 401k,rollover_401k
-3182,i just started this new job and need help with my 401k rollover,ich habe gerade diesen neuen Job angefangen und brauche Hilfe bei meiner 401k-Übertragung,I just started this new job and need help with my 401k transfer,rollover_401k
+3182,i just started this new job and need help with my 401k rollover,ich habe gerade mit diesem neuen Job angefangen und brauche Hilfe bei meiner 401k-Übertragung,I just started this new job and need help with my 401k transfer,rollover_401k
 3183,could you roll over my 401k for me,könnten Sie meine 401k für mich übertragen,could you transfer my 401k for me,rollover_401k
 3184,explain to me how transferring my 401k works,"erklären Sie mir, wie die Übertragung meiner 401k funktioniert",explain to me how the transfer of my 401k works,rollover_401k
 3185,ways to transfer my 401k,"Möglichkeiten, meine 401k zu übertragen",Ways to transfer my 401k,rollover_401k
@@ -3307,7 +3307,7 @@
 3305,does my credit card expire soon,Läuft meine Kreditkarte bald ab?,Is my credit card about to expire?,expiration_date
 3306,how long will it be until my visa card expires,"wie lange dauert es, bis meine Visa-Karte abläuft",how long does it take for my Visa card to expire,expiration_date
 3307,could you look up the date that my credit card is set to expire,könnten Sie das Ablaufdatum meiner Kreditkarte nachschauen?,Could you check the expiration date of my credit card?,expiration_date
-3308,during what month will my card's expiration date fall on,auf welchen Monat fällt das Ablaufdatum meiner Karte?,In which month does my card expire?,expiration_date
+3308,during what month will my card's expiration date fall on,in welchem ​​Monat läuft meine Karte ab,in which month my card expires,expiration_date
 3309,tell me the expiry date of my credit card,Sagen Sie mir das Ablaufdatum meiner Kreditkarte,Tell me the expiration date of my credit card,expiration_date
 3310,i need to know when my card is set to expire please,"ich muss wissen, wann meine Karte abläuft, bitte","I need to know when my card expires, please",expiration_date
 3311,when will my american express credit card expire,wann läuft meine american express kreditkarte ab,when does my American Express credit card expire,expiration_date
@@ -3479,7 +3479,7 @@
 3477,i would like to make a transfer,ich möchte eine Überweisung tätigen,I would like to make a transfer,transfer
 3478,i have to transfer ten dollars from my bank of america account to my capital one account,ich muss zehn Dollar von meinem Bank of America-Konto auf mein Capital One-Konto überweisen,I need to transfer ten dollars from my Bank of America account to my Capital One account,transfer
 3479,i need you to send 500 dollars from my high tier account to my regular checking account,Sie müssen 500 Dollar von meinem High-Tier-Konto auf mein normales Girokonto überweisen,You need to transfer $500 from my high-tier account to my regular checking account,transfer
-3480,send money from one account to another,Geld von einem Konto auf ein anderes senden,Send money from one account to another,transfer
+3480,send money from one account to another,Geld von einem Konto auf ein anderes senden,Sending money from one account to another,transfer
 3481,transfer money from one place to another,Geld von einem Ort zum anderen überweisen,Transfer money from one place to another,transfer
 3482,i need to transfer ten dollars from my bank of america account to my capital one account,ich muss zehn Dollar von meinem Bank of America-Konto auf mein Capital One-Konto überweisen,I need to transfer ten dollars from my Bank of America account to my Capital One account,transfer
 3483,please transfer my funds,bitte überweisen Sie mein Geld,please transfer my money,transfer
@@ -3577,7 +3577,7 @@
 3575,from now on i'm going to call you ishmael,von nun an werde ich dich Ismael nennen,from now on I will call you Ishmael,change_ai_name
 3576,can i change your name to buttercup,kann ich deinen Namen in Buttercup ändern,can I change your name to Buttercup,change_ai_name
 3577,can i start calling you chris,kann ich dich Chris nennen,can I call you Chris,change_ai_name
-3578,can i change your name to bob,kann ich deinen Namen in Bob ändern,can I change your name to Bob,change_ai_name
+3578,can i change your name to bob,Kann ich deinen Namen in Bob ändern?,Can I change your name to Bob?,change_ai_name
 3579,i'd like to refer to you as my house from now on,ich möchte dich von nun an als mein Haus bezeichnen,I want to call you my house from now on,change_ai_name
 3580,can i begin calling you dave,"kann ich anfangen, dich Dave zu nennen",can I start calling you Dave,change_ai_name
 3581,x is what i am calling you now,"x ist, wie ich dich jetzt nenne",x is what I call you now,change_ai_name
@@ -3983,7 +3983,7 @@
 3981,are the reviews for applebee's good,sind die Bewertungen für Applebee's gut,the reviews for Applebee's are good,restaurant_reviews
 3982,what do people say about village inn,Was sagen die Leute über Village Inn,What people say about Village Inn,restaurant_reviews
 3983,are there any positive reviews for wendy's,Gibt es positive Bewertungen für Wendy's?,Are there any positive reviews for Wendy's?,restaurant_reviews
-3984,how good are the ratings for peter luger steakhouse,wie gut sind die Bewertungen für Peter Luger Steakhouse,how good are the reviews for Peter Luger Steakhouse,restaurant_reviews
+3984,how good are the ratings for peter luger steakhouse,Wie gut sind die Bewertungen für Peter Luger Steakhouse,How good are the reviews for Peter Luger Steakhouse,restaurant_reviews
 3985,does mcdonalds have good reviews,hat McDonalds gute Bewertungen,McDonalds has good reviews,restaurant_reviews
 3986,pull up the ratings for macaroni grill,Rufen Sie die Bewertungen für Makkaronigrill auf,Check out the reviews for Macaroni Grill,restaurant_reviews
 3987,how good are the ratings for chic-fil-a,wie gut sind die Bewertungen für Chic-Fil-A,how good are the reviews for Chic-Fil-A,restaurant_reviews
@@ -4032,7 +4032,7 @@
 4030,"i'd like to change the pin on my savings account, please","ich möchte die PIN meines Sparkontos ändern, bitte","I would like to change the PIN of my savings account, please",pin_change
 4031,change my amex account pin to 1234,ändere die PIN meines Amex-Kontos auf 1234,change the PIN of my Amex account to 1234,pin_change
 4032,is there a way to change my pin number for my savings account,"gibt es eine Möglichkeit, meine PIN-Nummer für mein Sparkonto zu ändern",is there a way to change my PIN number for my savings account,pin_change
-4033,swap my amex pin to 1234,tausche meine Amex-PIN gegen 1234 aus,change my Amex PIN to 1234,pin_change
+4033,swap my amex pin to 1234,tausche meine Amex-PIN gegen 1234 aus,exchange my Amex PIN for 1234,pin_change
 4034,can you change my 1st national account pin to 4892,können Sie die PIN meines 1. nationalen Kontos auf 4892 ändern?,can you change the PIN of my 1st national account to 4892?,pin_change
 4035,i want a new pin for my savings account,ich möchte eine neue PIN für mein Sparkonto,I want a new PIN for my savings account,pin_change
 4036,change the pin on my capital one account to be 1234,ändere die PIN auf meinem Capital One-Konto auf 1234,change the PIN on my Capital One account to 1234,pin_change
@@ -4282,7 +4282,7 @@
 4280,will i be able to rent a car in boston from march 2 to march 4,Kann ich vom 2. bis 4. März in Boston ein Auto mieten?,Can I rent a car in Boston from March 2-4?,car_rental
 4281,please look up if i can rent a car in houston from march 25 to march 29,"Bitte schauen Sie nach, ob ich vom 25. bis 29. März in Houston ein Auto mieten kann",Please check if I can rent a car in Houston from March 25th to 29th,car_rental
 4282,could i rent a car out of dallas from april 1-10,könnte ich vom 1. bis 10. April ein Auto in Dallas mieten,could I rent a car in Dallas from April 1st to 10th,car_rental
-4283,i'd like to rent a vehicle from nov 1st to nov 15th in san antonio and i need a 15 passenger van,ich möchte vom 1. bis 15. November in San Antonio ein Fahrzeug mieten und brauche einen Van für 15 Personen,I want to rent a vehicle in San Antonio from November 1st to 15th and need a van for 15 people,car_rental
+4283,i'd like to rent a vehicle from nov 1st to nov 15th in san antonio and i need a 15 passenger van,ich möchte vom 1. bis 15. November in San Antonio ein Fahrzeug mieten und brauche einen Van für 15 Personen,I would like to rent a vehicle in San Antonio from November 1st to 15th and need a van for 15 people,car_rental
 4284,how can i rent a car in boston,wie kann ich in boston ein auto mieten,how can i rent a car in boston,car_rental
 4285,can you help me with seattle car rental bookings,können Sie mir bei der Buchung eines Mietwagens in Seattle helfen?,Can you help me book a rental car in Seattle?,car_rental
 4286,"i will be in aiken on may 12 to may 16, i need to rent a car","ich werde vom 12. bis 16. Mai in Aiken sein, ich muss ein Auto mieten","I will be in Aiken from May 12th to 16th, I need to rent a car",car_rental
@@ -4320,7 +4320,7 @@
 4318,how many of my vacation days do i have remaining,wie viele Urlaubstage habe ich noch übrig,how many vacation days do I have left,pto_balance
 4319,tell me how many vacation days i have left,"Sag mir, wie viele Urlaubstage ich noch habe",Tell me how many vacation days I have left,pto_balance
 4320,how many more vacation days do i have for the year,wie viele Urlaubstage habe ich noch im Jahr,how many vacation days do I have left in the year,pto_balance
-4321,provide me the number of vacation days i have,teilen Sie mir die Anzahl meiner Urlaubstage mit,tell me the number of vacation days I have,pto_balance
+4321,provide me the number of vacation days i have,teilen Sie mir die Anzahl meiner Urlaubstage mit,Please tell me the number of vacation days I have,pto_balance
 4322,check how much pto i have left,"prüfen, wie viel Zapfwelle ich noch habe",check how much PTO I have left,pto_balance
 4323,how many days do i have left of pto,wie viele Tage habe ich noch bezahlten Urlaub,how many days of paid vacation do I have left,pto_balance
 4324,can you figure out how many vacation days i have left,"können Sie herausfinden, wie viele Urlaubstage mir noch bleiben",you can find out how many vacation days I have left,pto_balance
@@ -4628,7 +4628,7 @@
 4626,what name should i refer to you as,mit welchem ​​Namen soll ich dich ansprechen,what name should I address you by,what_is_your_name
 4627,how are you named,wie heißt du,What's your name,what_is_your_name
 4628,i'd like your name,ich hätte gerne deinen Namen,I would like your name,what_is_your_name
-4629,what name do you want me to call you,mit welchem ​​Namen soll ich dich nennen,what name should I call you,what_is_your_name
+4629,what name do you want me to call you,mit welchem ​​Namen soll ich dich nennen,by what name shall I call you,what_is_your_name
 4630,do you have a way you like to be referred to,"Gibt es eine Art, wie Sie gerne genannt werden?",Is there a way you like to be called?,what_is_your_name
 4631,"when referring to you, what name do you want me to use","welchen Namen soll ich verwenden, wenn ich mich auf Sie beziehe?",What name should I use when referring to you?,what_is_your_name
 4632,state your name,Nennen Sie Ihren Namen,State your name,what_is_your_name
@@ -4768,7 +4768,7 @@
 4766,i'm grateful to you,ich bin dir dankbar,I am grateful to you,thank_you
 4767,thank you for your time,Vielen Dank für Ihre Zeit,Thank you for your time,thank_you
 4768,"that'll work, good job!","das wird klappen, gute Arbeit!","it will work, good work!",thank_you
-4769,thanks for letting me know,danke für die Info,Thanks for the info,thank_you
+4769,thanks for letting me know,"Danke, dass du mich informiert hast",Thank you for informing me,thank_you
 4770,i am thankful for your help!,ich bin dankbar für Ihre Hilfe!,I am grateful for your help!,thank_you
 4771,"good answer, thanks for providing it","gute Antwort, danke für die Bereitstellung","good answer, thanks for providing",thank_you
 4772,i can not thank you enough,ich kann dir nicht genug danken,I can't thank you enough,thank_you
@@ -4848,7 +4848,7 @@
 4846,may i take a pto on february 7 and 8,darf ich am 7. und 8. Februar einen bezahlten Urlaub nehmen,can I take paid leave on February 7th and 8th,pto_request
 4847,how do i ask to have a vacation,Wie beantrage ich Urlaub?,How do I request vacation?,pto_request
 4848,can you put in a pto request for march 7th to the 9th,können Sie einen PTO-Antrag für den 7. bis 9. März stellen?,Can you apply for PTO for March 7-9?,pto_request
-4849,"can you submit a pto request for me from dates nov 2 to 10, please",können Sie bitte einen PTO-Antrag für mich vom 2. bis 10. November einreichen?,Can you please submit a PTO request for me from November 2nd to 10th?,pto_request
+4849,"can you submit a pto request for me from dates nov 2 to 10, please",Können Sie bitte einen PTO-Antrag für mich vom 2. bis 10. November einreichen?,Can you please submit a PTO request for me from November 2nd to 10th?,pto_request
 4850,"can you give me a burmese meal suggestion, please",Können Sie mir bitte ein burmesisches Gericht vorschlagen?,Can you please suggest a Burmese dish?,meal_suggestion
 4851,can you tell me a good indian dish to make,"kannst du mir ein gutes indisches Gericht nennen, das ich zubereiten kann",can you tell me a good Indian dish that I can prepare,meal_suggestion
 4852,"i can't decide on dinner, what do you suggest",Ich kann mich nicht für ein Abendessen entscheiden. Was schlägst du vor?,I can't decide what to have for dinner. What do you suggest?,meal_suggestion
@@ -5418,7 +5418,7 @@
 5416,what is the minimum payment i can make on my electric bill,"wie hoch ist die Mindestzahlung, die ich für meine Stromrechnung leisten kann?",What is the minimum payment I can make on my electricity bill?,min_payment
 5417,tell me the minimum payment of my bill,Sagen Sie mir den Mindestbetrag für meine Rechnung,Tell me the minimum amount for my bill,min_payment
 5418,i would like to know my water bill minimum payment,"ich möchte wissen, wie hoch meine Mindestzahlung für die Wasserrechnung ist",I would like to know what my minimum payment for the water bill is,min_payment
-5419,pay the minimum payment for m and t bill,zahlen Sie die Mindestzahlung für die M- und T-Rechnung,pay the minimum payment for the M and T invoice,min_payment
+5419,pay the minimum payment for m and t bill,zahlen Sie die Mindestzahlung für die M- und T-Rechnung,pay the minimum payment for the M and T bill,min_payment
 5420,please give me the minimum payment total for my sprint phone bill,Bitte geben Sie mir den Mindestzahlungsbetrag für meine Sprint-Telefonrechnung,Please give me the minimum payment amount for my Sprint phone bill,min_payment
 5421,how small of a payment can i make for my chase card bill,Wie klein kann meine Rate für meine Chase-Card-Rechnung sein?,How small can my payment be on my Chase card bill?,min_payment
 5422,please inform me of the minimum payment of the bill,Bitte teilen Sie mir den Mindestzahlungsbetrag der Rechnung mit,Please tell me the minimum payment amount of the invoice,min_payment
@@ -5538,7 +5538,7 @@
 5536,tell me the conversion between tablespoons and cups,Sag mir die Umrechnung zwischen Esslöffeln und Tassen,Tell me the conversion between tablespoons and cups,measurement_conversion
 5537,how many feet are in 50 yards,wie viele Fuß sind 50 Yards,how many feet are 50 yards,measurement_conversion
 5538,how many meters are in 10 millimeters,wie viele Meter sind 10 Millimeter,how many meters are 10 millimeters,measurement_conversion
-5539,tell me what ten pounds in kilos is,"Sag mir, wie viel Kilo sind zehn Pfund?","Tell me, how many kilos are ten pounds?",measurement_conversion
+5539,tell me what ten pounds in kilos is,"Sag mir, wie viel Kilo sind zehn Pfund?","Tell me, how many kilos is ten pounds?",measurement_conversion
 5540,convert inch to cm,Zoll in cm umrechnen,Convert inches to cm,measurement_conversion
 5541,what is the conversion of inches to centimeters,Wie erfolgt die Umrechnung von Zoll in Zentimeter?,How do you convert inches to centimeters?,measurement_conversion
 5542,"what is 15 ounces in grams, please","wie viel Gramm sind 15 Unzen, bitte","how many grams are 15 ounces, please",measurement_conversion
@@ -5555,7 +5555,7 @@
 5553,can you access my w-2,können Sie auf mein W-2 zugreifen,can you access my W-2,w2
 5554,how do i get a personal w2 form,Wie bekomme ich ein persönliches W2-Formular?,How do I get a personal W2 form?,w2
 5555,i would like to get the forms to file for my w2,ich möchte die Formulare für mein W2-Formular erhalten,I would like to receive the forms for my W2 form,w2
-5556,can you tell me what the form is employers are supposed to send you for taxes and where i get it,"Können Sie mir sagen, welches Formular Arbeitgeber Ihnen für die Steuern schicken müssen und wo ich es bekomme?",Can you tell me which form employers have to send you for taxes and where I can get it?,w2
+5556,can you tell me what the form is employers are supposed to send you for taxes and where i get it,"können Sie mir sagen, welches Formular Arbeitgeber Ihnen für die Steuern schicken müssen und wo ich es bekomme",can you tell me which form employers have to send you for taxes and where I can get it,w2
 5557,who has the tax form that shows my wages,"Wer hat das Steuerformular, auf dem mein Lohn aufgeführt ist?",Who has the tax form that shows my salary?,w2
 5558,can you help me find my w-2,"können Sie mir helfen, mein W-2 zu finden",can you help me find my W-2,w2
 5559,where can i obtain a w2 form from,wo kann ich ein W2-Formular bekommen,where can I get a W2 form,w2
@@ -6046,7 +6046,7 @@
 6044,does the central timezone include austin,umfasst die zentrale Zeitzone Austin,includes the central time zone Austin,timezone
 6045,what timezone is los angeles in,in welcher Zeitzone liegt Los Angeles,what time zone is Los Angeles in,timezone
 6046,what timezone is new york in,in welcher Zeitzone liegt New York,what time zone is New York in,timezone
-6047,reno's timezone is what,Renos Zeitzone ist was,Reno's time zone is something,timezone
+6047,reno's timezone is what,Renos Zeitzone ist was,Reno's time zone is what,timezone
 6048,what timezone is china in,in welcher Zeitzone liegt China,in which time zone is China,timezone
 6049,what timezone is london is,in welcher Zeitzone liegt London,what time zone is London in,timezone
 6050,is it possible to make an order for more checkbooks for my chase bank account,"ist es möglich, weitere Scheckhefte für mein Chase-Bankkonto zu bestellen?",is it possible to order additional checkbooks for my Chase bank account?,order_checks
@@ -6431,7 +6431,7 @@
 6429,"my card is stolen, i need to report it","meine Karte wurde gestohlen, ich muss es melden","my card was stolen, I have to report it",report_lost_card
 6430,someone stole my mastercade,jemand hat meine Mastercade gestohlen,someone stole my Mastercade,report_lost_card
 6431,"i can't locate my mastercard and i want to report it as lost, please",ich kann meine Mastercard nicht finden und möchte sie als verloren melden.,I can't find my Mastercard and would like to report it as lost.,report_lost_card
-6432,where to report lost discover credit card,wo kann ich den Verlust einer Discover-Kreditkarte melden,where can I report the loss of a Discover credit card,report_lost_card
+6432,where to report lost discover credit card,wo kann ich den Verlust einer Discover-Kreditkarte melden?,Where can I report the loss of a Discover credit card?,report_lost_card
 6433,report lost card,Kartenverlust melden,Report card loss,report_lost_card
 6434,i need to replace my lost card,ich muss meine verlorene Karte ersetzen,I need to replace my lost card,report_lost_card
 6435,my visa card got stolen,meine Visa-Karte wurde gestohlen,my Visa card was stolen,report_lost_card
@@ -6440,7 +6440,7 @@
 6438,i need to report that my card has been lost,ich muss den Verlust meiner Karte melden,I have to report the loss of my card,report_lost_card
 6439,my bronze card is missing i would like to report it as lost,"meine Bronzekarte fehlt, ich möchte sie als verloren melden","my bronze card is missing, I would like to report it as lost",report_lost_card
 6440,i can't find my insurance card and i want to report it as lost,ich finde meine Versicherungskarte nicht und möchte sie als verloren melden,I can't find my insurance card and would like to report it as lost,report_lost_card
-6441,i lost my commerce card and need to report it as lost,Ich habe meine Handelskarte verloren und muss sie als verloren melden,I lost my trading card and need to report it as lost,report_lost_card
+6441,i lost my commerce card and need to report it as lost,Ich habe meine Commerce-Karte verloren und muss sie als verloren melden,I lost my Commerce card and need to report it as lost,report_lost_card
 6442,someone stole my discover card,jemand hat meine Discover-Karte gestohlen,someone stole my Discover card,report_lost_card
 6443,"i lost my card, what do i do",Ich habe meine Karte verloren. Was kann ich tun?,I lost my card. What can I do?,report_lost_card
 6444,"i would like to report my card as stolen, please","ich möchte meine Karte als gestohlen melden, bitte","I would like to report my card as stolen, please",report_lost_card
@@ -6473,7 +6473,7 @@
 6471,does my bank of america card have international transaction fees,fallen für meine Bank of America-Karte internationale Transaktionsgebühren an?,Are there international transaction fees for my Bank of America card?,international_fees
 6472,are there fees for using my card in tampa,fallen für die Nutzung meiner Karte in Tampa Gebühren an?,Are there any fees for using my card in Tampa?,international_fees
 6473,does visa charge transaction fees in the uk,erhebt visa transaktionsgebühren in großbritannien,does visa charge transaction fees in the UK,international_fees
-6474,are there any transaction fees associated with my chase card if i am in tokyo,"fallen für meine Chase-Karte Transaktionsgebühren an, wenn ich in Tokio bin?",Will my Chase card incur transaction fees when I am in Tokyo?,international_fees
+6474,are there any transaction fees associated with my chase card if i am in tokyo,"fallen für meine Chase-Karte Transaktionsgebühren an, wenn ich in Tokio bin?",Will my Chase card incur transaction fees when I'm in Tokyo?,international_fees
 6475,are there any fees for using my amex in england,fallen für die nutzung meiner amex in england gebühren an,Are there any fees for using my Amex in England,international_fees
 6476,will i be charged if i use the card in australia,"Werden mir Kosten berechnet, wenn ich die Karte in Australien benutze?",Will I be charged if I use the card in Australia?,international_fees
 6477,will i be charged if i use my card in france,"Werden mir Kosten berechnet, wenn ich meine Karte in Frankreich benutze?",Will I be charged if I use my card in France?,international_fees
@@ -6736,7 +6736,7 @@
 6734,answer me in french,antworte mir auf französisch,answer me in French,change_language
 6735,can i give you instructions in japanese,kann ich Ihnen Anweisungen auf Japanisch geben,I can give you instructions in Japanese,change_language
 6736,switch the language setting over to german,die Spracheinstellung auf Deutsch umstellen,change the language setting to German,change_language
-6737,do you know french,kannst du Französisch,can you speak French,change_language
+6737,do you know french,Kannst du Französisch?,Can you speak French?,change_language
 6738,speak in the language english,sprechen in der Sprache Englisch,speak English,change_language
 6739,can you talk to me in italian,kannst du mit mir auf Italienisch reden,can you talk to me in Italian,change_language
 6740,change the language you're using to american english,Ändern Sie die von Ihnen verwendete Sprache auf amerikanisches Englisch,Change the language you are using to American English,change_language
@@ -7209,7 +7209,7 @@
 7207,set an alarm for 5 pm,stelle einen Wecker auf 17 Uhr,set an alarm for 5 pm,alarm
 7208,please set alarm for me,stell bitte den Wecker für mich,please set the alarm for me,alarm
 7209,set up an alarm,einen Alarm einrichten,set an alarm,alarm
-7210,i want to be woken up at 9 tomorrow,ich möchte morgen um 9 Uhr geweckt werden,I want to be woken up tomorrow at 9 am,alarm
+7210,i want to be woken up at 9 tomorrow,ich möchte morgen um 9 Uhr geweckt werden,I want to be woken up at 9 am tomorrow,alarm
 7211,i'd like a new alarm set for 6am,"ich hätte gerne einen neuen Wecker, der auf 6 Uhr morgens eingestellt ist",I would like a new alarm clock that is set to 6 am,alarm
 7212,set the alarm to go off at 9 tomorrow,"stelle den Wecker so, dass er morgen um 9 Uhr klingelt",set the alarm to ring at 9 am tomorrow,alarm
 7213,set an alarm to go to sleep and another to wake up,Stellen Sie einen Alarm zum Einschlafen und einen zum Aufwachen ein.,Set an alarm to go to sleep and one to wake up.,alarm
@@ -7493,7 +7493,7 @@
 7491,i need a credit raise by 1000 dollars,ich brauche eine Krediterhöhung um 1000 Dollar,I need a credit increase of $1000,credit_limit_change
 7492,is it possible to increase the credit limit for my discover card,"ist es möglich, das Kreditlimit für meine Discover-Karte zu erhöhen",is it possible to increase the credit limit on my Discover card,credit_limit_change
 7493,what do i do to change my credit limit,"Was muss ich tun, um mein Kreditlimit zu ändern?",What do I need to do to change my credit limit?,credit_limit_change
-7494,how would i raise my credit spending by 2500 dollars,Wie würde ich meine Kreditausgaben um 2500 Dollar erhöhen,How would I increase my credit spending by $2500,credit_limit_change
+7494,how would i raise my credit spending by 2500 dollars,Wie würde ich meine Kreditausgaben um 2500 Dollar erhöhen,How would I increase my loan spending by $2500,credit_limit_change
 7495,i want my credit limit changed,ich möchte mein Kreditlimit ändern,I want to change my credit limit,credit_limit_change
 7496,"i would like to increase my bank of america credit limit, can you help me","ich möchte mein Kreditlimit bei der Bank of America erhöhen, können Sie mir helfen","I want to increase my credit limit at Bank of America, can you help me",credit_limit_change
 7497,can i increase the credit limit on my old navy card,kann ich das Kreditlimit meiner Old Navy-Karte erhöhen,can I increase the credit limit on my Old Navy card,credit_limit_change
@@ -7530,10 +7530,10 @@
 7528,please transfer half of my funds to an alternate account,Bitte überweisen Sie die Hälfte meines Guthabens auf ein anderes Konto,Please transfer half of my balance to another account,transfer
 7529,can you move my money to my savings,kannst du mein Geld auf mein Sparkonto überweisen,can you transfer my money to my savings account,transfer
 7530,make an eft to my savings from my checking account,von meinem Girokonto eine Überweisung auf mein Sparkonto vornehmen,make a transfer from my checking account to my savings account,transfer
-7531,send 100 dollars from my vanguard money market to my wells fargo savings,überweisen Sie 100 Dollar von meinem Vanguard-Geldmarkt auf mein Wells Fargo-Sparkonto,transfer $100 from my Vanguard money market to my Wells Fargo savings account,transfer
-7532,i need 200 dollars transferred from my long island savings account to my chase checking,ich muss 200 Dollar von meinem Long Island Sparkonto auf mein Chase Girokonto überweisen,I need to transfer $200 from my Long Island savings account to my Chase checking account,transfer
+7531,send 100 dollars from my vanguard money market to my wells fargo savings,sende 100 dollar von meinem vanguard geldmarkt auf mein wells fargo sparkonto,send $100 from my Vanguard money market to my Wells Fargo savings account,transfer
+7532,i need 200 dollars transferred from my long island savings account to my chase checking,ich muss 200 Dollar von meinem Long Island-Sparkonto auf mein Chase-Konto überweisen,I need to transfer $200 from my Long Island savings account to my Chase account,transfer
 7533,send from my bbc money market to my t rowe price money market seven thousand dollars,Senden Sie von meinem BBC-Geldmarkt an meinen T-Rowe-Price-Geldmarkt siebentausend Dollar,Send seven thousand dollars from my BBC money market to my T-Rowe Price money market,transfer
-7534,i need 2000 to go to my chase checking from my mellon bank savings account,"ich brauche 2000, um sie von meinem Mellon Bank-Sparkonto auf mein Chase-Konto zu überweisen",I need 2000 to transfer from my Mellon Bank savings account to my Chase account,transfer
+7534,i need 2000 to go to my chase checking from my mellon bank savings account,"ich brauche 2000, um von meinem Mellon Bank-Sparkonto auf mein Chase-Konto zu gehen",I need 2000 to go from my Mellon Bank savings account to my Chase account,transfer
 7535,move 100 dollars from my savings to my checking,100 Dollar von meinem Sparkonto auf mein Girokonto überweisen,Transfer $100 from my savings account to my checking account,transfer
 7536,transfer 1000 dollars from my first national bank to my bethpage federal credit union savings,Überweisen Sie 1000 Dollar von meiner ersten Nationalbank auf mein Sparkonto bei der Bethpage Federal Credit Union,Transfer $1000 from my First National Bank to my savings account at Bethpage Federal Credit Union,transfer
 7537,take out of my checking 400 dollars and put it into my emergency savings account,400 Dollar von meinem Girokonto abheben und auf mein Notfallsparkonto einzahlen,Withdraw $400 from my checking account and deposit it into my emergency savings account,transfer
@@ -8035,7 +8035,7 @@
 8033,you know the reservation i have on 2:00 friday i confirm it,"Sie kennen die Reservierung, die ich am Freitag um 14:00 Uhr habe. Ich bestätige sie.",You know the reservation I have on Friday at 2:00 p.m. I confirm it.,confirm_reservation
 8034,i'd like to confirm the 2:00 reservation for friday,Ich möchte die Reservierung für Freitag um 14:00 Uhr bestätigen.,I would like to confirm the reservation for Friday at 2:00 p.m.,confirm_reservation
 8035,check to see if i am still booked to be eating at gusto handcrafted pasta & pizza at 6:30 pm,"Überprüfen Sie, ob ich noch für 18:30 Uhr bei Gusto Handcrafted Pasta & Pizza gebucht bin",Check if I am still booked for 6:30 pm at Gusto Handcrafted Pasta & Pizza,confirm_reservation
-8036,is my dinner reservation for gusto handcrafted pasta & pizza at 6:30 pm still valid,ist meine Abendessenreservierung für handgemachte Pasta und Pizza von Gusto um 18:30 Uhr noch gültig,is my dinner reservation for handmade pasta and pizza from Gusto at 6:30 pm still valid,confirm_reservation
+8036,is my dinner reservation for gusto handcrafted pasta & pizza at 6:30 pm still valid,ist meine Reservierung für das Abendessen mit handgemachter Pasta und Pizza von Gusto um 18:30 Uhr noch gültig,is my reservation for dinner with handmade pasta and pizza from Gusto at 6:30 pm still valid,confirm_reservation
 8037,please call gusto handcrafted pasta & pizza and ask them about the status of my reservation for 6:30 pm,Bitte rufen Sie Gusto Handcrafted Pasta & Pizza an und fragen Sie nach dem Status meiner Reservierung für 18:30 Uhr,Please call Gusto Handcrafted Pasta & Pizza and ask about the status of my reservation for 6:30 pm,confirm_reservation
 8038,will you check to see if i am still reserved for 6:30 pm at gusto handcrafted pasta & pizza,"kannst du nachsehen, ob ich für 18:30 Uhr bei Gusto Handcrafted Pasta & Pizza noch reserviert bin?",Can you check if I still have a reservation at Gusto Handcrafted Pasta & Pizza for 6:30 p.m.?,confirm_reservation
 8039,please confirm my reservation for dinner at gusto handcrafted pasta & pizza at 6:30 pm,Bitte bestätigen Sie meine Reservierung für das Abendessen bei Gusto Handcrafted Pasta & Pizza um 18:30 Uhr,Please confirm my dinner reservation at Gusto Handcrafted Pasta & Pizza at 6:30 pm,confirm_reservation
@@ -8190,7 +8190,7 @@
 8188,what are my recent purchases,Was sind meine letzten Einkäufe,What are my last purchases,transactions
 8189,please tell me all the purchases on my hy-vee card for this statement period,Bitte teilen Sie mir alle Einkäufe mit meiner Hy-Vee-Karte für diesen Abrechnungszeitraum mit.,Please notify me of all purchases made with my Hy-Vee card for this billing period.,transactions
 8190,please let me review all items on my mastercard from this billing period,Bitte lassen Sie mich alle Artikel auf meiner Mastercard aus diesem Abrechnungszeitraum überprüfen,Please let me review all items on my Mastercard from this billing period,transactions
-8191,please tell me this month's transactions on my visa,Bitte teilen Sie mir die Transaktionen dieses Monats mit meinem Visum mit,Please let me know this month's transactions with my visa,transactions
+8191,please tell me this month's transactions on my visa,Bitte teilen Sie mir die Transaktionen dieses Monats mit meinem Visum mit,Please inform me of this month's transactions with my visa,transactions
 8192,show me all transactions for current statement,zeige mir alle Transaktionen für den aktuellen Kontoauszug,show me all transactions for the current account statement,transactions
 8193,i want to see transactions from this month,Ich möchte die Transaktionen dieses Monats sehen,I want to see this month's transactions,transactions
 8194,how many paypal transactions did i have last week,wie viele Paypal-Transaktionen hatte ich letzte Woche,how many Paypal transactions did I have last week,transactions
@@ -8591,7 +8591,7 @@
 8589,what is my card's apr,wie hoch ist der Jahreszins meiner Karte,what is the annual interest rate of my card,apr
 8590,what is the apr on my american express,wie hoch ist der effektive Jahreszins bei meiner American Express,what is the effective annual interest rate for my American Express,apr
 8591,i want to know the apr on my capital one card,ich möchte den Jahreszins meiner Capital One-Karte wissen,I want to know the annual interest rate of my Capital One card,apr
-8592,how does my card's apr compare to others,wie ist der effektive Jahreszins meiner Karte im Vergleich zu anderen,How does the effective annual interest rate of my card compare to other,apr
+8592,how does my card's apr compare to others,wie ist der effektive Jahreszins meiner Karte im Vergleich zu anderen,How does the effective annual interest rate of my card compare to others,apr
 8593,is my card's apr good,ist der Jahreszins meiner Karte gültig,is the annual interest rate of my card valid,apr
 8594,can you tell me how good my card's apr is,"Können Sie mir sagen, wie gut der Jahreszins meiner Karte ist?",Can you tell me what the annual interest rate on my card is?,apr
 8595,what is my card's apr and is it good,Wie hoch ist der Jahreszins meiner Karte und ist er gut?,What is the annual interest rate on my card and is it good?,apr
@@ -8749,7 +8749,7 @@
 8747,can i make an appointment to get my tires checked,Kann ich einen Termin zur Überprüfung meiner Reifen vereinbaren?,Can I make an appointment to have my tires checked?,schedule_maintenance
 8748,can you please make an appointment for me to get my tires checked out,"können Sie bitte einen Termin für mich vereinbaren, um meine Reifen überprüfen zu lassen",can you please make an appointment for me to have my tires checked,schedule_maintenance
 8749,schedule me an appointment to get my tires checked out,Vereinbaren Sie einen Termin zur Überprüfung meiner Reifen,Make an appointment to check my tires,schedule_maintenance
-8750,can you help me find someone to look at my car's engine because the light is on,"Können Sie mir helfen, jemanden zu finden, der sich den Motor meines Autos ansieht, weil die Lampe an ist?",Can you help me find someone to look at my car's engine because the light is on?,schedule_maintenance
+8750,can you help me find someone to look at my car's engine because the light is on,"Können Sie mir helfen, jemanden zu finden, der sich den Motor meines Autos ansieht, denn die Lampe leuchtet",Can you help me find someone to look at my car engine because the light is on,schedule_maintenance
 8751,i need to arrange an appointment to have my car's tires examined,"ich muss einen Termin vereinbaren, um die Reifen meines Autos untersuchen zu lassen",I need to make an appointment to have my car's tires inspected,schedule_maintenance
 8752,my car needs maintenance but i don't know if i can schedule an appointment for that,"mein Auto muss gewartet werden, aber ich weiß nicht, ob ich dafür einen Termin vereinbaren kann","my car needs to be serviced, but I don't know if I can make an appointment for it",schedule_maintenance
 8753,is there any way to change the date of my oil change,"Gibt es eine Möglichkeit, das Datum meines Ölwechsels zu ändern?",Is there a way to change my oil change date?,schedule_maintenance
@@ -8861,7 +8861,7 @@
 8859,how long can i keep bison in the freezer for before it spoils,"wie lange kann ich Bison im Gefrierschrank aufbewahren, bevor es verdirbt",how long can I keep bison in the freezer before it spoils,food_last
 8860,how long do i need to cook pot au feu for,wie lange muss ich pot au feu kochen,how long do I have to cook pot au feu,cook_time
 8861,how long do i need to cook chili for,wie lange muss ich Chili kochen,how long do I have to cook chili,cook_time
-8862,how long do i need to cook lasagne for,wie lange muss ich lasagne kochen,how long do I have to cook lasagna,cook_time
+8862,how long do i need to cook lasagne for,wie lange muss ich Lasagne kochen,how long do I have to cook lasagna,cook_time
 8863,how long do i need to cook tuna casserole for,wie lange muss ich Thunfischauflauf kochen,how long do I have to cook tuna casserole,cook_time
 8864,how long do i need to cook beef stew for,wie lange muss ich rindfleischeintopf kochen,how long do I have to cook beef stew,cook_time
 8865,how long should i cook country fried potatoes for,wie lange sollte ich Country Bratkartoffeln kochen,how long should I cook country fried potatoes,cook_time
@@ -9527,7 +9527,7 @@
 9525,do i have any meetings today between 9 and 10:30,habe ich heute zwischen 9 und 10:30 Uhr irgendwelche Besprechungen,I have any meetings today between 9 and 10:30 am,meeting_schedule
 9526,do i have any meetings today between 9:20 and 10:30,habe ich heute zwischen 9:20 und 10:30 irgendwelche Besprechungen,I have any meetings today between 9:20 and 10:30,meeting_schedule
 9527,do i have any meetings today between 9 and 10:15,habe ich heute zwischen 9 und 10:15 Uhr irgendwelche Besprechungen,I have any meetings today between 9 and 10:15 am,meeting_schedule
-9528,do i have any meetings today between 9 and 10,habe ich heute zwischen 9 und 10 irgendwelche Besprechungen,I have some meetings today between 9 and 10,meeting_schedule
+9528,do i have any meetings today between 9 and 10,habe ich heute zwischen 9 und 10 irgendwelche Besprechungen,I have any meetings today between 9 and 10,meeting_schedule
 9529,what time am i meeting with john,um wie viel Uhr treffe ich mich mit John,what time do I meet John,meeting_schedule
 9530,what time am i meeting john,um wie viel Uhr treffe ich John,what time do I meet John,meeting_schedule
 9531,what time is my meeting with fred scheduled for,für welche Uhrzeit ist mein Treffen mit Fred geplant,what time is my meeting with Fred planned,meeting_schedule
@@ -10150,7 +10150,7 @@
 10148,add swimming to my calendar today,füge Schwimmen heute zu meinem Kalender hinzu,add swimming to my calendar today,calendar_update
 10149,i have an appointment on the 5th put it on for 5pm,"ich habe am 5. einen Termin, trage es für 17 Uhr ein","I have an appointment on the 5th, enter it for 5 pm",calendar_update
 10150,"for friday, add a doctor's appointment to my calendar",für Freitag einen Arzttermin in meinen Kalender eintragen,enter a doctor's appointment in my calendar for Friday,calendar_update
-10151,can you add a doctor's appointment to friday's calendar,können Sie einen Arzttermin zum Freitagskalender hinzufügen,you can add a doctor's appointment to the Friday calendar,calendar_update
+10151,can you add a doctor's appointment to friday's calendar,können Sie einen Arzttermin zum Kalender für Freitag hinzufügen,you can add a doctor's appointment to the calendar for Friday,calendar_update
 10152,add to my friday calendar a doctor's appointment,füge meinem Freitagskalender einen Arzttermin hinzu,add a doctor's appointment to my Friday calendar,calendar_update
 10153,add a doctor's appointment to my calendar for friday,trage für Freitag einen Arzttermin in meinen Kalender ein,enter a doctor's appointment in my calendar for Friday,calendar_update
 10154,add to friday's calendar a doctor's appointment,einen Arzttermin zum Freitagskalender hinzufügen,add a doctor's appointment to the Friday calendar,calendar_update
@@ -10487,7 +10487,7 @@
 10485,i need to know why you declined my card yesterday,"ich muss wissen, warum Sie gestern meine Karte abgelehnt haben",I need to know why you rejected my card yesterday,card_declined
 10486,"my card was rejected at the zoo, could you tell me why","Meine Karte wurde im Zoo abgelehnt. Können Sie mir sagen, warum?",My card was declined at the zoo. Can you tell me why?,card_declined
 10487,tell me why my card was declined,"Sagen Sie mir, warum meine Karte abgelehnt wurde",Tell me why my card was declined,card_declined
-10488,"tell me why my card was declined at auto zone, why","sagen Sie mir, warum meine Karte bei Auto Zone abgelehnt wurde, warum","tell me why my card was declined at Auto Zone, why",card_declined
+10488,"tell me why my card was declined at auto zone, why","Sagen Sie mir, warum meine Karte bei Auto Zone abgelehnt wurde, warum","Tell me why my card was declined at Auto Zone, why",card_declined
 10489,i need to know why my credit card transaction was declined,"Ich muss wissen, warum meine Kreditkartentransaktion abgelehnt wurde",I need to know why my credit card transaction was declined,card_declined
 10490,why was my credit card not accepted,Warum wurde meine Kreditkarte nicht akzeptiert?,Why was my credit card not accepted?,card_declined
 10491,i was in target about to buy a chair when my card got declined,"ich war im Target und wollte mir einen Stuhl kaufen, als meine Karte abgelehnt wurde",I was at Target and wanted to buy a chair when my card was declined,card_declined

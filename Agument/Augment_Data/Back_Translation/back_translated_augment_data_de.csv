@@ -77,7 +77,7 @@
 75,Does Jet Blue have restrictions on carry-on luggage?,carry_on
 76,I need to know the carry-on baggage restrictions on United Airlines,carry_on
 77,How much hand luggage can I take with American on a flight to Los Vegas,carry_on
-78,Does Delta have restrictions on carry-on luggage?,carry_on
+78,Does Delta have carry-on baggage restrictions?,carry_on
 79,How much hand luggage can I take on a flight with Jet Blue to Washington D.C.,carry_on
 80,which hand luggage restrictions apply with Singapore Airlines,carry_on
 81,tell me the rules for hand luggage,carry_on
@@ -228,7 +228,7 @@
 226,can you give me a recipe for mashed potatoes,recipe
 227,I need a recipe for Chicken Pot Pie,recipe
 228,what do you need to cook apple pie,recipe
-229,can you find me a recipe for honey ham,recipe
+229,can you give me a recipe for honey ham,recipe
 230,where can I learn to make sushi,recipe
 231,I'm looking for a vegan Italian pasta recipe,recipe
 232,what do you have to do to make sushi,recipe
@@ -411,7 +411,7 @@
 409,"I think we should reserve Papa's regular table on Friday for 6 people, using his name, at around 4:00 pm in the club",restaurant_reservation
 410,Make a reservation for 2 people at Olive Garden today at 5pm,restaurant_reservation
 411,You must reserve a table for 4 at Red Robin under the name Kevin at 7am.,restaurant_reservation
-412,make a reservation for 4 people at the outback steakhouse under the name dave,restaurant_reservation
+412,make a reservation for 4 at the outback steakhouse under the name dave,restaurant_reservation
 413,can you get me a table for 6 at Johnnys,restaurant_reservation
 414,Make a reservation for three people at Prime Rib at 6:30 pm,restaurant_reservation
 415,I have to make a reservation for 3 at Red Robin at 8pm,restaurant_reservation
@@ -440,7 +440,7 @@
 438,I would like to make a reservation for 8 pm at Red Robin for 3 people,restaurant_reservation
 439,Can I reserve a table for 2 at Olive Garden at 8am?,restaurant_reservation
 440,Reserve a table for 5 at Lawry's at 8:00 pm under the name Steve,restaurant_reservation
-441,reserve a reservation for 3 at red lobster under the name steve,restaurant_reservation
+441,book a reservation for 3 at Red Lobster under the name Steve,restaurant_reservation
 442,can you get me a table for 8 at Johnnys,restaurant_reservation
 443,make me a reservation for tomorrow at Happys for Four,restaurant_reservation
 444,make a reservation for 8 pm at the red robin under the name kevin,restaurant_reservation
@@ -1370,7 +1370,7 @@
 1368,I think my luggage has been misplaced or lost,lost_luggage
 1369,Who can I contact if I have lost my luggage,lost_luggage
 1370,I am at lax and my luggage is not,lost_luggage
-1371,I lost my luggage on American Airlines flight AB123 from New York City,lost_luggage
+1371,I lost my luggage on American Airlines flight ab123 from New York City,lost_luggage
 1372,I can't find my luggage!,lost_luggage
 1373,I think my luggage is lost,lost_luggage
 1374,"my luggage is missing, I think",lost_luggage
@@ -1883,7 +1883,7 @@
 1881,I heard that opening a new account will hurt my credit score. Is that true?,improve_credit_score
 1882,How can I improve my credit score?,improve_credit_score
 1883,How can I keep my credit score high?,improve_credit_score
-1884,Would a delay hurt my credit rating?,improve_credit_score
+1884,Would a delay hurt my credit score?,improve_credit_score
 1885,How do I maintain good credit?,improve_credit_score
 1886,How to keep your credit score high,improve_credit_score
 1887,Tell me if opening a new account will hurt my credit score,improve_credit_score
@@ -1947,7 +1947,7 @@
 1945,Are there any interesting activities in Austin?,travel_suggestion
 1946,what sights are there to see in Evans,travel_suggestion
 1947,Where should I spend my free time?,travel_suggestion
-1948,can you tell me what I could do as a tourist in Tokyo,travel_suggestion
+1948,can you tell me what fun tourist things I could do in Tokyo,travel_suggestion
 1949,What is the best place to travel at this time of year,travel_suggestion
 1950,help me roll a dice,roll_dice
 1951,"I would like a 7-sided dice roll, please",roll_dice
@@ -2136,7 +2136,7 @@
 2134,you consider yourself a bot,are_you_a_bot
 2135,I think you are a bot,are_you_a_bot
 2136,I want to know if you are a real person or an AI,are_you_a_bot
-2137,do you know whether you are a human or a computer,are_you_a_bot
+2137,do you know if you are a human or a computer,are_you_a_bot
 2138,prove that you are a person,are_you_a_bot
 2139,I need to know if you are a real person or an AI,are_you_a_bot
 2140,are you alive,are_you_a_bot
@@ -2231,7 +2231,7 @@
 2229,what's on my plan for March 5th,calendar
 2230,what is in my calendar for March 2nd,calendar
 2231,What things are on my calendar for Easter?,calendar
-2232,what's in my calendar for March 11th,calendar
+2232,what is in my calendar for March 11th,calendar
 2233,I have something in my calendar next Sunday,calendar
 2234,"what do I have to do on March 2nd, that's in my calendar",calendar
 2235,What happens on May 3rd,calendar
@@ -2646,7 +2646,7 @@
 2644,Do I need a power adapter in Mexico,plug_type
 2645,I'm leaving the country. What type of plug do I need?,plug_type
 2646,Will my plugs work in Barcelona?,plug_type
-2647,Do I need a plug adapter when I visit Cairo?,plug_type
+2647,"If I visit Cairo, do I need a plug adapter?",plug_type
 2648,which plugs are used in Spain,plug_type
 2649,how do I find out what the sales outlets are like,plug_type
 2650,vaccinations are required for travel to the United Kingdom,vaccines
@@ -2670,7 +2670,7 @@
 2668,Is it advisable to get certain vaccinations before traveling to Argentina?,vaccines
 2669,Is it advisable to get certain vaccinations before traveling to Norway?,vaccines
 2670,Do I need certain vaccinations before I fly to Ethiopia,vaccines
-2671,do I have to get vaccinated before traveling to Kenya,vaccines
+2671,do I need to get vaccinated before traveling to Kenya,vaccines
 2672,Can you tell me if there are any vaccinations I need to get before traveling to South Africa?,vaccines
 2673,I'm going to India. Do I need some vaccinations?,vaccines
 2674,do I have to get vaccinated to travel to Thailand,vaccines
@@ -2727,7 +2727,7 @@
 2725,when will I be paid next,payday
 2726,I got my paycheck this week,payday
 2727,I need to know when I can expect my next paycheck,payday
-2728,When is the date of my last paycheck?,payday
+2728,What is the date of my last paycheck?,payday
 2729,Please let me know the expected payment date of my next paycheck.,payday
 2730,how long is it until payday,payday
 2731,when is my next payday,payday
@@ -2944,13 +2944,13 @@
 2942,is it ok to use brown sugar instead of powdered sugar,ingredient_substitution
 2943,Can I use almond milk instead of rice milk?,ingredient_substitution
 2944,Can I replace milk with eggs in a recipe?,ingredient_substitution
-2945,would it be possible to replace the salt with baking powder,ingredient_substitution
+2945,it would be possible to replace the salt with baking powder,ingredient_substitution
 2946,Can I replace garlic with ginger?,ingredient_substitution
 2947,Is it okay if I use water instead of milk?,ingredient_substitution
 2948,Can I replace yogurt with sour cream?,ingredient_substitution
 2949,I want to replace salt with sugar,ingredient_substitution
 2950,I need a free calendar for April 15th,calendar_update
-2951,I want to delete fishing from my calendar and play football instead,calendar_update
+2951,I want to remove fishing from my calendar and play football instead,calendar_update
 2952,add a farm trip to my calendar for Friday,calendar_update
 2953,cross lunch with Steven off my calendar,calendar_update
 2954,Be sure to add the staff meeting for March 1st at 10am to my calendar,calendar_update
@@ -3307,7 +3307,7 @@
 3305,Is my credit card about to expire?,expiration_date
 3306,how long does it take for my Visa card to expire,expiration_date
 3307,Could you check the expiration date of my credit card?,expiration_date
-3308,In which month does my card expire?,expiration_date
+3308,in which month my card expires,expiration_date
 3309,Tell me the expiration date of my credit card,expiration_date
 3310,"I need to know when my card expires, please",expiration_date
 3311,when does my American Express credit card expire,expiration_date
@@ -3479,7 +3479,7 @@
 3477,I would like to make a transfer,transfer
 3478,I need to transfer ten dollars from my Bank of America account to my Capital One account,transfer
 3479,You need to transfer $500 from my high-tier account to my regular checking account,transfer
-3480,Send money from one account to another,transfer
+3480,Sending money from one account to another,transfer
 3481,Transfer money from one place to another,transfer
 3482,I need to transfer ten dollars from my Bank of America account to my Capital One account,transfer
 3483,please transfer my money,transfer
@@ -3577,7 +3577,7 @@
 3575,from now on I will call you Ishmael,change_ai_name
 3576,can I change your name to Buttercup,change_ai_name
 3577,can I call you Chris,change_ai_name
-3578,can I change your name to Bob,change_ai_name
+3578,Can I change your name to Bob?,change_ai_name
 3579,I want to call you my house from now on,change_ai_name
 3580,can I start calling you Dave,change_ai_name
 3581,x is what I call you now,change_ai_name
@@ -3983,7 +3983,7 @@
 3981,the reviews for Applebee's are good,restaurant_reviews
 3982,What people say about Village Inn,restaurant_reviews
 3983,Are there any positive reviews for Wendy's?,restaurant_reviews
-3984,how good are the reviews for Peter Luger Steakhouse,restaurant_reviews
+3984,How good are the reviews for Peter Luger Steakhouse,restaurant_reviews
 3985,McDonalds has good reviews,restaurant_reviews
 3986,Check out the reviews for Macaroni Grill,restaurant_reviews
 3987,how good are the reviews for Chic-Fil-A,restaurant_reviews
@@ -4032,7 +4032,7 @@
 4030,"I would like to change the PIN of my savings account, please",pin_change
 4031,change the PIN of my Amex account to 1234,pin_change
 4032,is there a way to change my PIN number for my savings account,pin_change
-4033,change my Amex PIN to 1234,pin_change
+4033,exchange my Amex PIN for 1234,pin_change
 4034,can you change the PIN of my 1st national account to 4892?,pin_change
 4035,I want a new PIN for my savings account,pin_change
 4036,change the PIN on my Capital One account to 1234,pin_change
@@ -4282,7 +4282,7 @@
 4280,Can I rent a car in Boston from March 2-4?,car_rental
 4281,Please check if I can rent a car in Houston from March 25th to 29th,car_rental
 4282,could I rent a car in Dallas from April 1st to 10th,car_rental
-4283,I want to rent a vehicle in San Antonio from November 1st to 15th and need a van for 15 people,car_rental
+4283,I would like to rent a vehicle in San Antonio from November 1st to 15th and need a van for 15 people,car_rental
 4284,how can i rent a car in boston,car_rental
 4285,Can you help me book a rental car in Seattle?,car_rental
 4286,"I will be in Aiken from May 12th to 16th, I need to rent a car",car_rental
@@ -4320,7 +4320,7 @@
 4318,how many vacation days do I have left,pto_balance
 4319,Tell me how many vacation days I have left,pto_balance
 4320,how many vacation days do I have left in the year,pto_balance
-4321,tell me the number of vacation days I have,pto_balance
+4321,Please tell me the number of vacation days I have,pto_balance
 4322,check how much PTO I have left,pto_balance
 4323,how many days of paid vacation do I have left,pto_balance
 4324,you can find out how many vacation days I have left,pto_balance
@@ -4628,7 +4628,7 @@
 4626,what name should I address you by,what_is_your_name
 4627,What's your name,what_is_your_name
 4628,I would like your name,what_is_your_name
-4629,what name should I call you,what_is_your_name
+4629,by what name shall I call you,what_is_your_name
 4630,Is there a way you like to be called?,what_is_your_name
 4631,What name should I use when referring to you?,what_is_your_name
 4632,State your name,what_is_your_name
@@ -4768,7 +4768,7 @@
 4766,I am grateful to you,thank_you
 4767,Thank you for your time,thank_you
 4768,"it will work, good work!",thank_you
-4769,Thanks for the info,thank_you
+4769,Thank you for informing me,thank_you
 4770,I am grateful for your help!,thank_you
 4771,"good answer, thanks for providing",thank_you
 4772,I can't thank you enough,thank_you
@@ -5418,7 +5418,7 @@
 5416,What is the minimum payment I can make on my electricity bill?,min_payment
 5417,Tell me the minimum amount for my bill,min_payment
 5418,I would like to know what my minimum payment for the water bill is,min_payment
-5419,pay the minimum payment for the M and T invoice,min_payment
+5419,pay the minimum payment for the M and T bill,min_payment
 5420,Please give me the minimum payment amount for my Sprint phone bill,min_payment
 5421,How small can my payment be on my Chase card bill?,min_payment
 5422,Please tell me the minimum payment amount of the invoice,min_payment
@@ -5538,7 +5538,7 @@
 5536,Tell me the conversion between tablespoons and cups,measurement_conversion
 5537,how many feet are 50 yards,measurement_conversion
 5538,how many meters are 10 millimeters,measurement_conversion
-5539,"Tell me, how many kilos are ten pounds?",measurement_conversion
+5539,"Tell me, how many kilos is ten pounds?",measurement_conversion
 5540,Convert inches to cm,measurement_conversion
 5541,How do you convert inches to centimeters?,measurement_conversion
 5542,"how many grams are 15 ounces, please",measurement_conversion
@@ -5555,7 +5555,7 @@
 5553,can you access my W-2,w2
 5554,How do I get a personal W2 form?,w2
 5555,I would like to receive the forms for my W2 form,w2
-5556,Can you tell me which form employers have to send you for taxes and where I can get it?,w2
+5556,can you tell me which form employers have to send you for taxes and where I can get it,w2
 5557,Who has the tax form that shows my salary?,w2
 5558,can you help me find my W-2,w2
 5559,where can I get a W2 form,w2
@@ -6046,7 +6046,7 @@
 6044,includes the central time zone Austin,timezone
 6045,what time zone is Los Angeles in,timezone
 6046,what time zone is New York in,timezone
-6047,Reno's time zone is something,timezone
+6047,Reno's time zone is what,timezone
 6048,in which time zone is China,timezone
 6049,what time zone is London in,timezone
 6050,is it possible to order additional checkbooks for my Chase bank account?,order_checks
@@ -6431,7 +6431,7 @@
 6429,"my card was stolen, I have to report it",report_lost_card
 6430,someone stole my Mastercade,report_lost_card
 6431,I can't find my Mastercard and would like to report it as lost.,report_lost_card
-6432,where can I report the loss of a Discover credit card,report_lost_card
+6432,Where can I report the loss of a Discover credit card?,report_lost_card
 6433,Report card loss,report_lost_card
 6434,I need to replace my lost card,report_lost_card
 6435,my Visa card was stolen,report_lost_card
@@ -6440,7 +6440,7 @@
 6438,I have to report the loss of my card,report_lost_card
 6439,"my bronze card is missing, I would like to report it as lost",report_lost_card
 6440,I can't find my insurance card and would like to report it as lost,report_lost_card
-6441,I lost my trading card and need to report it as lost,report_lost_card
+6441,I lost my Commerce card and need to report it as lost,report_lost_card
 6442,someone stole my Discover card,report_lost_card
 6443,I lost my card. What can I do?,report_lost_card
 6444,"I would like to report my card as stolen, please",report_lost_card
@@ -6473,7 +6473,7 @@
 6471,Are there international transaction fees for my Bank of America card?,international_fees
 6472,Are there any fees for using my card in Tampa?,international_fees
 6473,does visa charge transaction fees in the UK,international_fees
-6474,Will my Chase card incur transaction fees when I am in Tokyo?,international_fees
+6474,Will my Chase card incur transaction fees when I'm in Tokyo?,international_fees
 6475,Are there any fees for using my Amex in England,international_fees
 6476,Will I be charged if I use the card in Australia?,international_fees
 6477,Will I be charged if I use my card in France?,international_fees
@@ -6736,7 +6736,7 @@
 6734,answer me in French,change_language
 6735,I can give you instructions in Japanese,change_language
 6736,change the language setting to German,change_language
-6737,can you speak French,change_language
+6737,Can you speak French?,change_language
 6738,speak English,change_language
 6739,can you talk to me in Italian,change_language
 6740,Change the language you are using to American English,change_language
@@ -7209,7 +7209,7 @@
 7207,set an alarm for 5 pm,alarm
 7208,please set the alarm for me,alarm
 7209,set an alarm,alarm
-7210,I want to be woken up tomorrow at 9 am,alarm
+7210,I want to be woken up at 9 am tomorrow,alarm
 7211,I would like a new alarm clock that is set to 6 am,alarm
 7212,set the alarm to ring at 9 am tomorrow,alarm
 7213,Set an alarm to go to sleep and one to wake up.,alarm
@@ -7493,7 +7493,7 @@
 7491,I need a credit increase of $1000,credit_limit_change
 7492,is it possible to increase the credit limit on my Discover card,credit_limit_change
 7493,What do I need to do to change my credit limit?,credit_limit_change
-7494,How would I increase my credit spending by $2500,credit_limit_change
+7494,How would I increase my loan spending by $2500,credit_limit_change
 7495,I want to change my credit limit,credit_limit_change
 7496,"I want to increase my credit limit at Bank of America, can you help me",credit_limit_change
 7497,can I increase the credit limit on my Old Navy card,credit_limit_change
@@ -7530,10 +7530,10 @@
 7528,Please transfer half of my balance to another account,transfer
 7529,can you transfer my money to my savings account,transfer
 7530,make a transfer from my checking account to my savings account,transfer
-7531,transfer $100 from my Vanguard money market to my Wells Fargo savings account,transfer
-7532,I need to transfer $200 from my Long Island savings account to my Chase checking account,transfer
+7531,send $100 from my Vanguard money market to my Wells Fargo savings account,transfer
+7532,I need to transfer $200 from my Long Island savings account to my Chase account,transfer
 7533,Send seven thousand dollars from my BBC money market to my T-Rowe Price money market,transfer
-7534,I need 2000 to transfer from my Mellon Bank savings account to my Chase account,transfer
+7534,I need 2000 to go from my Mellon Bank savings account to my Chase account,transfer
 7535,Transfer $100 from my savings account to my checking account,transfer
 7536,Transfer $1000 from my First National Bank to my savings account at Bethpage Federal Credit Union,transfer
 7537,Withdraw $400 from my checking account and deposit it into my emergency savings account,transfer
@@ -8035,7 +8035,7 @@
 8033,You know the reservation I have on Friday at 2:00 p.m. I confirm it.,confirm_reservation
 8034,I would like to confirm the reservation for Friday at 2:00 p.m.,confirm_reservation
 8035,Check if I am still booked for 6:30 pm at Gusto Handcrafted Pasta & Pizza,confirm_reservation
-8036,is my dinner reservation for handmade pasta and pizza from Gusto at 6:30 pm still valid,confirm_reservation
+8036,is my reservation for dinner with handmade pasta and pizza from Gusto at 6:30 pm still valid,confirm_reservation
 8037,Please call Gusto Handcrafted Pasta & Pizza and ask about the status of my reservation for 6:30 pm,confirm_reservation
 8038,Can you check if I still have a reservation at Gusto Handcrafted Pasta & Pizza for 6:30 p.m.?,confirm_reservation
 8039,Please confirm my dinner reservation at Gusto Handcrafted Pasta & Pizza at 6:30 pm,confirm_reservation
@@ -8190,7 +8190,7 @@
 8188,What are my last purchases,transactions
 8189,Please notify me of all purchases made with my Hy-Vee card for this billing period.,transactions
 8190,Please let me review all items on my Mastercard from this billing period,transactions
-8191,Please let me know this month's transactions with my visa,transactions
+8191,Please inform me of this month's transactions with my visa,transactions
 8192,show me all transactions for the current account statement,transactions
 8193,I want to see this month's transactions,transactions
 8194,how many Paypal transactions did I have last week,transactions
@@ -8591,7 +8591,7 @@
 8589,what is the annual interest rate of my card,apr
 8590,what is the effective annual interest rate for my American Express,apr
 8591,I want to know the annual interest rate of my Capital One card,apr
-8592,How does the effective annual interest rate of my card compare to other,apr
+8592,How does the effective annual interest rate of my card compare to others,apr
 8593,is the annual interest rate of my card valid,apr
 8594,Can you tell me what the annual interest rate on my card is?,apr
 8595,What is the annual interest rate on my card and is it good?,apr
@@ -8749,7 +8749,7 @@
 8747,Can I make an appointment to have my tires checked?,schedule_maintenance
 8748,can you please make an appointment for me to have my tires checked,schedule_maintenance
 8749,Make an appointment to check my tires,schedule_maintenance
-8750,Can you help me find someone to look at my car's engine because the light is on?,schedule_maintenance
+8750,Can you help me find someone to look at my car engine because the light is on,schedule_maintenance
 8751,I need to make an appointment to have my car's tires inspected,schedule_maintenance
 8752,"my car needs to be serviced, but I don't know if I can make an appointment for it",schedule_maintenance
 8753,Is there a way to change my oil change date?,schedule_maintenance
@@ -9527,7 +9527,7 @@
 9525,I have any meetings today between 9 and 10:30 am,meeting_schedule
 9526,I have any meetings today between 9:20 and 10:30,meeting_schedule
 9527,I have any meetings today between 9 and 10:15 am,meeting_schedule
-9528,I have some meetings today between 9 and 10,meeting_schedule
+9528,I have any meetings today between 9 and 10,meeting_schedule
 9529,what time do I meet John,meeting_schedule
 9530,what time do I meet John,meeting_schedule
 9531,what time is my meeting with Fred planned,meeting_schedule
@@ -10150,7 +10150,7 @@
 10148,add swimming to my calendar today,calendar_update
 10149,"I have an appointment on the 5th, enter it for 5 pm",calendar_update
 10150,enter a doctor's appointment in my calendar for Friday,calendar_update
-10151,you can add a doctor's appointment to the Friday calendar,calendar_update
+10151,you can add a doctor's appointment to the calendar for Friday,calendar_update
 10152,add a doctor's appointment to my Friday calendar,calendar_update
 10153,enter a doctor's appointment in my calendar for Friday,calendar_update
 10154,add a doctor's appointment to the Friday calendar,calendar_update
@@ -10487,7 +10487,7 @@
 10485,I need to know why you rejected my card yesterday,card_declined
 10486,My card was declined at the zoo. Can you tell me why?,card_declined
 10487,Tell me why my card was declined,card_declined
-10488,"tell me why my card was declined at Auto Zone, why",card_declined
+10488,"Tell me why my card was declined at Auto Zone, why",card_declined
 10489,I need to know why my credit card transaction was declined,card_declined
 10490,Why was my credit card not accepted?,card_declined
 10491,I was at Target and wanted to buy a chair when my card was declined,card_declined
