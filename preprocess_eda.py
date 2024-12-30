@@ -16,6 +16,7 @@ import json
 import string
 import os
 import re
+from sklearn.utils import shuffle
 from sklearn.preprocessing import OneHotEncoder
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -81,7 +82,9 @@ def read_data(path=DATA_PATH):
     # number of classes
     class_length = len(train_data.iloc[:, 1].unique())
 
-    return train_data, val_data, test_data, class_length
+    return shuffle(train_data, random_state=0).reset_index(drop=True), \
+        shuffle(val_data, random_state=0).reset_index(drop=True), \
+        test_data, class_length
 
 
 def records_per_set(train, val, test, title):
@@ -328,7 +331,7 @@ class eda():
             ax = word_freq.plot(20, cumulative=False, show=False)
             ax.set_xlabel("Words", fontweight="bold")
             ax.set_ylabel("Counts", fontweight="bold")
-            ax.set_title(f"20 Highest Words Frequency for {index} - {title}", 
+            ax.set_title(f"20 Highest Words Frequency for {index} - {title}",
                          fontweight="bold")
             ax.legend(["Counts"])
             ax.figure.savefig(os.path.join(
@@ -381,6 +384,14 @@ class eda():
             plt.close()
         print("\tCreated & Saved.")
         return word_cloud_all_class
+    
+    def vocabulary(self):
+        """counts the unique number of words
+        
+        Return:
+            number of unique words"""
+
+        return len(list(set(" ".join(self.data["Query"]).lower().split())))
 
 
 # getting the data
