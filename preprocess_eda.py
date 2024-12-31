@@ -17,6 +17,7 @@ import string
 import os
 import re
 from sklearn.utils import shuffle
+from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
@@ -118,6 +119,36 @@ def records_per_set(train, val, test, title):
                    figsize=(8, 8), title=f"{title}",
                    autopct="%1.1f%%")
     ax.figure.savefig(os.path.join(PATH, f"{title}_ratios.png"))
+
+
+def load_augment(filename, data):
+    """reads the csv files and concatenates with entire non-augmented data.
+    The functions also splits the combined data into train, validation and testing, 
+    with 50, 20, and 30 percente respectively.
+
+    Args:
+        filename: file to be loaded
+        data: the original data
+
+    Return:
+        train: train set - 50 percentage
+        val: validation set - 20 percentage
+        test: testing set - 30 percentage
+    """
+    # reading the file
+    df = pd.read_csv(filename, index_col=0)
+    # combining with whole data
+    combined_df = pd.concat([df, data], ignore_index=True)
+
+    # splitting the combined data
+    train_temp, test = train_test_split(combined_df,
+                                        test_size=0.30,
+                                        shuffle=True)
+    train, val = train_test_split(train_temp,
+                                  train_size=float(5/7),
+                                  shuffle=True)
+
+    return train, val, test
 
 
 class pre_process():
