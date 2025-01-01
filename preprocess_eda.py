@@ -131,10 +131,12 @@ def load_augment(filename, data):
         data: the original data
 
     Return:
+        df: the read csv file without splitting
         train: train set - 50 percentage
         val: validation set - 20 percentage
         test: testing set - 30 percentage
     """
+    
     # reading the file
     df = pd.read_csv(filename, index_col=0)
     # combining with whole data
@@ -148,7 +150,7 @@ def load_augment(filename, data):
                                   train_size=float(5/7),
                                   shuffle=True)
 
-    return train, val, test
+    return df, train, val, test
 
 
 class pre_process():
