@@ -241,7 +241,7 @@ def model_history(x, y,
                         batch_size=batch_size,
                         epochs=epochs,
                         callbacks=[checkpoint, csvlog],
-                        verbose=1)
+                        verbose=2)
 
     return history
 
