@@ -5,7 +5,8 @@ and precesion graphs for validation and training."""
 
 # importing os package
 import os
-import tensorflow as tf
+# import tensorflow as tf
+import keras
 import matplotlib.pyplot as plt
 import lstm
 
@@ -40,11 +41,11 @@ def single_lstm_model(embedding_seq_length,
 
     # optimizer algorithms dict
     optimizer_dict = {
-        "SGD": tf.keras.optimizers.SGD(learning_rate=lr),
-        "Adam": tf.keras.optimizers.Adam(learning_rate=lr),
-        "Nadam": tf.keras.optimizers.Nadam(learning_rate=lr),
-        "Adamax": tf.keras.optimizers.Adamax(learning_rate=lr),
-        "RMSprop": tf.keras.optimizers.RMSprop(learning_rate=lr)
+        "SGD": keras.optimizers.SGD(learning_rate=lr),
+        "Adam": keras.optimizers.Adam(learning_rate=lr),
+        "Nadam": keras.optimizers.Nadam(learning_rate=lr),
+        "Adamax": keras.optimizers.Adamax(learning_rate=lr),
+        "RMSprop": keras.optimizers.RMSprop(learning_rate=lr)
     }
 
     # object for the lstm models
@@ -59,10 +60,10 @@ def single_lstm_model(embedding_seq_length,
                                activation=activation)
     # single lstm model compiling
     model.compile(optimizer=optimizer_dict[optimizer],
-                  loss=tf.keras.losses.CategoricalCrossentropy(),
-                  metrics=[tf.keras.metrics.Accuracy(),
-                           tf.keras.metrics.F1Score(),
-                           tf.keras.metrics.Precision()])
+                  loss=keras.losses.CategoricalCrossentropy(),
+                  metrics=[keras.metrics.Accuracy(),
+                           keras.metrics.F1Score(threshold=0.5),
+                           keras.metrics.Precision()])
 
     return model
 
@@ -101,11 +102,11 @@ def stacked_lstm_model(embedding_seq_length,
 
     # optimizer algorithms dict
     optimizer_dict = {
-        "SGD": tf.keras.optimizers.SGD(learning_rate=lr),
-        "Adam": tf.keras.optimizers.Adam(learning_rate=lr),
-        "Nadam": tf.keras.optimizers.Nadam(learning_rate=lr),
-        "Adamax": tf.keras.optimizers.Adamax(learning_rate=lr),
-        "RMSprop": tf.keras.optimizers.RMSprop(learning_rate=lr)
+        "SGD": keras.optimizers.SGD(learning_rate=lr),
+        "Adam": keras.optimizers.Adam(learning_rate=lr),
+        "Nadam": keras.optimizers.Nadam(learning_rate=lr),
+        "Adamax": keras.optimizers.Adamax(learning_rate=lr),
+        "RMSprop": keras.optimizers.RMSprop(learning_rate=lr)
     }
 
     # object for the lstm models
@@ -122,10 +123,10 @@ def stacked_lstm_model(embedding_seq_length,
                                 activation=activation)
     # single lstm model compiling
     model.compile(optimizer=optimizer_dict[optimizer],
-                  loss=tf.keras.losses.CategoricalCrossentropy(),
-                  metrics=[tf.keras.metrics.Accuracy(),
-                           tf.keras.metrics.F1Score(),
-                           tf.keras.metrics.Precision()])
+                  loss=keras.losses.CategoricalCrossentropy(),
+                  metrics=[keras.metrics.Accuracy(),
+                           keras.metrics.F1Score(threshold=0.5),
+                           keras.metrics.Precision()])
 
     return model
 
@@ -166,11 +167,11 @@ def convo_lstm_model(embedding_seq_length,
 
     # optimizer algorithms dict
     optimizer_dict = {
-        "SGD": tf.keras.optimizers.SGD(learning_rate=lr),
-        "Adam": tf.keras.optimizers.Adam(learning_rate=lr),
-        "Nadam": tf.keras.optimizers.Nadam(learning_rate=lr),
-        "Adamax": tf.keras.optimizers.Adamax(learning_rate=lr),
-        "RMSprop": tf.keras.optimizers.RMSprop(learning_rate=lr)
+        "SGD": keras.optimizers.SGD(learning_rate=lr),
+        "Adam": keras.optimizers.Adam(learning_rate=lr),
+        "Nadam": keras.optimizers.Nadam(learning_rate=lr),
+        "Adamax": keras.optimizers.Adamax(learning_rate=lr),
+        "RMSprop": keras.optimizers.RMSprop(learning_rate=lr)
     }
 
     # object for the lstm models
@@ -190,10 +191,10 @@ def convo_lstm_model(embedding_seq_length,
 
     # single lstm model compiling
     model.compile(optimizer=optimizer_dict[optimizer],
-                  loss=tf.keras.losses.CategoricalCrossentropy(),
-                  metrics=[tf.keras.metrics.Accuracy(),
-                           tf.keras.metrics.F1Score(),
-                           tf.keras.metrics.Precision()])
+                  loss=keras.losses.CategoricalCrossentropy(),
+                  metrics=[keras.metrics.Accuracy(),
+                           keras.metrics.F1Score(threshold=0.5),
+                           keras.metrics.Precision()])
 
     return model
 
@@ -224,13 +225,13 @@ def model_history(x, y,
     """
 
     # checkpoints
-    checkpoint = tf.keras.callbacks.ModelCheckpoint(filepath=os.path.join(path,
+    checkpoint = keras.callbacks.ModelCheckpoint(filepath=os.path.join(path,
                                                                           f"{filename}.keras"),
                                                     monitor="val_accuracy",
                                                     mode="max",
                                                     save_best_only=True)
     # csvlogger
-    csvlog = tf.keras.callbacks.CSVLogger(filename=os.path.join(path,
+    csvlog = keras.callbacks.CSVLogger(filename=os.path.join(path,
                                                                 f"{filename}.csv"),
                                           separator=",",
                                           append=False)
@@ -241,7 +242,7 @@ def model_history(x, y,
                         batch_size=batch_size,
                         epochs=epochs,
                         callbacks=[checkpoint, csvlog],
-                        verbose=2)
+                        verbose=1)
 
     return history
 

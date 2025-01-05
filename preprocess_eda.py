@@ -188,7 +188,7 @@ class pre_process():
             lambda query: re.sub(r"\w*\d\w*", "", query))
         # removing special characters
         self.x_data = self.x_data.apply(lambda query: re.sub(
-            r"[-()\"#/@;:<>{}`+=~|.!?,]", "", query))
+            r"[-()\"#/@;:<>{}`+=~|.!$^?,%~&*]", "", query))
         # removing punctuation from
         self.x_data = self.x_data.apply(lambda query:
                                         query.translate(str.maketrans("",
