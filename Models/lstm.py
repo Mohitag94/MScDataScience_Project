@@ -62,7 +62,7 @@ class models():
         else:
             model.add(keras.layers.Embedding(self.vocab_size+2,
                                              self.embedding_seq_length,
-                                             trainable="True",
+                                             trainable="False",
                                              weights=self.weights))
         return model
 
