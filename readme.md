@@ -24,37 +24,38 @@ Purpose: To identify which data augmentation method performs well over which mod
 [Intent Classification - UCL](https://archive.ics.uci.edu/dataset/570/clinc150)
 
 #### Project Structure 
-preprocess_eda.py --- reads the dataset, and has prepocessing class and exploring data class 
-lstm.py --- builds the three models, along with hypermodel for tuning 
-train_lstm.py ---builds and compiles a model based on given parameters
-eda.py ---data augmentaion file for easy data augmentation method
-back_translation.py ---data augmentation file for back translation 
-main_part_1.ipynb ---calls the files and reads, preprocess and explores the data, finds the hyperparameter and trains model based on them, finally augments the data
-main_part_2.ipynb ---reads eda's augmented data, trains them on hyperparameter found on main_part_1.ipynb
-main_part_3.ipynb ---reads back translated augmented data, trains them on hyperparameter found on main_part_1.ipynb
+preprocess_eda.py --- reads the dataset, and has prepocessing class and exploring data class </br>
+lstm.py --- builds the three models, along with hypermodel for tuning </br>
+train_lstm.py ---builds and compiles a model based on given parameters </br>
+eda.py ---data augmentaion file for easy data augmentation method </br>
+back_translation.py ---data augmentation file for back translation </br>
+main_part_1.ipynb ---calls the files and reads, preprocess and explores the data, finds the hyperparameter and trains model based on them, finally augments the data </br>
+main_part_2.ipynb ---reads eda's augmented data, trains them on hyperparameter found on main_part_1.ipynb </br>
+main_part_3.ipynb ---reads back translated augmented data, trains them on hyperparameter found on main_part_1.ipynb </br>
 
-Note: The model is saved outside the git directory.
+Note: The model is saved outside the git directory.</br>
+
 ##### Directories
-Agument ---stores all the augmented py file and augmented data
-Plots ---holds all the plots
+Agument ---stores all the augmented py file and augmented data </br>
+Plots ---holds all the plots </br>
 
 #### Required Packages
-pandas.2.2.2
-matplotlib 
-numpy.1.26.4
-sklearn.1.5.0
-keras.3.6.0 
-tensorflow.2.17.0
-keras-tuner.1.4.7
-wordcloud.1.9.3
-nltk.3.8.1
-deep-translator.1.11.4
+pandas.2.2.2 </br>
+matplotlib </br>
+numpy.1.26.4 </br>
+sklearn.1.5.0 </br>
+keras.3.6.0 </br>
+tensorflow.2.17.0 </br>
+keras-tuner.1.4.7 </br>
+wordcloud.1.9.3 </br>
+nltk.3.8.1 </br> 
+deep-translator.1.11.4 </br>
 
 #### Results 
-Single LSTM model worked best among the three model on both augmented and non-augmented data. 
-In term of precision, the augmentation method, easy data augmentation give better reading for Single-LSTM model, while for f1 score back translation worked better.
+Single LSTM model worked best among the three model on both augmented and non-augmented data. </br>
+In term of precision, the augmentation method, easy data augmentation give better reading for Single-LSTM model, while for f1 score back translation worked better. </br>
 
 #### Future Works 
-1. Higher number of epochs can be used to train the single-lstm model.
-2. GAN can be used for data augmentation.
-3. tf-idf can be used in text vectorization layer.
+1. Higher number of epochs can be used to train the single-lstm model. </br>
+2. GAN can be used for data augmentation. </br>
+3. tf-idf can be used in text vectorization layer. </br>
